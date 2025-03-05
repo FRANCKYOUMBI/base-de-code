@@ -69,7 +69,7 @@ function AuthStateHandler({ children }: { children: React.ReactNode }) {
   if (isChecking || status === 'loading') {
     return (
       <div className="fixed inset-0 flex items-center justify-center bg-white dark:bg-gray-900">
-        <Loader size="lg" variant="spinner" className="text-primary" />
+        <Loader size="lg" variant="spinner" className="text-primary" />      
       </div>
     );
   }
