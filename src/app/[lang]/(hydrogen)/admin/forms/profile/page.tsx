@@ -30,7 +30,6 @@ export default function MyAccountPage() {
   const [isLoading, setIsLoading] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
 
-
   useEffect(() => {
     const loadPurchaseData = async () => {
 
