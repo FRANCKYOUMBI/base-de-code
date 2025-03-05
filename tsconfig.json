@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "paths": {
+      "@/*": ["src/*"],
+      "@public/*": ["public/*"],
+      "@ui/*": ["./src/isomorphic-core/ui/*"],
+      "@components/*": ["./src/isomorphic-core/components/*"],
+      "@shared/*": ["./src/isomorphic-core/shared/*"],
+      "@hooks/*": ["./src/isomorphic-core/hooks/*"],
+      "@utils/*": ["./src/isomorphic-core/utils/*"],
+      "@layouts/*": ["./src/isomorphic-core/layouts/*"]
+    },
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "extends": "./nextjs.json",
+  "include": [
+    ".",
+    "next-env.d.ts",
+    "additional.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.cjs",
+    "**/*.mjs",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": ["dist", "build", "node_modules"]
+}
