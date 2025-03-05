@@ -72,7 +72,7 @@ export const berylliumMenuItems: MenuItemsType[] = [
         href: routes.admin,
         icon: LuLayoutDashboard,
         isCurrent: (pathname: string) => {
-          return pathname === routes.admin|| pathname === "/fr" + routes.admin;
+          return pathname === routes.admin || pathname === "/fr" + routes.admin;
         },
       },
     ],

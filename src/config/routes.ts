@@ -35,10 +35,10 @@ export const routes = {
     dashboard: "/dashboard",
     notFound: "/not-found",
     profile: {
-        view: "/forms/profile",
-        profileSettings: "/forms/profile-settings",
-        notificationPreference: "/forms/profile-settings/notification",
-        personalInformation: "/forms/profile-settings/profile",
-        newsletter: "/forms/newsletter",
+        view: "/admin/forms/profile",
+        profileSettings: "/admin/forms/profile-settings",
+        notificationPreference: "/admin/forms/profile-settings/notification",
+        personalInformation: "/admin/forms/profile-settings/profile",
+        newsletter: "/admin/forms/newsletter",
     }
 }

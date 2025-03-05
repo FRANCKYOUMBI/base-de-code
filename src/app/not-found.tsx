@@ -1,16 +1,25 @@
+'use client';
+
 import Link from 'next/link';
 import Image from 'next/image';
 import { Title, Button } from 'rizzui';
 import { PiHouseLineBold } from 'react-icons/pi';
 import NotFoundImg from '@public/not-found.png';
-import { siteConfig } from '@/components/site.config';
 import SocialItems from '@/utils/social-shares';
+import { siteConfig } from '@/components/site.config';
+import { SessionProvider, useSession } from 'next-auth/react';
 
-export default function NotFound() {
+function NotFoundContent() {
+  const { status } = useSession();
+
+  const getHomeRoute = () => {
+    return status === 'authenticated' ? '/admin' : '/';
+  };
+
   return (
     <div className="flex min-h-screen flex-col bg-[#F8FAFC]">
       <div className="sticky top-0 z-40 flex justify-center py-5 backdrop-blur-lg lg:backdrop-blur-none xl:py-10">
-        <Link href="/">
+        <Link href={getHomeRoute()}>
           <Image
             src={siteConfig.logo}
             alt={siteConfig.title}
@@ -39,7 +48,7 @@ export default function NotFound() {
             <br className="hidden sm:inline-block" />
             mailing list or follow us on Facebook for get latest update.
           </p>
-          <Link href={'/'}>
+          <Link href={getHomeRoute()}>
             <Button
               as="span"
               size="xl"
@@ -54,5 +63,13 @@ export default function NotFound() {
       </div>
       <SocialItems />
     </div>
+  );
+}
+
+export default function NotFound() {
+  return (
+    <SessionProvider>
+      <NotFoundContent />
+    </SessionProvider>
   );
 }

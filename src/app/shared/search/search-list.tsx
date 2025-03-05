@@ -25,9 +25,9 @@ interface SearchItem {
 }
 
 const searchItems: SearchItem[] = [
-  // { title: 'Profile Settings', href: routes.view.profile },
-  //   { title: 'Notification Preferences', href: routes.notificationPreference },
+  { title: 'Profile Settings', href: routes.profile.view },
   { title: 'Personal Information', href: routes.profile.personalInformation },
+  //   { title: 'Notification Preferences', href: routes.notificationPreference },
   // { title: 'Newsletter', href: routes.newsletter },
 ];
 

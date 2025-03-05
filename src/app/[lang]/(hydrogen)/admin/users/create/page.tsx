@@ -6,11 +6,11 @@ import PageHeader from "@/components/page-header";
 import { metaObject } from "@/components/site.config";
 
 export const metadata = {
-  ...metaObject("Create a Category"),
+  ...metaObject("Add user"),
 };
 
 const pageHeader = {
-  title: "Ajouter un Utilisateur",
+  title: "Ajouter un utilisateur",
   breadcrumb: [
     {
       href: routes.admin,
