@@ -7,6 +7,7 @@ import { useState } from 'react';
 import { User } from 'next-auth';
 import { signOut, useSession } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
+import toast from 'react-hot-toast';
 
 type LoadingState = 'admin' | 'logout' | null;
 
@@ -38,8 +39,33 @@ export default function AlreadyAuthenticatedModal() {
                 callbackUrl: routes.home
             });
             await closeModal();
+            toast.success(
+                <div className="rounded-md p-4">
+                    <div className="flex">
+                        <div className="ml-3">
+                            <h3 className="text-sm font-medium text-green-800">
+                                Déconnexion réussie !
+                            </h3>
+                        </div>
+                    </div>
+                </div>,
+                {
+                    duration: 5000,
+                }
+            );
         } catch (error) {
             console.error('Logout error:', error);
+            toast.error(
+                <div className="rounded-md p-4">
+                    <div className="flex">
+                        <div className="ml-3">
+                            <h3 className="text-sm font-medium text-red-800">
+                                Erreur lors de la déconnexion !
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            );
         } finally {
             setLoading(null);
         }

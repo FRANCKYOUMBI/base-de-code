@@ -1,6 +1,6 @@
 'use client';
 
-import { SessionProvider, signOut, useSession } from 'next-auth/react';
+import { SessionProvider, useSession } from 'next-auth/react';
 import { useModal } from '@/components/modal-views/use-modal';
 import AuthRequiredView from '@/app/[lang]/auth/login/auth_modal';
 import { useEffect, useState } from 'react';
@@ -8,6 +8,7 @@ import { createContext, useContext } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
 import { useSearchParams } from 'next/navigation';
 import { Loader } from 'rizzui';
+import AlreadyAuthenticatedModal from '@/app/[lang]/auth/login/modal_already_authenicated_user';
 
 const AuthModalContext = createContext<{
 
@@ -27,14 +28,17 @@ function AuthStateHandler({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     const checkAuthStatus = async () => {
-      // Attendre que la session soit chargée
       if (status === 'loading') return;
 
-      // Vérifier l'authentification et rediriger si nécessaire
+      // Vérifier si on est sur la page de login
+      if (pathname.includes('/auth/login')) {
+        setIsChecking(false);
+        return;
+      }
+
       if (status === 'authenticated' && session?.user) {
         // @ts-ignore
         const token = session?.user?.accessToken as string;
-        
         if (token && (pathname === '/' || pathname === '')) {
           setIsChecking(false);
           window.location.replace('/en/admin');
@@ -42,7 +46,7 @@ function AuthStateHandler({ children }: { children: React.ReactNode }) {
         }
       }
 
-      // Gérer la modale d'authentification
+      // Ne montrer AuthRequiredView que si on n'est pas sur la page de login
       if (showAuthModal === 'true' && status === 'unauthenticated') {
         openModal({
           view: <AuthRequiredView />,
@@ -80,21 +84,33 @@ export default function AuthProvider({
   children: React.ReactNode;
   session: any;
 }): React.ReactNode {
+  return (
+    <SessionProvider session={session}>
+      <AuthModalWrapper>{children}</AuthModalWrapper>
+    </SessionProvider>
+  );
+}
+
+function AuthModalWrapper({ children }: { children: React.ReactNode }) {
   const { openModal } = useModal();
+  const { data: currentSession, status } = useSession();
 
   const showAuthModal = () => {
-    openModal({
-      view: <AuthRequiredView />,
-      size: 'md',
-      className: 'fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50 backdrop-blur-sm',
-    });
+    // @ts-ignore
+    if (status === 'authenticated' && currentSession?.user?.accessToken) {
+      openModal({
+        view: <AlreadyAuthenticatedModal />,
+        size: 'md',
+        className: 'fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50 backdrop-blur-sm',
+      });
+    } else {
+      window.location.replace('/auth/login');
+    }
   };
 
   return (
-    <SessionProvider session={session}>
-      <AuthModalContext.Provider value={{ showAuthModal }}>
-        <AuthStateHandler>{children}</AuthStateHandler>
-      </AuthModalContext.Provider>
-    </SessionProvider>
+    <AuthModalContext.Provider value={{ showAuthModal }}>
+      <AuthStateHandler>{children}</AuthStateHandler>
+    </AuthModalContext.Provider>
   );
 }

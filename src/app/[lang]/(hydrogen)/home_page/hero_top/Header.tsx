@@ -5,6 +5,7 @@ import { routes } from '@/config/routes'
 import { useTranslation } from '@/app/i18n/client';
 import { usePathname } from 'next/navigation';
 import LanguageSwitcher from '@/app/i18n/language-switcher';
+import { useAuthModal } from '@/app/[lang]/api/auth/[...nextauth]/auth-provider';
 
 export default function Header({ lang }: { lang?: string }) {
   const { t } = useTranslation(lang || 'fr', 'common');
@@ -12,6 +13,12 @@ export default function Header({ lang }: { lang?: string }) {
 
   const isActive = (path: string) => {
     return pathname === `/${lang}${path}` ? 'text-blue-500' : 'hover:text-blue-500';
+  };
+  const { showAuthModal } = useAuthModal();
+
+  const handleLoginClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    showAuthModal();
   };
 
   return (
@@ -42,7 +49,11 @@ export default function Header({ lang }: { lang?: string }) {
           <Link href={routes.hero_top.about} className={`transition-colors ${isActive(routes.hero_top.about)}`}>
             About Us
           </Link>
-          <Link href={routes.signIn} className={`transition-colors ${isActive(routes.signIn)}`}>
+          <Link
+            href={routes.signIn}
+            onClick={handleLoginClick}
+            className={`transition-colors ${isActive(routes.signIn)}`}
+          >
             Login
           </Link>
           <Link href={routes.auth.register} className={`transition-colors ${isActive(routes.auth.register)}`}>
