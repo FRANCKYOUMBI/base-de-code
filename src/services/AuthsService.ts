@@ -28,9 +28,6 @@ export default class AuthService extends BaseService {
         this.updateUserProfile = this.updateUserProfile.bind(this)  
         this.getCurrentUser = this.getCurrentUser.bind(this); 
         this.updatePassword = this.updatePassword.bind(this); 
-
-        
-
     }
 
     async login(body: LoginParam): Promise<UserAuthentification | ServerMessage> 

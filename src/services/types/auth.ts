@@ -7,8 +7,8 @@ export interface LoginParam {
 export interface RegisterParam {
     email: string;
     password: string;
-    firstName: string;
-    lastName: string;
+    firstname: string;
+    lastname: string;
 }
 
 export interface UserAuthentification {

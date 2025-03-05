@@ -11,6 +11,9 @@ import { signUpSchema, SignUpSchema } from '@/validators/signup.schema';
 import { Form } from '@/components/form';
 import { PiArrowRightBold } from 'react-icons/pi';
 import { useTranslation } from '@/app/i18n/client';
+import toast from 'react-hot-toast';
+import { isServerMessage } from '@/services/types';
+import { register } from './actions';
 
 const initialValues: SignUpSchema = {
     firstname: '',
@@ -32,7 +35,25 @@ export default function SignUpForm({ lang }: SignUpFormProps) {
 
     const onSubmit: SubmitHandler<SignUpSchema> = async (data) => {
         setLoading(true);
+        try {
+            const response = await register({
+                firstname: data.firstname,
+                lastname: data.lastname || "",
+                email: data.email,
+                password: data.password
+            });
 
+            if (isServerMessage(response)) {
+                toast.error("Une erreur s'est produite lors de votre inscription");
+            } else {
+                toast.success("Inscription réussie!");
+                router.push("/auth/login");
+            }
+        } catch (error) {
+            toast.error("Une erreur inattendue s'est produite");
+        } finally {
+            setLoading(false);
+        }
     };
 
     return (
