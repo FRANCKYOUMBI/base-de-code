@@ -32,7 +32,7 @@ export default function DefaultLayout({
 
   useEffect(() => {
     if (status === 'unauthenticated') {
-      router.push('/auth/sign-in');
+      router.push('/auth/login');
       return;
     }
 
@@ -40,7 +40,7 @@ export default function DefaultLayout({
       //@ts-ignore
       const token = session?.user?.accessToken as string;
       if (!token || isTokenExpired(token)) {
-        signOut({ callbackUrl: '/auth/sign-in' });
+        signOut({ callbackUrl: '/auth/login'})
       }
     }
   }, [session, status, router]);
