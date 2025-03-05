@@ -1,0 +1,247 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  uuid        String     @id @default(uuid())
+  email       String
+  phoneNumber String     @map("phone_number")
+  password    String
+  firstName   String?    @map("first_name")
+  lastName    String?    @map("last_name")
+  hotelName   String?    @map(name: "hotel_name")
+  address     String?    @default("")
+  identifiant String?    @default("") // Identifiant pour hotel ou emploie pour l'extra
+  role        Role       @default(EXTRA)
+  status      UserStatus @default(ACTIVE)
+
+  avatar   Storage? @relation(fields: [avatarId], references: [uuid])
+  avatarId String?  @map(name: "image_id")
+
+  missionsCreated   Mission[]                @relation(name: "hotel")
+  missionsAccepted  Mission[]                @relation(name: "acceptedBy")
+  requestedMissions MissionRequestedExtras[]
+  reviews           Review[]
+  skills            UsersOnSkills[]
+  extraBankInfo     ExtraBankInfo?
+  documents         Document[]
+  softwares         HotelsHaveSoftwares[]
+
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "users")
+}
+
+model Mission {
+  uuid         String        @id @default(uuid())
+  reference    String        @unique
+  key          String
+  from         DateTime
+  to           DateTime
+  hours        Int
+  status       MissionStatus @default(WAITING)
+  shiftType    ShiftType     @default(MORNING) @map(name: "shift_type")
+  hotel        User          @relation(name: "hotel", fields: [hotelId], references: [uuid])
+  hotelId      String        @map(name: "hotel_id")
+  acceptedBy   User?         @relation(name: "acceptedBy", fields: [acceptedById], references: [uuid])
+  acceptedById String?       @map(name: "accepted_by_id")
+  acceptedAt   DateTime?     @map(name: "accepted_at")
+
+  requestedExtras MissionRequestedExtras[]
+  reviews         Review[]
+
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "missions")
+}
+
+model MissionRequestedExtras {
+  extra      User     @relation(fields: [extraId], references: [uuid])
+  extraId    String   @map(name: "extra_id")
+  mission    Mission  @relation(fields: [missionId], references: [uuid])
+  missionId  String   @map(name: "mission_id")
+  assignedAt DateTime @default(now())
+  assignedBy String
+  createdAt  DateTime @default(now()) @map(name: "created_at")
+  updatedAt  DateTime @updatedAt @map(name: "updated_at")
+
+  @@id([extraId, missionId])
+  @@map(name: "mission_requested_extras")
+}
+
+model Review {
+  uuid        String   @id @default(uuid())
+  mission     Mission  @relation(fields: [missionId], references: [uuid])
+  missionId   String   @map(name: "mission_id")
+  user        User     @relation(fields: [userId], references: [uuid])
+  userId      String   @map(name: "user_id")
+  reviewBy    ReviewBy @default(HOTEL) @map(name: "review_by")
+  reviewValue Int      @default(0) @map(name: "review_value")
+  reviewText  String?
+  createdAt   DateTime @default(now()) @map(name: "created_at")
+  updatedAt   DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "reviews")
+}
+
+model Training {
+  uuid      String   @id @default(uuid())
+  name      String
+  link      String
+  image     Storage? @relation(fields: [imageId], references: [uuid])
+  imageId   String?  @map(name: "image_id")
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "trainings")
+}
+
+model Storage {
+  uuid     String @id @default(uuid())
+  fileName String @map(name: "file_name")
+  url      String
+  mimeType String @map(name: "mime_type")
+  width    Int?
+  height   Int?
+  size     Int?
+
+  trainings Training[]
+  users     User[]
+  documents Document[]
+
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "storages")
+}
+
+model Skill {
+  uuid String @id @default(uuid())
+  name String @unique
+
+  users UsersOnSkills[]
+
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "skills")
+}
+
+model UsersOnSkills {
+  user      User     @relation(fields: [userId], references: [uuid])
+  userId    String   @map(name: "user_id")
+  skill     Skill    @relation(fields: [skillId], references: [uuid])
+  skillId   String   @map(name: "skill_id")
+  percent   Int      @default(0)
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@id([userId, skillId])
+  @@map(name: "users_on_skills")
+}
+
+
+model ExtraBankInfo {
+  uuid      String   @id @default(uuid())
+  rib       String?  @default("")
+  paypal    String?  @default("")
+  user      User     @relation(fields: [userId], references: [uuid])
+  userId    String   @unique @map(name: "user_id")
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "extra_bank_infos")
+}
+
+model Document {
+  uuid      String   @id @default(uuid())
+  name      String
+  file      Storage  @relation(fields: [fileId], references: [uuid])
+  fileId    String   @map(name: "file_id")
+  hotel     User     @relation(fields: [hotelId], references: [uuid])
+  hotelId   String   @map(name: "hotel_id")
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "documents")
+}
+
+model Contact {
+  uuid     String  @id @default(uuid())
+  fullName String  @map(name: "full_name")
+  email    String
+  subject  String
+  message  String? @default("")
+
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "contacts")
+}
+
+model Software {
+  uuid String @id @default(uuid())
+  name String @unique
+
+  hotels HotelsHaveSoftwares[]
+
+  createdAt DateTime @default(now()) @map(name: "created_at")
+  updatedAt DateTime @updatedAt @map(name: "updated_at")
+
+  @@map(name: "softwares")
+}
+
+model HotelsHaveSoftwares {
+  user       User     @relation(fields: [userId], references: [uuid])
+  userId     String   @map(name: "user_id")
+  software   Software @relation(fields: [softwareId], references: [uuid])
+  softwareId String   @map(name: "software_id")
+  createdAt  DateTime @default(now()) @map(name: "created_at")
+  updatedAt  DateTime @updatedAt @map(name: "updated_at")
+
+  @@id([userId, softwareId])
+  @@map(name: "hotels_have_softwares")
+}
+
+enum UserStatus {
+  ACTIVE
+  INACTIVE
+  SUSPEND
+  DELETE
+}
+
+enum ShiftType {
+  MORNING
+  AFTERNOON
+  EVENING
+}
+
+enum ReviewBy {
+  HOTEL
+  EXTRA
+}
+
+enum MissionStatus {
+  // PERFORM
+  WAITING
+  CONFIRM
+  EXECUTE
+  // CANCEL
+  DONE
+}
+
+enum Role {
+  ADMIN
+  HOTEL
+  EXTRA
+}

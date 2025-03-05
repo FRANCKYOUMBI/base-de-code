@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .container {
+        max-width: 1080px;
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+    }
+
+    .hotel_container {
+        max-width: 1280px;
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+    }
+
+    .button-rounded {
+        border: none;
+        color: #373737;
+        background: #EEE5E9;
+        padding: 12px 30px;
+        border-radius: 40px;
+        height: max-content;
+        font-weight: bold;
+    }
+
+    .button-rounded:active {
+        /*transform: scale(98%);*/
+        scale: 98%;
+        transition: scale 100ms ease-in-out;
+    }
+
+    .button-square {
+        border: none;
+        color: #373737;
+        background: #EEE5E9;
+        padding: 12px 30px;
+        border-radius: 10px;
+        height: max-content;
+        font-weight: bold;
+        transition: transform 100ms linear;
+    }
+
+    .button-square:active {
+        transform: scale(98%);
+        transition: transform 100ms linear;
+    }
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    src: url("/fonts/Inter-black.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url("/fonts/Inter-bold.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: url("/fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: url("/fonts/Inter-Medium.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("/fonts/Inter-Regular.ttf");
+}
+
+
+* {
+    box-sizing: border-box;
+    font-family: Inter, serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
