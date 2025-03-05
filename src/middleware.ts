@@ -3,8 +3,7 @@ import withAuth from "next-auth/middleware";
 import {NextFetchEvent, NextResponse} from "next/server";
 import acceptLanguage from "accept-language";
 import { fallbackLng, languages } from "./app/i18n/settings";
-import { useModal } from "./components/modal-views/use-modal";
-import { routes } from "./config/routes";
+
 
 acceptLanguage.languages(languages);
 
@@ -32,18 +31,62 @@ const protectedRoutes = {
 export function middleware(req: any, event: NextFetchEvent) {
   const { pathname } = req.nextUrl;
 
-  // Check if it's the homepage (fr or en root path)
-  if (pathname === '/fr' || pathname === '/en') {
+  // Early return for static files and special paths
+  if (pathname.includes('avatars') || 
+      pathname.includes('chrome') || 
+      pathname.startsWith('/_next')) {
     return NextResponse.next();
   }
-  // Check if the current route is a protected route
+
+  // Handle direct language switch
+  if (pathname === '/fr' || pathname === '/en') {
+    const lang = pathname.substring(1);
+    const response = NextResponse.next();
+    response.cookies.set(cookieName, lang, {
+      path: '/',
+      sameSite: 'lax',
+      maxAge: 60 * 60 * 24 * 30
+    });
+    return response;
+  }
+
+  // Check if current path is in public routes
+  let isUnProtectedRoute = publicRoutes.some(route => new RegExp(route).test(pathname));
+
+  // Language detection
+  let lang;
+  const pathLang = pathname.split('/')[1];
+
+  if (languages.includes(pathLang)) {
+    lang = pathLang;
+    // Update cookie if language in path is different from cookie
+    if (!req.cookies.has(cookieName) || req.cookies.get(cookieName).value !== lang) {
+      const response = NextResponse.next();
+      response.cookies.set(cookieName, lang, {
+        path: '/',
+        sameSite: 'lax',
+        maxAge: 60 * 60 * 24 * 30
+      });
+      return response;
+    }
+  } else {
+    // Get language from cookie or default
+    lang = req.cookies.has(cookieName) 
+      ? req.cookies.get(cookieName).value 
+      : fallbackLng;
+    
+    // Redirect only if path doesn't start with language code
+    if (!pathname.match(/^\/[a-z]{2}($|\/)/)) {
+      return NextResponse.redirect(new URL(`/${lang}${pathname}`, req.url));
+    }
+  }
+
+  // Handle protected routes
   const protectedRoute = Object.values(protectedRoutes).find(route => 
     route.pattern.test(pathname)
   );
 
   if (protectedRoute) {
-    // Here you would check the user's role from the session
-    // For now, we'll just use the basic auth protection
     return withAuth({
       pages: {
         ...pagesOptions,
@@ -51,42 +94,12 @@ export function middleware(req: any, event: NextFetchEvent) {
     })(req, event);
   }
 
-  if (pathname.indexOf('avatars') > -1) {
-    return NextResponse.next();
+  // Handle auth modal for non-public routes
+  if (!isUnProtectedRoute && !req.nextUrl.searchParams.has('showAuthModal')) {
+    const url = req.nextUrl.clone();
+    url.searchParams.set('showAuthModal', 'true');
+    return NextResponse.redirect(url);
   }
 
-  let isUnProtectedRoute = false;
-  for (const route of publicRoutes) {
-    if (new RegExp(route).test(pathname)) {
-      isUnProtectedRoute = true;
-      break;
-    }
-  }
-
-  if (
-    req.nextUrl.pathname.indexOf("chrome") > -1
-  )
-    return NextResponse.next();
-  let lang;
-
-  if (req.cookies.has(cookieName)) lang = acceptLanguage.get(req.cookies.get(cookieName).value);
-  if (!lang) lang = acceptLanguage.get(req.headers.get("Accept-Language"));
-  if (!lang) lang = fallbackLng;
-
-  if (
-    !languages.some((local) => req.nextUrl.pathname.startsWith(`/${local}`)) &&
-    !req.nextUrl.pathname.startsWith("/_next")
-  ) {
-    return NextResponse.redirect(new URL(`/${lang}${req.nextUrl.pathname}`, req.url));
-  }
-  if (!isUnProtectedRoute) {
-    // Vérifier si on n'a pas déjà le paramètre showAuthModal
-    if (!req.nextUrl.searchParams.has('showAuthModal')) {
-      const url = req.nextUrl.clone();
-      url.searchParams.set('showAuthModal', 'true');
-      return NextResponse.redirect(url);
-    }
-    // Si on a déjà le paramètre, continuer normalement
-    return NextResponse.next();
-  }
+  return NextResponse.next();
 }
