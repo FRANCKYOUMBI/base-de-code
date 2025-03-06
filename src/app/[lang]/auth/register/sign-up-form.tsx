@@ -55,10 +55,7 @@ export default function SignUpForm({ lang }: SignUpFormProps) {
             setLoading(false);
         }
     };
-<<<<<<< HEAD
-=======
 
->>>>>>> 81331eaff0ce03bed128730205c7dfd3319fe602
     return (
         <div className="xl:pe-12 2xl:pe-20">
             <Form<SignUpSchema>
