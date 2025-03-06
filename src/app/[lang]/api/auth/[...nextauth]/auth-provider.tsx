@@ -9,6 +9,7 @@ import { usePathname, useRouter } from 'next/navigation';
 import { useSearchParams } from 'next/navigation';
 import { Loader } from 'rizzui';
 import AlreadyAuthenticatedModal from '@/app/[lang]/auth/login/modal_already_authenicated_user';
+import LoginModalView from '@/app/[lang]/auth/login/login_modal';
 
 const AuthModalContext = createContext<{
 
@@ -69,11 +70,10 @@ function AuthStateHandler({ children }: { children: React.ReactNode }) {
   if (isChecking || status === 'loading') {
     return (
       <div className="fixed inset-0 flex items-center justify-center bg-white dark:bg-gray-900">
-        <Loader size="lg" variant="spinner" className="text-primary" />      
+        <Loader size="lg" variant="spinner" className="text-primary" />
       </div>
     );
   }
-
   return <>{children}</>;
 }
 
@@ -104,7 +104,11 @@ function AuthModalWrapper({ children }: { children: React.ReactNode }) {
         className: 'fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50 backdrop-blur-sm',
       });
     } else {
-      window.location.replace('/auth/login');
+      openModal({
+        view: <LoginModalView />,
+        size: 'md',
+        className: 'fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50 backdrop-blur-sm',
+      });
     }
   };
 

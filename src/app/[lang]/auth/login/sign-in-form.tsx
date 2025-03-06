@@ -57,7 +57,7 @@ export default function SignInForm({ lang }: SignInFormProps) {
             </div>
           </div>,
           {
-            duration: 5000,
+            duration: 3000,
           }
         );
         await navigate(`/${lang}/admin`);

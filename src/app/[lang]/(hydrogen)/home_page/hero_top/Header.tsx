@@ -48,14 +48,13 @@ export default function Header({ lang }: { lang?: string }) {
           </Link>
           <Link href={routes.hero_top.about} className={`transition-colors ${isActive(routes.hero_top.about)}`}>
             About Us
-          </Link>
-          <Link
-            href={routes.signIn}
+          </Link> 
+          <button
             onClick={handleLoginClick}
             className={`transition-colors ${isActive(routes.signIn)}`}
           >
             Login
-          </Link>
+          </button>
           <Link href={routes.auth.register} className={`transition-colors ${isActive(routes.auth.register)}`}>
             Register
           </Link>
