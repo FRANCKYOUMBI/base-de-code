@@ -55,7 +55,6 @@ export default function SignUpForm({ lang }: SignUpFormProps) {
             setLoading(false);
         }
     };
-
     return (
         <div className="xl:pe-12 2xl:pe-20">
             <Form<SignUpSchema>
