@@ -30,6 +30,10 @@ export default function MyAccountPage() {
   const [isLoading, setIsLoading] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 81331eaff0ce03bed128730205c7dfd3319fe602
   useEffect(() => {
     const loadPurchaseData = async () => {
 
@@ -82,6 +86,10 @@ export default function MyAccountPage() {
                     <p className="font-medium">{user.firstName}</p>
                   </div>
                 </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 81331eaff0ce03bed128730205c7dfd3319fe602
                 {/* Nom */}
                 <div className="flex items-center space-x-3">
                   <UserIcon className="w-5 h-5 text-gray-500" />
