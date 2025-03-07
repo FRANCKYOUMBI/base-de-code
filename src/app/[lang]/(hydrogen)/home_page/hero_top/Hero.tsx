@@ -1,5 +1,7 @@
 import Button from '@/components/Button'
+import { routes } from '@/config/routes'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Hero({ lang }: { lang?: string }) {
   return (
@@ -14,7 +16,10 @@ export default function Hero({ lang }: { lang?: string }) {
               We create innovative digital solutions to help your business grow and succeed
               in the digital age.
             </p>
-            <Button variant="outline">Get Started</Button>
+            <Button variant="outline" className="hover:bg-primary">
+              <Link href={routes.auth.register}>
+                Get started
+              </Link></Button>
           </div>
         </div>
       </div>

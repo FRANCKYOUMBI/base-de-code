@@ -54,7 +54,7 @@ export default function AuthWrapperOne({
                 <Image src={logoImg} alt="PS" className={'h-16'} />
                 <Image
                   src={logoImgText}
-                  alt="Pos Suite"
+                  alt="HoldMyFuture"
                   className="ps-2.5 dark:invert h-16"
                 />
               </Link>

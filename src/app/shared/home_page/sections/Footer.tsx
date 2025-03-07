@@ -7,7 +7,7 @@ export default function Footer({ lang }: { lang?: string }) {
   const pathname = usePathname();
 
   const isActive = (path: string) => {
-    return pathname.includes(path) ? 'text-blue-500' : 'text-white hover:text-blue-500';
+    return pathname.includes(path) ? 'text-primary' : 'text-white hover:text-primary';
   };
 
   return (

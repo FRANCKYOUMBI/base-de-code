@@ -10,6 +10,7 @@ import { Password, Button, Input, Loader } from "rizzui";
 import { loginSchema, LoginSchema } from "@/validators/login.schema";
 import { navigate } from "@/app/[lang]/auth/login/actions.ts";
 import { Form } from "@/components/form";
+import { routes } from "@/config/routes";
 
 const initialValues: LoginSchema = {
   email: "",
@@ -19,9 +20,10 @@ const initialValues: LoginSchema = {
 
 interface SignInFormProps {
   lang: string;
+  onAuthComplete?: () => void;
 }
 
-export default function SignInForm({ lang }: SignInFormProps) {
+export default function SignInForm({ lang, onAuthComplete }: SignInFormProps) {
   const [reset, setReset] = useState({});
   const [loading, setloading] = useState(false);
 
@@ -32,6 +34,7 @@ export default function SignInForm({ lang }: SignInFormProps) {
       redirect: false,
     });
     if (response) {
+      onAuthComplete?.();  // Close modal before showing toast
       if (response.error) {
         toast.error(
           <div className="rounded-md p-4">
@@ -45,7 +48,6 @@ export default function SignInForm({ lang }: SignInFormProps) {
           </div>
         );
       } else {
-        console.log({ response });
         toast.success(
           <div className="rounded-md p-4">
             <div className="flex">
@@ -98,6 +100,16 @@ export default function SignInForm({ lang }: SignInFormProps) {
               {...register("password")}
               error={errors.password?.message}
             />
+            <div className="flex items-center justify-between w-full">
+              <p>
+                <Link
+                  href={routes.auth.forgotPassword}
+                  className="h-auto p-0 text-sm font-medium transition-colors text-primary hover:no-underline"
+                >
+                  Mot de passe oublié ?
+                </Link>
+              </p>
+            </div>
             <Button
               className="w-full"
               type="submit"

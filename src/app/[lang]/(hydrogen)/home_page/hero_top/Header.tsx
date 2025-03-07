@@ -12,7 +12,7 @@ export default function Header({ lang }: { lang?: string }) {
   const pathname = usePathname();
 
   const isActive = (path: string) => {
-    return pathname === `/${lang}${path}` ? 'text-blue-500' : 'hover:text-blue-500';
+    return pathname === `/${lang}${path}` ? 'text-primary' : 'hover:text-primary';
   };
   const { showAuthModal } = useAuthModal();
 
@@ -48,7 +48,7 @@ export default function Header({ lang }: { lang?: string }) {
           </Link>
           <Link href={routes.hero_top.about} className={`transition-colors ${isActive(routes.hero_top.about)}`}>
             About Us
-          </Link> 
+          </Link>
           <button
             onClick={handleLoginClick}
             className={`transition-colors ${isActive(routes.signIn)}`}
