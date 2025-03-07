@@ -25,14 +25,8 @@ export default function Header({ lang }: { lang?: string }) {
     <div className="fix
     ed left-0 right-0 top-0 z-30 min-h-[70px] bg-primary-500 text-white transition-all duration-500">
       <div className="container app-container px-4 2xl:px-0 max-w-[1220px] mx-auto flex justify-between py-4 items-center">
-        <Link href="/" className="flex items-center">
-          <Image
-            src="/images/logo_kevmax.svg"
-            alt="KevMax Logo"
-            width={133}
-            height={46}
-            priority
-          />
+        <Link href="/">
+          <p className='font-bold text-primary text-2xl'>HoldMyFuture</p>
         </Link>
 
         <nav className="hidden md:flex items-center space-x-8">
@@ -51,13 +45,14 @@ export default function Header({ lang }: { lang?: string }) {
           </Link>
           <button
             onClick={handleLoginClick}
-            className={`transition-colors ${isActive(routes.signIn)}`}
+            className="transition-colors border-2 border-gray-200 bg-gray-50 hover:bg-primary text-white px-4 py-2 rounded-xl"
           >
             Login
           </button>
-          <Link href={routes.auth.register} className={`transition-colors ${isActive(routes.auth.register)}`}>
+
+          {/* <Link href={routes.auth.register} className={`transition-colors ${isActive(routes.auth.register)}`}>
             Register
-          </Link>
+          </Link> */}
         </nav>
       </div>
     </div>

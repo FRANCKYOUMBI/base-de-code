@@ -31,7 +31,7 @@ export default function SignIn({ params: { lang } }: SignInProps) {
       <div className="absolute inset-0 bg-black/30" />
 
       <div className="relative z-10 flex min-h-screen items-center justify-center">
-        <div className="w-full max-w-md rounded-xl bg-white p-6 shadow-xl">
+        <div className="w-full max-w-md rounded-xl bg-black p-6 shadow-xl">
           <div className="mb-8 text-center">
             <h2 className="mb-2 text-2xl font-bold">
               Bienvenue sur{' '}

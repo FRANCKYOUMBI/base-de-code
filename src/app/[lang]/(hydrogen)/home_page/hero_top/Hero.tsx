@@ -1,6 +1,5 @@
 import Button from '@/components/Button'
 import { routes } from '@/config/routes'
-import Image from 'next/image'
 import Link from 'next/link'
 
 export default function Hero({ lang }: { lang?: string }) {
@@ -19,7 +18,8 @@ export default function Hero({ lang }: { lang?: string }) {
             <Button variant="outline" className="hover:bg-primary">
               <Link href={routes.auth.register}>
                 Get started
-              </Link></Button>
+              </Link>
+            </Button>
           </div>
         </div>
       </div>

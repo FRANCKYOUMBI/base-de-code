@@ -16,12 +16,7 @@ export default function Footer({ lang }: { lang?: string }) {
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-10">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-1">
-            <Image
-              src="/images/logo_kevmax_white.svg"
-              alt="KevMax Logo"
-              width={133}
-              height={46}
-            />
+            <p className='font-bold text-primary text-2xl'>HoldMyFuture</p>
             <p className="mt-4 text-sm">
               We provide high quality services to our clients using the most advanced technologies
               and employing the best experts in the industry.
@@ -75,7 +70,7 @@ export default function Footer({ lang }: { lang?: string }) {
 
       <div className="bg-white text-black py-4">
         <div className="container max-w-[1220px] mx-auto px-4 2xl:px-0 text-center">
-          Copyright ©{new Date().getFullYear()} Digital Business Academy . All rights reserved
+          Copyright ©{new Date().getFullYear()} HoldMyFuture . All rights reserved
         </div>
       </div>
     </footer>

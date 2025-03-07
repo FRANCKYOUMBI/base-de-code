@@ -108,7 +108,6 @@ export default function SignUpForm({ lang }: SignUpFormProps) {
                             {...register('confirmPassword')}
                             error={errors.confirmPassword?.message}
                         />
-
                         <div className="flex items-center justify-between w-full">
                             <p>
                                 Vous avez déjà un compte ? {""}

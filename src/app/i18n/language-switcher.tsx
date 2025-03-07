@@ -91,7 +91,7 @@ export default function LanguageSwitcher({
               {options?.map((option) => (
                 <button
                   key={option.id}
-                  className="peer relative flex h-10 w-full cursor-pointer select-none items-center rounded-md px-3 py-2 text-sm leading-[40px] text-gray-900 transition duration-200 hover:bg-gray-100 dark:hover:bg-gray-50"
+                  className="peer relative flex h-10 w-full cursor-pointer select-none items-center rounded-md px-3 py-2 text-sm leading-[40px] text-gray-900 transition duration-200 hover:bg-gray-100 dark:hover:bg-primary-dark"
                   onClick={() => handleItemClick(option)}
                 >
                   <span className="flex items-center">
