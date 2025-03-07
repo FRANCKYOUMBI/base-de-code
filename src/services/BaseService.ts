@@ -27,7 +27,7 @@ const fetchWithInterceptor = async (
 global.fetch = fetchWithInterceptor;
 
 export default abstract class BaseService {
-  public BASE_API_URL = "http://192.168.1.41:5001";
+  public BASE_API_URL = "http://192.168.1.200:5001";
 
   protected constructor({ path_api }: BasePath) {
     this.BASE_API_URL = env.BASE_API_URL + `${path_api ?? ""}`;

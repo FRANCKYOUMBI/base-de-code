@@ -4,9 +4,17 @@ import { useModal } from '@/components/modal-views/use-modal';
 import SignInForm from './sign-in-form';
 import UnderlineShape from '@/components/shape/underline';
 
-export default function LoginModalView() {
+interface SignInParamsProps {
+    lang: string;
+}
+
+interface SignInProps {
+    params: SignInParamsProps;
+}
+
+export default function LoginModalView({ params: { lang } }: SignInProps) {
     const { closeModal } = useModal();
-    
+
     return (
         <div className="relative p-6">
             <div className="mb-8 text-center">
@@ -21,7 +29,7 @@ export default function LoginModalView() {
 
             <div className="flex">
                 <div className="w-full max-w-[400px] mx-auto">
-                    <SignInForm lang="fr" onAuthComplete={closeModal} />
+                    <SignInForm lang={lang} onAuthComplete={closeModal} />
                 </div>
             </div>
         </div>

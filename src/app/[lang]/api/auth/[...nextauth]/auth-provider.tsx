@@ -94,6 +94,8 @@ export default function AuthProvider({
 function AuthModalWrapper({ children }: { children: React.ReactNode }) {
   const { openModal } = useModal();
   const { data: currentSession, status } = useSession();
+  const pathname = usePathname();
+  const lang = pathname.split('/')[1] || 'fr'; // Extrait la langue du chemin
 
   const showAuthModal = () => {
     // @ts-ignore
@@ -105,7 +107,7 @@ function AuthModalWrapper({ children }: { children: React.ReactNode }) {
       });
     } else {
       openModal({
-        view: <LoginModalView />,
+        view: <LoginModalView params={{ lang }} />,
         size: 'md',
         className: 'fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50 backdrop-blur-sm',
       });

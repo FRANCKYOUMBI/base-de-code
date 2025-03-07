@@ -14,7 +14,7 @@ const BerylLiumLayoutHomePage: FC<BerylLiumLayoutHomePageProps> = ({ children, l
       <Toaster
         position="top-right"
         toastOptions={{
-          duration: 5000,
+          duration: 3000,
           className: 'text-sm',
         }}
       />

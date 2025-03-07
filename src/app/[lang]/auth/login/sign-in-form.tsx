@@ -11,6 +11,7 @@ import { loginSchema, LoginSchema } from "@/validators/login.schema";
 import { navigate } from "@/app/[lang]/auth/login/actions.ts";
 import { Form } from "@/components/form";
 import { routes } from "@/config/routes";
+import { t } from "i18next";
 
 const initialValues: LoginSchema = {
   email: "",
@@ -85,7 +86,7 @@ export default function SignInForm({ lang, onAuthComplete }: SignInFormProps) {
               type="email"
               size="lg"
               label="Email"
-              placeholder="Entrez votre email"
+              placeholder={t("text-email")}
               className="[&>label>span]:font-medium"
               inputClassName="text-sm"
               {...register("email")}

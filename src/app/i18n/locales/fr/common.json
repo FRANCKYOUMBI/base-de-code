@@ -1,12 +1,4 @@
 {
-  "sidebar-menu-home": "Tableau de bord",
-  "sidebar-menu-overview": "Tableau de bord",
-  "sidebar-menu-menu": "Menu",
-  "sidebar-menu-menu-management": "Gestion des menus",
-  "sidebar-menu-menu-list": "Nenus",
-  "sidebar-menu-menu-dishes": "Plats",
-  "sidebar-menu-qrcode-management": "QR Codes",
-  "sidebar-menu-menu-analytics": "Analytique",
-  "table-text-row-per-page": "Lignes par page",
-  "text-home": "Accueil"
+  "text-home": "Accueil",
+  "text-email": "Entrez votre email"
 }
