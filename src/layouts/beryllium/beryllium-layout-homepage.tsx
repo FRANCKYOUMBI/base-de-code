@@ -3,12 +3,12 @@ import Footer from '@/app/shared/home_page/sections/Footer'
 import { FC, ReactNode } from 'react'
 import { Toaster } from 'react-hot-toast'
 
-interface BerylLiumLayoutProps {
+interface BerylLiumLayoutHomePageProps {
   children: ReactNode
   lang: string
 }
 
-const BerylLiumLayoutHomePage: FC<BerylLiumLayoutProps> = ({ children, lang }) => {
+const BerylLiumLayoutHomePage: FC<BerylLiumLayoutHomePageProps> = ({ children, lang }) => {
   return (
     <div className="flex min-h-screen flex-col">
       <Toaster
@@ -19,11 +19,11 @@ const BerylLiumLayoutHomePage: FC<BerylLiumLayoutProps> = ({ children, lang }) =
         }}
       />
       <Header lang={lang} />
-      
+
       <main className="flex-grow">
         {children}
       </main>
-      
+
       <Footer />
     </div>
   )

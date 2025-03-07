@@ -115,7 +115,7 @@ export default function SignUpForm({ lang }: SignUpFormProps) {
                                     href={routes.signIn}
                                     className="h-auto p-0 text-sm font-medium transition-colors text-primary hover:no-underline"
                                 >
-                                    Sign in
+                                  Connectez-vous
                                 </Link>
                             </p>
                         </div>
