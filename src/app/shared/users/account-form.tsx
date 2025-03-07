@@ -9,8 +9,8 @@ import { Button } from "rizzui";
 import { updateProfileSchema } from "@/validators/update-profile";
 import { UpdatePasswordInput, UpdateUserProfileFormInput } from "@/services/types/auth";
 import { updatePasswordSchema } from "@/validators/updatePassword-schema";
-import { updatePassword, updateProfile } from "@/app/[lang]/(hydrogen)/forms/profile/action";
 import FormBuilder, { Field, FieldGroup } from "@/components/form-builder";
+import { updatePassword, updateProfile } from "@/app/[lang]/(hydrogen)/admin/forms/profile/action";
 
 interface AccountFormProps {
   user: UserList;
