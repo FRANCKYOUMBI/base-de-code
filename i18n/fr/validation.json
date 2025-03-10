@@ -1,0 +1,12 @@
+{
+  "email": "Format d'e-mail invalide",
+  "email_is_required": "L'email ne peut pas être vide",
+  "password": "Le mot de passe doit contenir au moins 8 caractères dont une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial",
+  "password_is_required": "Le mot de passe ne peut pas être vide",
+  "first_name_is_required": "Le prénom ne peut pas être vide",
+  "last_name_is_required": "Le nom de famille ne peut pas être vide",
+  "role_is_required": "Le rôle ne peut pas être vide",
+  "role_must_be": "Le rôle ne peut prendre que les valeurs suivantes : client, edimaster et admin",
+  "token_is_required": "Le token ne peut pas être vide",
+  "current_password_is_required": "Le mot de passe actuel ne peut pas être vide"
+}

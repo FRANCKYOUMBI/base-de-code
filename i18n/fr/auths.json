@@ -1,0 +1,15 @@
+{
+  "email_or_password_invalid": "Votre email ou mot de passe n'est pas valide",
+  "account_unverified": "Votre compte n'est pas vérifié, veuillez vérifier votre email",
+  "unauthenticated": "Vous n'êtes pas authentifié pour accéder à cette ressource",
+  "unauthorized": "Vous n'êtes pas autorisé à accéder à cette ressource",
+  "account_with_email_not_found": "Compte avec email {email} introuvable",
+  "account_is_disabled": "Votre compte est désactivé, veuillez contacter le support",
+  "we_have_send_a_mail_with_reset_password_link": "Nous avons envoyé un mail avec un lien de réinitialisation du mot de passe dans votre boîte mail",
+  "password_reset_token_invalid_or_expired": "Le jeton de réinitialisation du mot de passe est invalide ou a expiré",
+  "account_not_exists": "Le compte n'existe pas",
+  "successfully_reset_password": "Mot de passe réinitialisé avec succès",
+  "account_create_successfully": "Nous vous avons envoyé un mail pour finaliser la création de votre compte!",
+  "invalid_current_password": "Le mot de passe actuel est invalide",
+  "password_updated": "Mot de passe mis à jour avec succès"
+}

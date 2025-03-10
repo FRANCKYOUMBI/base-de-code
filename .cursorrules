@@ -1,0 +1,127 @@
+You are an expert in TypeScript, Node.js, Nestjs.
+
+Tech Stack:
+
+- Backend: Node.js with Nest.js
+- Database: PostgreSQL with TypeORM
+- Authentication: JSON Web Tokens (JWT)
+- ORM: TypeORM
+- Validation: Class-validator
+- Logging: Pino
+- Testing: Jest
+- Formatting: Prettier
+- Linting: ESLint
+- TypeScript: Strict mode
+- Docker
+- CI/CD: Jenkins
+- File server: Minio
+
+Key Principles
+
+- Write concise, technical TypeScript code with accurate examples.
+- Use Constructor injection and seperation of concerns in you'r code and create seperate services for each logic.
+- Prefer iteration and modularization over code duplication.
+- Structure files: use services folder if there is more than one service in every module
+- Follow Single Responsibility Principle (SRP) for all services and controllers
+- Use dependency injection and avoid direct instantiation of services
+
+Naming Conventions
+
+- Use lowercase with underscores for directories (product_order)
+- Use PascalCase for class names (ProductsService, UsersController)
+- Use camelCase for methods and properties
+- Use UPPER_SNAKE_CASE for constants and enum values
+- Suffix interfaces with proper types (IProductsService, IUsersRepository)
+- Name files according to their content: user.service.ts, product.controller.ts
+- Use plural form for module names (products, users, auths)
+- Use singular form for model names (Product, User, Auth)
+
+TypeScript Usage
+
+- Use TypeScript for all code; prefer interfaces over types
+- Use Injectable services implementing TypeScript interfaces
+- Use core/utils directory and module for tools that can be used across multiple projects
+- Enable strict mode in tsconfig.json
+- Use proper type annotations for all parameters and return types
+- Avoid using 'any' type, prefer unknown if type is uncertain
+- Use generics when implementing reusable components
+- Use enums for fixed sets of values
+- Use readonly modifier for immutable properties
+
+Code Organization
+
+- Group related functionality into modules
+- Keep module files in their own directories
+- Organize imports in the following order:
+  1. Node.js built-in modules
+  2. External dependencies (@nestjs/\*)
+  3. Internal modules (relative imports)
+- Use barrel exports (index.ts) in feature modules
+- Maximum file length: 400 lines
+- Maximum function length: 20 lines
+
+Logic Implementation
+
+- Implement all application logic inside services
+- Keep controllers and gateways clean and focused on their responsibilities
+- Use the useClass approach when registering modules with configuration dependencies
+- Define configuration-related classes inside a dedicated config directory
+- Use repositories for database operations
+- Implement proper error handling with custom exceptions
+- Use DTOs for data validation and transformation
+- Implement proper logging using a logging service
+
+Testing Guidelines
+
+- Write unit tests for all services
+- Write e2e tests for all controllers
+- Use jest for unit testing
+- Use proper mocking for external dependencies
+- Maintain minimum 80% code coverage
+- Follow AAA pattern (Arrange, Act, Assert)
+- Use meaningful test descriptions
+
+Error Handling
+
+- Create custom exception filters for specific error cases
+- Use proper HTTP status codes
+- Implement global exception handling
+- Return consistent error response structure
+- Log all errors appropriately
+
+Documentation
+
+- Use JSDoc for all public methods
+- Document all DTOs with @ApiProperty decorators
+- Keep README.md up to date
+- Document environment variables
+- Add swagger documentation for all APIs
+
+Modular Design
+
+- Create separate modules for external packages or tools that don't have native NestJS support
+- Use feature modules for distinct business capabilities
+- Implement proper module boundaries
+- Export only what is necessary from modules
+- Use forRoot/forFeature pattern for configurable modules
+
+Security Best Practices
+
+- Use proper authentication guards
+- Implement role-based access control
+- Validate all input data
+- Use environment variables for sensitive data
+- Implement rate limiting where necessary
+- Use HTTPS in production
+- Implement proper session management
+
+Best Practices
+
+- Ensure secure, efficient code following RESTful API best practices
+- Respect SOLID principles
+- Focus on performance and readability
+- Keep code clean and maintainable
+- Use meaningful variable and function names
+- Add comments to explain why behind the code in more complex functions
+- Keep functions small and focused (single responsibility)
+- Handle errors and edge cases gracefully

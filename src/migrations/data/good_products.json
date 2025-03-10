@@ -1,0 +1,6311 @@
+[
+  {
+    "name": "Ampoule 7w ",
+    "category": "Luminaires",
+    "unit": "pièce ",
+    "image": "1ed60fd6-b411-48b1-befe-18a652b6f75b.jpg",
+    "qty": 100,
+    "price": 290,
+    "uuid": "e9fe82a1-e5ae-4586-9af7-c99eccce5fc6"
+  },
+  {
+    "name": "AMPOULE C TORCHE 10W",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "9facc6e6-1961-434c-9547-ab6c2a0cdc97.jpg",
+    "qty": 20,
+    "price": 420,
+    "uuid": "19fb4d14-2794-405f-ba01-503ec52a6fb0"
+  },
+  {
+    "name": "ampoule C torche 10W",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "9facc6e6-1961-434c-9547-ab6c2a0cdc97.jpg",
+    "qty": 25,
+    "price": 420,
+    "uuid": "ae5b5ae7-6d6f-4148-a180-ce41523ccfa8"
+  },
+  {
+    "name": "ampoule c torche 24w",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "9facc6e6-1961-434c-9547-ab6c2a0cdc97.jpg",
+    "qty": 6,
+    "price": 1200,
+    "uuid": "2e92dfef-6638-4056-bf9c-b423522ec1df"
+  },
+  {
+    "name": "ampoule c torche 24W",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "9facc6e6-1961-434c-9547-ab6c2a0cdc97.jpg",
+    "qty": 6,
+    "price": 1200,
+    "uuid": "3cd231d7-8c70-4291-bd98-516ec940ba5d"
+  },
+  {
+    "name": "ampoule C torche E27  10W ou à vis",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "9facc6e6-1961-434c-9547-ab6c2a0cdc97.jpg",
+    "qty": 25,
+    "price": 420,
+    "uuid": "c5dc90b0-9d01-4ff6-bafe-074dca167cd6"
+  },
+  {
+    "name": "ampoule rechargeable 15W itorche ",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "9facc6e6-1961-434c-9547-ab6c2a0cdc97.jpg",
+    "qty": 6,
+    "price": 1500,
+    "uuid": "8f7764b1-e54e-4d17-96c4-c653c6cebdfa"
+  },
+  {
+    "name": "Ampoule rechargeable 20W ",
+    "category": "Luminaires",
+    "unit": "pièce ",
+    "image": "f696157c-bf25-4d93-a405-90073b7348a6.jpg",
+    "qty": 3,
+    "price": 1600,
+    "uuid": "63d0b953-a532-481c-a0cc-7b5422606c85"
+  },
+  {
+    "name": "ampoule TN torche de 7w",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "d98320c5-ebcb-4bbd-8379-b66b18407876.jpg",
+    "qty": 50,
+    "price": 250,
+    "uuid": "a7112732-b3b7-45f4-99e4-dfd7ca004c2c"
+  },
+  {
+    "name": "anti-rouille Gold star noir 1Kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "",
+    "qty": 10,
+    "price": 1900,
+    "uuid": "709b98ed-d7b6-4fc8-8151-8a71d5330ad9"
+  },
+  {
+    "name": "anti-rouille Gold star rouge 1Kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "bd9208aa-7cc0-4a28-aa78-fa6a578f73d6.jpeg",
+    "qty": 10,
+    "price": 1901,
+    "uuid": "abd66e66-b844-4d1e-916d-7ad09c685983"
+  },
+  {
+    "name": "Abattant WC lourd*10pcs",
+    "category": "Sanitaire",
+    "unit": "pièce ",
+    "image": "5050deda-be1e-4bbe-87ad-8775250e92da.jpg",
+    "qty": 1,
+    "price": 3000,
+    "uuid": "118ff289-fe20-4edd-9251-0b1dbfe474e5"
+  },
+  {
+    "name": "arrache clou de 60",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "025d56ac-c032-4f94-a7ef-bceec6e7eed7.jpg",
+    "qty": 5,
+    "price": 1150,
+    "uuid": "c42c9e7d-3d9e-41a3-be13-533765da6886"
+  },
+  {
+    "name": "ATTACHE CABLE DE 10",
+    "category": "Outillage",
+    "unit": "BOITES  ",
+    "image": "db3169f3-d8c6-476d-bb8a-f8a95e6f8d24.jpg",
+    "qty": 5,
+    "price": 300,
+    "uuid": "99eaa09f-720c-427c-9331-f25fbe13189b"
+  },
+  {
+    "name": "attache cable de 10",
+    "category": "Outillage",
+    "unit": "boîte",
+    "image": "db3169f3-d8c6-476d-bb8a-f8a95e6f8d24.jpg",
+    "qty": 5,
+    "price": 350,
+    "uuid": "8963538a-4638-40a9-a802-439766db244d"
+  },
+  {
+    "name": "ATTACHE CABLE DE 12",
+    "category": "Outillage",
+    "unit": "BOITES  ",
+    "image": "98bb880e-7335-4371-aa08-0d10cdb1d5cd.jpg",
+    "qty": 5,
+    "price": 400,
+    "uuid": "e1a2f627-ae3c-426c-95f3-4d38b8eb5b25"
+  },
+  {
+    "name": "baguette Atlantique  2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 12,
+    "price": 4500,
+    "uuid": "c4dfc373-8cf9-4af9-b955-59681793335c"
+  },
+  {
+    "name": "Baguette atlantique 2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 3750,
+    "uuid": "7ec8dc66-324e-46de-a811-8845367c34c2"
+  },
+  {
+    "name": "BAGUETTE ATLANTIQUE 2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 3750,
+    "uuid": "eb89c9a0-8ec1-4e95-b105-49cce3e1d3ae"
+  },
+  {
+    "name": "baguette atlantique 2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 8,
+    "price": 4625,
+    "uuid": "50402701-b1e3-4a1e-8844-94099553ff37"
+  },
+  {
+    "name": "baguette atlantique 2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 4500,
+    "uuid": "e5471afd-9367-4952-bd9c-cfd5e381b129"
+  },
+  {
+    "name": "baguette atlantique 2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 4500,
+    "uuid": "4b02179d-b9b4-489c-9332-4375ba58d1ac"
+  },
+  {
+    "name": "Baguette atlantique 2,5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 3750,
+    "uuid": "b86730f3-176e-4b20-b02b-8a5283a4b139"
+  },
+  {
+    "name": "BAGUETTE ATLANTIQUE 2.5",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 3750,
+    "uuid": "cdbb5462-30d0-42d4-820d-c640c431ef53"
+  },
+  {
+    "name": "Baguette atlantique 3,15",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 3750,
+    "uuid": "b90ed0bb-284a-4e95-b1ee-371c3b8febf3"
+  },
+  {
+    "name": "Baguette atlantique 3,15",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 3750,
+    "uuid": "85590925-9b78-4c2b-a34f-6d9217169b16"
+  },
+  {
+    "name": "baguette atlantique 3,15",
+    "category": "Fer",
+    "unit": "paquet",
+    "image": "0a5310e1-e67f-41ea-9b84-5634b85dca56.webp",
+    "qty": 4,
+    "price": 4250,
+    "uuid": "ab8faa32-9027-48c3-abb7-95bbae29171d"
+  },
+  {
+    "name": "BALAI CONDOR ",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "f4e7affa-c137-436e-adb9-5548c9960012.jpg",
+    "qty": 5,
+    "price": 600,
+    "uuid": "b6ea45d8-5538-4abc-a089-1a9c5eb97793"
+  },
+  {
+    "name": "BALAI SOL EN PLASTIQUE DECORE",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "39422b43-73ea-4460-bac4-60ca35900cc7.webp",
+    "qty": 3,
+    "price": 1000,
+    "uuid": "f89aad10-07a6-45e0-b2c8-d10d74b141c9"
+  },
+  {
+    "name": "BALAI TOILE D'ARRAIGNE S1",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "e26d23b2-aef4-4c56-b98e-310caa41d376.jpg",
+    "qty": 2,
+    "price": 850,
+    "uuid": "91de3299-5ddb-4bcb-b2b4-a234ffcdfa3f"
+  },
+  {
+    "name": "Balance plateau 20kg",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "4badf900-666a-4b52-b482-56a59ef5d2a9.jpg",
+    "qty": 1,
+    "price": 7500,
+    "uuid": "df71e45e-1b93-40af-8586-526108af70be"
+  },
+  {
+    "name": "ballon (paneau N° 5)",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "85b69555-c3c7-4894-a420-0d65f9de6b8d.jpg",
+    "qty": 5,
+    "price": 1400,
+    "uuid": "39b0f2d2-2c81-4795-b1e5-aa5e399db572"
+  },
+  {
+    "name": "Bande adhésive abbro",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "9e980e12-ced3-4eb6-bf69-7763d899521e.jpg",
+    "qty": 27,
+    "price": 528,
+    "uuid": "d3ce825d-4eb6-420f-96d8-ea30f30f4078"
+  },
+  {
+    "name": "bande adhésive abro ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "9e980e12-ced3-4eb6-bf69-7763d899521e.jpg",
+    "qty": 27,
+    "price": 444,
+    "uuid": "08be53c3-4d78-405d-ad66-ddd6f93cda07"
+  },
+  {
+    "name": "bande adhesive S2",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "a641a5f9-fd4f-47ba-9fd9-e4da0b0e1741.jpg",
+    "qty": 27,
+    "price": 325,
+    "uuid": "7dbab117-cdce-4d67-8fd7-2c53a77ee9dc"
+  },
+  {
+    "name": "Bande adhésive S2",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "a641a5f9-fd4f-47ba-9fd9-e4da0b0e1741.jpg",
+    "qty": 18,
+    "price": 389,
+    "uuid": "1e0ffdb8-db97-4bcb-a73a-bb1dc4aa5503"
+  },
+  {
+    "name": "Bande adhésive S2",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "a641a5f9-fd4f-47ba-9fd9-e4da0b0e1741.jpg",
+    "qty": 18,
+    "price": 389,
+    "uuid": "3c9c58de-c107-46dd-9318-9c5a95b5c2ea"
+  },
+  {
+    "name": "BOITE DE COLLE MACAT 500G",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "",
+    "qty": 3,
+    "price": 3000,
+    "uuid": "82b717ef-5e9e-4121-b792-1c625a7b5c81"
+  },
+  {
+    "name": "Boite de toiturol ",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "b4b6a5cd-ded8-493b-b2c2-3d8fd17edd6b.jpg",
+    "qty": 6,
+    "price": 4500,
+    "uuid": "95bf91af-11a9-44d4-9aad-0e6843df120f"
+  },
+  {
+    "name": "boitier carré à vis ",
+    "category": "Boîte connecteur",
+    "unit": "pièce",
+    "image": "074bb639-5181-460d-b32d-574c798039c5.png",
+    "qty": 50,
+    "price": 175,
+    "uuid": "0ab3b569-6339-4cab-a43b-1bc0b9d5f606"
+  },
+  {
+    "name": "Boitier original à vis ",
+    "category": "Boite connecteur",
+    "unit": "pièce",
+    "image": "",
+    "qty": 50,
+    "price": 75,
+    "uuid": "72744aa8-a6b2-4c43-a738-1c1bb9eaa044"
+  },
+  {
+    "name": "botte plastique melange pointure",
+    "category": "Autre",
+    "unit": "paires",
+    "image": "244eb9ae-3efb-4138-8d5c-3f2520092565.jpg",
+    "qty": 15,
+    "price": 3300,
+    "uuid": "63da69f2-8a07-4809-878d-2dd891a4f316"
+  },
+  {
+    "name": "bouilloire 20A scarlett",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "a1815645-28d3-4756-8898-1b78eefe54cc.jpg",
+    "qty": 2,
+    "price": 3500,
+    "uuid": "ab7eae21-f761-45e1-80c7-18419fd79af3"
+  },
+  {
+    "name": "Bouton poussoir power max",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "99e1609a-586b-46b5-aee5-597c18292984.jpg",
+    "qty": 10,
+    "price": 400,
+    "uuid": "71b862ef-457c-42b8-97df-af2acd52dff7"
+  },
+  {
+    "name": "brosse  métalique  manche plastique ",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "4bfcb4e7-a64d-48c4-9954-188fe2507175.jpg",
+    "qty": 10,
+    "price": 250,
+    "uuid": "f1feaea9-7ee3-4ffc-a7b3-68a610935e24"
+  },
+  {
+    "name": "Brosse de douche penché S2",
+    "category": "Sanitaire",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 10,
+    "price": 300,
+    "uuid": "a4292784-61cd-460b-8942-9f1bcb91f4ab"
+  },
+  {
+    "name": "Brosse lave pot S1 nouveau",
+    "category": "Sanitaire",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 10,
+    "price": 500,
+    "uuid": "e7d40ee2-c325-44c6-acb8-15fd4d821bae"
+  },
+  {
+    "name": "Brouette sahara",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "8e0dfac1-22cf-48ee-a661-df26feca1414.jpg",
+    "qty": 1,
+    "price": 22500,
+    "uuid": "0b7b5f4c-8d3f-42a2-9c52-5f9898827db2"
+  },
+  {
+    "name": "BROUETTE SAHARA SIMPLE",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "8e0dfac1-22cf-48ee-a661-df26feca1414.jpg",
+    "qty": 10,
+    "price": 19500,
+    "uuid": "95f4d647-821b-40ca-a80d-2605fd7630bd"
+  },
+  {
+    "name": "Brouette tropic rouge",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "4d5fbb05-bb84-4a53-8899-a9caa81200f0.png",
+    "qty": 2,
+    "price": 29500,
+    "uuid": "92af380f-d241-4e95-a5ab-b4a0467eca5e"
+  },
+  {
+    "name": "Brouette tropic vert/jaune",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "179ec7ce-f08d-43d9-b59d-c4e83ff71773.jpeg",
+    "qty": 4,
+    "price": 28000,
+    "uuid": "81481916-1335-4494-87b1-43ece934ff64"
+  },
+  {
+    "name": "brouette tropic verte",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "179ec7ce-f08d-43d9-b59d-c4e83ff71773.jpeg",
+    "qty": 5,
+    "price": 27000,
+    "uuid": "f87df49c-26b2-4dec-b382-a99869383f66"
+  },
+  {
+    "name": "burin plat de 35cm",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "bca9de28-392c-4bab-8ca1-345d294b95de.jpeg",
+    "qty": 6,
+    "price": 750,
+    "uuid": "e7341189-b04b-4e8c-9a69-20638d219232"
+  },
+  {
+    "name": "burin pointu de 35cm (poinçon)",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b4c6f75f-b948-4e83-85a6-959d55a0c489.jpg",
+    "qty": 6,
+    "price": 750,
+    "uuid": "76350eba-224b-4bbc-a13d-740e73d93e83"
+  },
+  {
+    "name": "CABLE 1,5 ZEFEER ORIGINAL EN 100M",
+    "category": "Cable",
+    "unit": "UNITE",
+    "image": "e226b99f-ce1e-4af5-ba76-3203f738aef1.jpg",
+    "qty": 10,
+    "price": 6000,
+    "uuid": "4319f67f-d238-4b5d-825f-85c32a7b5565"
+  },
+  {
+    "name": "cable 1,5 zefeer original en 100m",
+    "category": "Cable",
+    "unit": "rouleaux",
+    "image": "9e636bc7-3966-4393-b4b2-cf73648a20d4.jpg",
+    "qty": 10,
+    "price": 5900,
+    "uuid": "742aba40-025f-4dbe-b1b5-faae01716f02"
+  },
+  {
+    "name": "CABLE 1,5 ZEFER ORIGINAL en 100m",
+    "category": "Cable",
+    "unit": "ROULEAUX",
+    "image": "0bf33a87-d40d-4b98-8ef1-0174c15cc377.jpg",
+    "qty": 10,
+    "price": 6500,
+    "uuid": "d852fd1c-f754-4a8f-a9a7-5062d9afba56"
+  },
+  {
+    "name": "câble 2,5 original zefeer ",
+    "category": "Cable",
+    "unit": "rouleaux",
+    "image": "a8d71521-f463-4b5b-9260-b94bae5418fa.jpg",
+    "qty": 10,
+    "price": 8900,
+    "uuid": "1098cb57-8b6e-4b40-be62-ff3254416632"
+  },
+  {
+    "name": "CABLE 2,5 ZEFEER ORIGINAL EN 100M",
+    "category": "Cable",
+    "unit": "UNITE",
+    "image": "94de467d-5c27-4a19-b68c-ef1eb07d6fa7.jpg",
+    "qty": 10,
+    "price": 9000,
+    "uuid": "3b7a249f-5505-4d82-a689-09dbd09da664"
+  },
+  {
+    "name": "CABLE 2,5 ZEFER ORIGINAL en 100m ",
+    "category": "Cable",
+    "unit": "ROULEAUX",
+    "image": "94de467d-5c27-4a19-b68c-ef1eb07d6fa7.jpg",
+    "qty": 10,
+    "price": 9500,
+    "uuid": "524850d0-4941-49ff-ba5a-2ccacdebb9fa"
+  },
+  {
+    "name": "câble Euro TH 2,5 S2",
+    "category": "Cable",
+    "unit": "rouleaux",
+    "image": "61ed15d7-33d2-4fc7-8b70-d29b152e8718.jpg",
+    "qty": 5,
+    "price": 2200,
+    "uuid": "f6b0cbb6-8ab2-4847-a2fe-96746c148d2b"
+  },
+  {
+    "name": "CADENAS 32 MM BRILLANT ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "6e521175-8e16-419f-8f05-b88224a94629.jpg",
+    "qty": 12,
+    "price": 250,
+    "uuid": "527d8555-c30c-4c77-bbf3-a58a183f1318"
+  },
+  {
+    "name": "Cadenas 32mm jaune ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "df09310f-5ab3-4177-aa9a-cf4348027cd0.jpg",
+    "qty": 6,
+    "price": 225,
+    "uuid": "23f1870c-ab7a-4fbf-b310-8936e960db3e"
+  },
+  {
+    "name": "Cadenas 38mm jaune ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "b3677448-453a-4b7b-bfce-56aae3f51a57.jpg",
+    "qty": 12,
+    "price": 250,
+    "uuid": "c7814e3f-4900-418e-b657-b2bf306dd769"
+  },
+  {
+    "name": "CADENAS 50 MM BRILLANT",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "a9f4360c-c92e-43f0-bfd2-3437bbd0de1d.jpg",
+    "qty": 12,
+    "price": 450,
+    "uuid": "d789be08-cc78-44d8-87bb-2ef0830fff16"
+  },
+  {
+    "name": "CADENAS 50MM JAUNE",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "b63dbe85-2ea1-4190-bbc8-1cacfcef98ab.jpg",
+    "qty": 6,
+    "price": 450,
+    "uuid": "39ebec4e-80ec-439c-8f3f-4f478dfcf7e9"
+  },
+  {
+    "name": "Cadenas 50mm jaune ",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "b63dbe85-2ea1-4190-bbc8-1cacfcef98ab.jpg",
+    "qty": 6,
+    "price": 550,
+    "uuid": "b617c147-bcf1-4f4f-8033-6229ae6f0b1d"
+  },
+  {
+    "name": "cadenas 75MM FF Italy",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "6110d19a-660a-4ff0-b87b-c47ec28511a2.jpg",
+    "qty": 4,
+    "price": 1900,
+    "uuid": "55c21e0d-0d73-45b1-ba38-e0f46a77293a"
+  },
+  {
+    "name": "Cadenas 75mm jaune",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "17866399-5bb7-4a1c-ae92-85ab7bb3343e.png",
+    "qty": 6,
+    "price": 900,
+    "uuid": "c5ed5aca-a4bc-47f5-9533-2bf4116b0d73"
+  },
+  {
+    "name": "Cadenas 75mm vohette",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 12,
+    "price": 1100,
+    "uuid": "564bbf53-d4ac-44fe-be28-c7087fc088b8"
+  },
+  {
+    "name": "CADENAS A TIGE 100mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f2ba48e2-b7d2-478f-93ed-c1b4ec767c87.jpg",
+    "qty": 3,
+    "price": 1500,
+    "uuid": "830c9cf7-4305-403e-905f-6510773797a6"
+  },
+  {
+    "name": "cadenas à tige 100mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f2ba48e2-b7d2-478f-93ed-c1b4ec767c87.jpg",
+    "qty": 6,
+    "price": 1500,
+    "uuid": "4a03184e-1b6f-47b8-a21c-01ae51f684c7"
+  },
+  {
+    "name": "CADENAS A TIGE 94mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f6b8bcc8-1885-462b-b9d6-ceaf5f96a8ba.jpg",
+    "qty": 6,
+    "price": 2100,
+    "uuid": "448b8143-a90e-4aa3-b98b-812242c72bc3"
+  },
+  {
+    "name": "Cadenas à tige 94mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f6b8bcc8-1885-462b-b9d6-ceaf5f96a8ba.jpg",
+    "qty": 4,
+    "price": 2200,
+    "uuid": "844f908a-d540-4e23-9566-ed4be0675758"
+  },
+  {
+    "name": "cadenas à tige 94mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f6b8bcc8-1885-462b-b9d6-ceaf5f96a8ba.jpg",
+    "qty": 6,
+    "price": 2200,
+    "uuid": "cf3ee190-ad77-4600-8ad4-31d2203349d9"
+  },
+  {
+    "name": "cadenas protégé de 50mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "36e29b65-4bc0-440b-8b74-521938a03d0b.webp",
+    "qty": 15,
+    "price": 900,
+    "uuid": "9fd3418c-8887-410c-9e29-f87da4ac84bd"
+  },
+  {
+    "name": "cadenas protégé de 50mm",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "36e29b65-4bc0-440b-8b74-521938a03d0b.webp",
+    "qty": 10,
+    "price": 900,
+    "uuid": "9544035f-95c7-453c-b944-ba3ef942bb55"
+  },
+  {
+    "name": "Cadenas protégé de 50mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "36e29b65-4bc0-440b-8b74-521938a03d0b.webp",
+    "qty": 10,
+    "price": 850,
+    "uuid": "ffd52794-3a92-4d87-956e-359871a16845"
+  },
+  {
+    "name": "Cadenas protégé de 60mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "a5b1a53e-e8a2-4802-8843-299652ef7a05.jpg",
+    "qty": 6,
+    "price": 1100,
+    "uuid": "674fc5d5-2557-455d-9149-520fdcfbc81d"
+  },
+  {
+    "name": "Cadenas protégé de 60mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "a5b1a53e-e8a2-4802-8843-299652ef7a05.jpg",
+    "qty": 12,
+    "price": 1100,
+    "uuid": "05e981da-f230-4cf7-a866-c73beaad2396"
+  },
+  {
+    "name": "Cadenas rolinson prof 70mm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "2b87e4ff-1820-467b-9347-05913020952f.jpg",
+    "qty": 4,
+    "price": 1200,
+    "uuid": "26a866ac-d05a-4646-9c02-aa39ffc66434"
+  },
+  {
+    "name": "CADENAS ROLINSON PROF 70MM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 5,
+    "price": 1200,
+    "uuid": "507dad42-d2c6-4a39-ab09-fa5c87bc4176"
+  },
+  {
+    "name": "CADENAS VACHETTE 80MM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "ad4d684b-c31e-4d39-afc8-b233a00ec21e.png",
+    "qty": 18,
+    "price": 1100,
+    "uuid": "332597f5-b213-4ec4-9959-2dfba82e959e"
+  },
+  {
+    "name": "CADENAS VOHETTE 45MM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "cf95e819-2318-44b8-9f34-5ec8b04c9360.jpg",
+    "qty": 6,
+    "price": 350,
+    "uuid": "9951479a-284c-4a49-932d-91f5d4a0cf37"
+  },
+  {
+    "name": "CADENAS VOHETTE 65MM ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "93b44200-ff96-4187-910d-5a20b6ca51a2.jpeg",
+    "qty": 6,
+    "price": 750,
+    "uuid": "0eb518eb-8003-47ac-9e7e-a131c2c62733"
+  },
+  {
+    "name": "Cannon simple gaz  5 clés",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "e6e10746-3e38-4189-9dea-61c789a6ef34.jpg",
+    "qty": 12,
+    "price": 1200,
+    "uuid": "c1dcb22c-7257-4676-aa7d-cf8f03ca58fd"
+  },
+  {
+    "name": "canon simple ARM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "b0c1a1be-fad1-41ad-a027-7f59b6240dc4.jpg",
+    "qty": 6,
+    "price": 2250,
+    "uuid": "68a31b4e-42c1-4965-91e5-d935d6240382"
+  },
+  {
+    "name": "Canon simple umic S1",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "d2a2fcbf-ead4-4e50-acd1-1a4ebf614769.jpeg",
+    "qty": 6,
+    "price": 2700,
+    "uuid": "0a3d93f1-84fe-4cd8-85d2-e65d47d8a95f"
+  },
+  {
+    "name": "Canon vachette en original 3 clés",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "2c58f64a-3c1a-4429-94ea-854852e4e16e.jpg",
+    "qty": 8,
+    "price": 950,
+    "uuid": "4b8e3e94-8d56-49fb-b2ec-6fbdf07fb155"
+  },
+  {
+    "name": "Canon vachette simple en plaquette 5 clés ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "07c7cb74-9076-4cf4-bd69-520b3936bbdb.jpg",
+    "qty": 5,
+    "price": 850,
+    "uuid": "ad85a431-2e93-4faf-b4ba-647d780af7fd"
+  },
+  {
+    "name": "canon vachette simple plaquette 5 clés ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "07c7cb74-9076-4cf4-bd69-520b3936bbdb.jpg",
+    "qty": 15,
+    "price": 850,
+    "uuid": "73b6d658-a648-4c57-a0a9-19d41da24ab1"
+  },
+  {
+    "name": "CANON VIROUMA",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 2,
+    "price": 3800,
+    "uuid": "50c66b1c-ba0c-449b-b6f4-cc4dac0888d3"
+  },
+  {
+    "name": "casque maçon blanc",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "cf4c0f2a-84e0-4011-a7a9-ece12c8db867.jpg",
+    "qty": 3,
+    "price": 850,
+    "uuid": "6fadd6eb-095c-4719-9f8b-5153c2e6384f"
+  },
+  {
+    "name": "casque maçon bleu ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "3323c4a0-8308-4b90-91a5-5ef5ca1738b0.jpeg",
+    "qty": 3,
+    "price": 850,
+    "uuid": "10c2bdac-0d76-404a-bad5-58b24c73384f"
+  },
+  {
+    "name": "casque maçon rouge",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f2db0078-3832-4119-b85c-5ca63dc58b81.jpg",
+    "qty": 3,
+    "price": 850,
+    "uuid": "9d3efc7b-fb15-48fb-82da-d7d834518f15"
+  },
+  {
+    "name": "Ceinture chien gm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "d6455a47-fa5b-47aa-a3e4-e55ca9c25bec.jpg",
+    "qty": 5,
+    "price": 900,
+    "uuid": "a5cda59d-74ac-406d-af4a-747bcafb334a"
+  },
+  {
+    "name": "CHAINE BARRIERE DE 1M  GM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "92c16ff7-40dd-44c0-8e3a-ef5e49b528c6.jpg",
+    "qty": 4,
+    "price": 700,
+    "uuid": "bd6178b9-84f9-4d2b-80b7-35424237281a"
+  },
+  {
+    "name": "Chaine barrière de 1m GM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "92c16ff7-40dd-44c0-8e3a-ef5e49b528c6.jpg",
+    "qty": 5,
+    "price": 700,
+    "uuid": "9d7dc8b3-96d2-4055-b97d-1fc647c26373"
+  },
+  {
+    "name": "Chaine barrière de 2m",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "18402e09-074c-4a92-b774-afb1c3e29b48.jpg",
+    "qty": 5,
+    "price": 1300,
+    "uuid": "b59252d2-b828-44ba-8a8b-033b8ac7bbc8"
+  },
+  {
+    "name": "CHAINE CHIEN ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "21128ab7-6bb9-45f0-a003-cf8223b626cb.jpg",
+    "qty": 3,
+    "price": 300,
+    "uuid": "02d98dd3-cc16-4a92-bc86-bde418cb75da"
+  },
+  {
+    "name": "Chaine chien carre gm",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "4b7a4d41-42e5-485c-9f47-2fcb1c346628.jpg",
+    "qty": 5,
+    "price": 700,
+    "uuid": "fc34a4ad-84fa-4e56-9186-3f796264818e"
+  },
+  {
+    "name": "cheville de 08 à vis",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "fc0b6c65-d824-494f-9f74-4d8f6839ffe1.jpg",
+    "qty": 3,
+    "price": 500,
+    "uuid": "6b3c6202-3d85-406c-aea0-f09a9daacc8c"
+  },
+  {
+    "name": "cheville métalique N° 10 en paquet de 30",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 1,
+    "price": 3000,
+    "uuid": "5ee3bfff-58fd-44ce-a77d-7e62fca63699"
+  },
+  {
+    "name": "cheville métalique n° 10 en paquet de 30  (3 000)",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 60,
+    "price": 100,
+    "uuid": "559643c6-6650-48fd-ab63-981294426443"
+  },
+  {
+    "name": "cheville métalique N° 10 en paquet de 30pces",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 4,
+    "price": 3000,
+    "uuid": "74aab6dd-b0ff-4bcc-ac69-aea7ebce509e"
+  },
+  {
+    "name": "cheville métalique n° 12 en paquet de  20",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 1,
+    "price": 3500,
+    "uuid": "3a57b126-f5c7-48d4-af1f-ea551a264426"
+  },
+  {
+    "name": "cheville métalique N° 12 en paquet de 20pces",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 2,
+    "price": 3500,
+    "uuid": "a09f7662-c00b-45e1-b3f6-38f688148443"
+  },
+  {
+    "name": "cheville métalique n° 8 en paquet de 50",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 1,
+    "price": 3300,
+    "uuid": "529aa6e1-1a5a-43e4-9a8f-c5aa9b762aca"
+  },
+  {
+    "name": "cheville métalique n° 8 en paquet de 50  (3 300)",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9ea7f414-78aa-4f2e-9f1c-aa48f5fceb0a.jpeg",
+    "qty": 150,
+    "price": 65,
+    "uuid": "1a1637ed-f4a2-4832-beec-bbcc9eda15d0"
+  },
+  {
+    "name": "CIMENT CIMAF 32.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "f7c235d7-922f-452d-a67a-68d147c5a741.jpg",
+    "qty": 300,
+    "price": 4325,
+    "uuid": "2cf7fdc5-5801-427c-903e-ca28928a50a8"
+  },
+  {
+    "name": "ciment CIMAF 32.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "f7c235d7-922f-452d-a67a-68d147c5a741.jpg",
+    "qty": 317,
+    "price": 4375,
+    "uuid": "3bd3cc19-4514-40ac-97d0-cd1da9bd2da9"
+  },
+  {
+    "name": "ciment CIMAF 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "248586d6-528c-42a3-b402-1d252172f3bf.jpg",
+    "qty": 327,
+    "price": 5125,
+    "uuid": "9c1d2f15-8b01-4d5b-a67d-41c6ee0c4129"
+  },
+  {
+    "name": "Ciment Dangoté 42,5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "ee92a03e-24d3-4acd-b8eb-e5ff284bf4cd.jpg",
+    "qty": 300,
+    "price": 5225,
+    "uuid": "a77c7fde-07d5-4e78-82ba-ad0b8e2372aa"
+  },
+  {
+    "name": "CIMENT DANGOTE 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "ee92a03e-24d3-4acd-b8eb-e5ff284bf4cd.jpg",
+    "qty": 700,
+    "price": 5325,
+    "uuid": "14c1bf68-b2cc-4ee3-8d71-7ff5a8b60430"
+  },
+  {
+    "name": "CIMENT DANGOTE 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "ee92a03e-24d3-4acd-b8eb-e5ff284bf4cd.jpg",
+    "qty": 200,
+    "price": 5275,
+    "uuid": "c718455a-4420-4833-80f4-5046117d6593"
+  },
+  {
+    "name": "CIMENT DANGOTE42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "ee92a03e-24d3-4acd-b8eb-e5ff284bf4cd.jpg",
+    "qty": 235,
+    "price": 5275,
+    "uuid": "89d7f864-898d-40d1-ab55-893fc7a552b2"
+  },
+  {
+    "name": "CIMENT DANGOTTE 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "ee92a03e-24d3-4acd-b8eb-e5ff284bf4cd.jpg",
+    "qty": 640,
+    "price": 5225,
+    "uuid": "9c466553-fcf9-48f5-b617-ae6fcf38096f"
+  },
+  {
+    "name": "ciment miraco 42,5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "a2af6fcb-5dfe-4d36-b257-d209e521ec8d.jpg",
+    "qty": 350,
+    "price": 4875,
+    "uuid": "f373c36f-12f7-4055-ab68-da700eacd269"
+  },
+  {
+    "name": "CIMENT MIRACO 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "a2af6fcb-5dfe-4d36-b257-d209e521ec8d.jpg",
+    "qty": 340,
+    "price": 4975,
+    "uuid": "98fae743-2b8a-45de-84fa-107e09f4ded3"
+  },
+  {
+    "name": "ciment miraco 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "a2af6fcb-5dfe-4d36-b257-d209e521ec8d.jpg",
+    "qty": 350,
+    "price": 4875,
+    "uuid": "d0581153-8a4f-44e5-86c8-6319f8daf2e3"
+  },
+  {
+    "name": "ciment miraco 42.5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "a2af6fcb-5dfe-4d36-b257-d209e521ec8d.jpg",
+    "qty": 700,
+    "price": 4875,
+    "uuid": "42eb14a4-025f-489a-9750-1960128e5700"
+  },
+  {
+    "name": "Ciment robust 42,5",
+    "category": "Ciment",
+    "unit": "sac",
+    "image": "4600d732-833c-4db4-b3cf-f864501f9c4d.png",
+    "qty": 100,
+    "price": 5350,
+    "uuid": "32f9d63b-4e35-42d3-8bf3-5d689f864eb3"
+  },
+  {
+    "name": "cisaille à tôle N° 10",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "58818707-88de-4eb6-9a5c-cb326b24bb03.jpg",
+    "qty": 6,
+    "price": 1100,
+    "uuid": "da4ab1db-2f48-4fcd-b4f4-1022fd92633b"
+  },
+  {
+    "name": "colier allur de 100",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 250,
+    "uuid": "c587405e-400b-47f2-bf1c-ada21437480e"
+  },
+  {
+    "name": "COLLE 99 125g",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "18afc9d9-28b3-4469-8781-84a9c1ac6f4a.png",
+    "qty": 30,
+    "price": 350,
+    "uuid": "7aa10d5a-d0f5-41aa-b756-3600714974db"
+  },
+  {
+    "name": "Colle 99 125g",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "18afc9d9-28b3-4469-8781-84a9c1ac6f4a.png",
+    "qty": 10,
+    "price": 375,
+    "uuid": "0fc5de86-2459-41ea-881b-9b6a5f729ece"
+  },
+  {
+    "name": "Colle 99 125g",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "18afc9d9-28b3-4469-8781-84a9c1ac6f4a.png",
+    "qty": 20,
+    "price": 375,
+    "uuid": "59ae52fe-51b3-47e0-9c21-448cc8d04e9e"
+  },
+  {
+    "name": "COLLE 99 125g",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "18afc9d9-28b3-4469-8781-84a9c1ac6f4a.png",
+    "qty": 10,
+    "price": 350,
+    "uuid": "659b2489-8cef-4d8d-8474-c89cba9c908c"
+  },
+  {
+    "name": "colle 99 125g",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "18afc9d9-28b3-4469-8781-84a9c1ac6f4a.png",
+    "qty": 10,
+    "price": 350,
+    "uuid": "7b95fcb3-ce2a-41c4-bc10-1394f46412fe"
+  },
+  {
+    "name": "Colle 99 800g S1",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "9e731174-9d6c-4e26-9936-f75d11b81eeb.jpg",
+    "qty": 3,
+    "price": 2900,
+    "uuid": "3740f6f9-162a-40ed-9249-3bc100bb7342"
+  },
+  {
+    "name": "COLLE EPOXY ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "cdceda90-6399-4b43-bd14-9ebb49e0f27f.jpg",
+    "qty": 5,
+    "price": 600,
+    "uuid": "6dfd433a-c4e7-425f-a8ac-f2baf831bf47"
+  },
+  {
+    "name": "COLLE FEVICOL EN TUBE 125MG",
+    "category": "Autre",
+    "unit": "TUBES",
+    "image": "93484c79-b339-464e-8f72-108c5ac96bf6.jpg",
+    "qty": 5,
+    "price": 1900,
+    "uuid": "ec2789c2-8a8c-4fc3-a86a-c7308801bbf9"
+  },
+  {
+    "name": "COLLE FORTE 99 125G",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "94db7c68-b039-4182-a7ef-2146c44cdeda.jpg",
+    "qty": 10,
+    "price": 350,
+    "uuid": "bcf47be7-9163-472c-ab62-d3e7564f102d"
+  },
+  {
+    "name": "colle PVC pegafort en tube",
+    "category": "Autre",
+    "unit": "tubes",
+    "image": "2198c736-e256-43eb-9e21-31e12610d87c.jpg",
+    "qty": 6,
+    "price": 1200,
+    "uuid": "ae8227ff-2e6a-48c6-969d-c26bdb9fb190"
+  },
+  {
+    "name": "COLLE PVC PEGAFORT EN TUBE ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "2198c736-e256-43eb-9e21-31e12610d87c.jpg",
+    "qty": 5,
+    "price": 1250,
+    "uuid": "9e680f7c-0e6d-4121-bc18-0dbc1d736cfa"
+  },
+  {
+    "name": "colle silicone 3000 taki",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "0ad80e2e-0db0-4f1e-af0e-69366d3aff9b.jpg",
+    "qty": 24,
+    "price": 1250,
+    "uuid": "eed8ab0e-2190-4918-b756-9605416b1735"
+  },
+  {
+    "name": "colle silicone abro2500",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "4f70010c-3f7a-4d0a-9395-0508666dd869.png",
+    "qty": 6,
+    "price": 1200,
+    "uuid": "eb2505c3-481a-40a4-ad1e-16b65854ae5a"
+  },
+  {
+    "name": "Colle silicone taki claire",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "b6066b9f-0fcb-468a-8dd2-2bc042a53cc0.webp",
+    "qty": 1,
+    "price": 1350,
+    "uuid": "a3d4aaa4-2fa7-4ffd-9625-4c9e30916507"
+  },
+  {
+    "name": "COLLE SILICONE TAKI CLAIRE",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "b6066b9f-0fcb-468a-8dd2-2bc042a53cc0.webp",
+    "qty": 2,
+    "price": 1350,
+    "uuid": "9fff61f0-3f76-4d82-86e8-be49992700ee"
+  },
+  {
+    "name": "Colle silicone taki gris",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "9347e0cd-e5df-405e-b057-a0360c9d8b42.jpg",
+    "qty": 1,
+    "price": 1350,
+    "uuid": "4640d956-1308-4ab0-a874-7b424a9f0802"
+  },
+  {
+    "name": "COLLE SILICONE TAKI GRIS",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "9347e0cd-e5df-405e-b057-a0360c9d8b42.jpg",
+    "qty": 2,
+    "price": 1350,
+    "uuid": "ed6909e1-0e01-498b-9c92-1d6d54d40c7a"
+  },
+  {
+    "name": "Colle silicone taki noire",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "",
+    "qty": 1,
+    "price": 1350,
+    "uuid": "3933152e-00df-4ac7-8b74-0f3b6b87942c"
+  },
+  {
+    "name": "COLLE SILICONE TAKI NOIRE",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "",
+    "qty": 2,
+    "price": 1350,
+    "uuid": "6d0ba0fa-e826-46ce-aa8b-1b1e82605f6e"
+  },
+  {
+    "name": "colle souris original",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "0c9ac751-fba5-4bd0-8e15-33bd69c1c0aa.jpeg",
+    "qty": 4,
+    "price": 1000,
+    "uuid": "6dc3e6ea-4915-47b4-a6d6-d72bab244782"
+  },
+  {
+    "name": "COMPTEUR NUMERIQUE YAKI PM",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "fc4173f3-3e41-4869-92f6-3df71dc0ddd9.png",
+    "qty": 3,
+    "price": 2500,
+    "uuid": "8644e6f4-34ae-4876-896e-d642f190e1a8"
+  },
+  {
+    "name": "compteur numérique Yaki PM",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "fc4173f3-3e41-4869-92f6-3df71dc0ddd9.png",
+    "qty": 6,
+    "price": 2500,
+    "uuid": "a4bc7845-d150-4273-9033-0a4bcb27e688"
+  },
+  {
+    "name": "CONTRE PLAQUE OZAMBILI",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1b1874f1-ff18-45f3-b375-2d1a84cd5fef.jpeg",
+    "qty": 70,
+    "price": 2700,
+    "uuid": "2fdd23f6-e3cc-423e-8bfd-3dd682ade234"
+  },
+  {
+    "name": "contre plaque ozambili ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1b1874f1-ff18-45f3-b375-2d1a84cd5fef.jpeg",
+    "qty": 100,
+    "price": 2650,
+    "uuid": "513331be-d10b-45c0-81b6-d9b4bb075cfa"
+  },
+  {
+    "name": "contre plaqué ozambili ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1b1874f1-ff18-45f3-b375-2d1a84cd5fef.jpeg",
+    "qty": 50,
+    "price": 2700,
+    "uuid": "c96fc2d8-2544-4378-8b74-292e4aedf55e"
+  },
+  {
+    "name": "CORDAGE NILON N°2 100M",
+    "category": "Autre",
+    "unit": "ROULEAUX",
+    "image": "f5bf9f3c-8126-49b3-a585-8b97bbf1f5b9.jpg",
+    "qty": 10,
+    "price": 400,
+    "uuid": "5a957e65-a6ac-4d9f-bb48-efd244cce45f"
+  },
+  {
+    "name": "CORDAGE NNYLON N°2 /100",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f5bf9f3c-8126-49b3-a585-8b97bbf1f5b9.jpg",
+    "qty": 10,
+    "price": 400,
+    "uuid": "2c0d7743-2d0f-49d8-8e62-427ef99554f0"
+  },
+  {
+    "name": "Cordage nylon n°2 en 100m",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "f5bf9f3c-8126-49b3-a585-8b97bbf1f5b9.jpg",
+    "qty": 10,
+    "price": 400,
+    "uuid": "380ed1e3-cda8-4f44-83a2-b08391e974d4"
+  },
+  {
+    "name": "cordage nylon n°2 en 100m",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "f5bf9f3c-8126-49b3-a585-8b97bbf1f5b9.jpg",
+    "qty": 10,
+    "price": 400,
+    "uuid": "25ae644d-eaeb-440b-9cdc-3d4f71d38312"
+  },
+  {
+    "name": "CORDEX MACON",
+    "category": "Outillage",
+    "unit": "PLAQUETTE",
+    "image": "7b86f813-31a3-4108-9a5b-a856384cd72f.jpg",
+    "qty": 5,
+    "price": 800,
+    "uuid": "11bcf914-4035-4f31-ba05-a198e8d9074d"
+  },
+  {
+    "name": "coude PVC de 100  1/8",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "1937a366-b048-4255-a6b7-1482c5bb5ecc.jpg",
+    "qty": 10,
+    "price": 750,
+    "uuid": "d870f3fb-ab64-4e2b-a0c6-88b87a2e8cc9"
+  },
+  {
+    "name": "Coude PVC de 63 1/4",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "1607f1fa-303b-4239-b1f5-d3d3678333de.jpg",
+    "qty": 15,
+    "price": 350,
+    "uuid": "8b480f84-e3ac-47c6-ae7d-52ffda134cf9"
+  },
+  {
+    "name": "Coude PVC de 63 1/8",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "7fa6aa16-2b75-47dd-ab4c-c0caacb6be2c.webp",
+    "qty": 10,
+    "price": 350,
+    "uuid": "cf6ac45e-126b-4ff9-8806-3665764eeacb"
+  },
+  {
+    "name": "couteau électricien  en jeux PM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "c0239e14-b229-4618-8a5e-5b8549d5e671.jpeg",
+    "qty": 12,
+    "price": 75,
+    "uuid": "3a0f7f50-cd6d-4b2d-a221-7e2099793cf1"
+  },
+  {
+    "name": "couteau électricien  S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "dd7eeda9-9a44-433a-b680-470613d7c42b.jpg",
+    "qty": 12,
+    "price": 350,
+    "uuid": "0e6962ba-c114-4fbd-a02c-41d6a1ac9322"
+  },
+  {
+    "name": "Couteau électricien en jeux PM",
+    "category": "Outillage",
+    "unit": "jeux ",
+    "image": "c0239e14-b229-4618-8a5e-5b8549d5e671.jpeg",
+    "qty": 1,
+    "price": 800,
+    "uuid": "4feb42ad-36f6-4a21-b7db-1274e6c54a05"
+  },
+  {
+    "name": "Couteau électricien S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "dd7eeda9-9a44-433a-b680-470613d7c42b.jpg",
+    "qty": 10,
+    "price": 300,
+    "uuid": "599bb4e5-f000-4c6f-8b59-32553628ee82"
+  },
+  {
+    "name": "Couteau électricin S1",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "dd7eeda9-9a44-433a-b680-470613d7c42b.jpg",
+    "qty": 5,
+    "price": 450,
+    "uuid": "b369d936-5b1c-4808-8103-0c2af4978e70"
+  },
+  {
+    "name": "DECAMETRE EN PLASTIQUE DE 30",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2dd0ea20-0e21-440b-b185-f422c4f859fe.jpg",
+    "qty": 2,
+    "price": 1100,
+    "uuid": "1190e813-58ad-4acd-8301-7295624df359"
+  },
+  {
+    "name": "DECAMETRE EN PLASTIQUE DE 30",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2dd0ea20-0e21-440b-b185-f422c4f859fe.jpg",
+    "qty": 2,
+    "price": 1100,
+    "uuid": "b35e7a8f-9caf-473c-b258-ce4f7be5463e"
+  },
+  {
+    "name": "decametre en plastique de 30",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2dd0ea20-0e21-440b-b185-f422c4f859fe.jpg",
+    "qty": 6,
+    "price": 1100,
+    "uuid": "00f6c9d2-b333-4f14-abb4-4e461b02d812"
+  },
+  {
+    "name": "DECAMETRE EN PLASTIQUE DE 50",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2dd0ea20-0e21-440b-b185-f422c4f859fe.jpg",
+    "qty": 2,
+    "price": 1500,
+    "uuid": "6fb45316-1c89-4c3b-b8d8-06827e990ef0"
+  },
+  {
+    "name": "DECAMETRE EN PLASTIQUE DE 50",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "fb21412a-9beb-4b8a-830f-5b6eb0578e18.png",
+    "qty": 2,
+    "price": 1600,
+    "uuid": "c6ff19f2-2159-4a71-bc48-27022632e3f1"
+  },
+  {
+    "name": "decamètre en plastique de 50",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "fb21412a-9beb-4b8a-830f-5b6eb0578e18.png",
+    "qty": 4,
+    "price": 1500,
+    "uuid": "baac0e48-7f27-42c1-aaea-79968f6e9e9f"
+  },
+  {
+    "name": "DECAMETRE NU A TIGE AVEC MANCHE DE 100",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "1c9dfb90-a365-4020-a734-424df2f406c3.jpg",
+    "qty": 2,
+    "price": 2900,
+    "uuid": "a3dde69f-43dc-4bbc-ad50-26f483708af5"
+  },
+  {
+    "name": "DECAMETRE NU AVEC POIGNET DE 30",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "febaa9f0-b75c-4237-bce7-6c3ed308a74e.jpeg",
+    "qty": 2,
+    "price": 1400,
+    "uuid": "ac23bfb1-9161-473a-842e-da1ef89416aa"
+  },
+  {
+    "name": "decametre nu avec poignet de 30",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "febaa9f0-b75c-4237-bce7-6c3ed308a74e.jpeg",
+    "qty": 4,
+    "price": 1400,
+    "uuid": "ca1180aa-5270-40a6-830d-3de1e55e9eb7"
+  },
+  {
+    "name": "DECAMETRE NU AVEC POIGNET DE 50",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9d82ddd9-520b-45b6-a31b-4f20af3879d6.jpg",
+    "qty": 2,
+    "price": 1750,
+    "uuid": "fb71f54d-cc8c-4620-9f11-58382f13a66b"
+  },
+  {
+    "name": "decametre nu avec poignet de 50",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9d82ddd9-520b-45b6-a31b-4f20af3879d6.jpg",
+    "qty": 6,
+    "price": 150,
+    "uuid": "8b301cbd-d47d-41ba-bdd0-bc8b197b5080"
+  },
+  {
+    "name": "DETENDEUR A GAZ BLEU",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "96b29a0b-fec9-4e03-b88c-aec23b898f2b.jpg",
+    "qty": 5,
+    "price": 550,
+    "uuid": "076f643c-1927-4381-b2d9-c08625b151cc"
+  },
+  {
+    "name": "détendeur à gaz vert",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "ef1b56fe-4698-476a-b795-7c3efdd808e9.jpeg",
+    "qty": 6,
+    "price": 1000,
+    "uuid": "0be2f75e-3277-4927-8fac-65c857a7082c"
+  },
+  {
+    "name": "diluant cellulosique ",
+    "category": "Autre",
+    "unit": "litres ",
+    "image": "05728161-bde6-4c42-8511-ffd4df364c5c.jpg",
+    "qty": 25,
+    "price": 1000,
+    "uuid": "6651a5a2-6f4c-4fcc-ba14-0112c762d948"
+  },
+  {
+    "name": "diluant en 1 litre",
+    "category": "Autre",
+    "unit": "bouteilles",
+    "image": "f59494e9-2a90-4b7e-93ef-cba7116f0225.jpg",
+    "qty": 10,
+    "price": 1100,
+    "uuid": "bb16fd28-a7de-4bc8-9dc6-3dddd9fc092a"
+  },
+  {
+    "name": "Diluant en 1L",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "f59494e9-2a90-4b7e-93ef-cba7116f0225.jpg",
+    "qty": 5,
+    "price": 1200,
+    "uuid": "07b7bd53-6a70-483f-802b-dd8b51bfc166"
+  },
+  {
+    "name": "DILUANT EN 1L",
+    "category": "Autre",
+    "unit": "LITRES",
+    "image": "f59494e9-2a90-4b7e-93ef-cba7116f0225.jpg",
+    "qty": 5,
+    "price": 1100,
+    "uuid": "eddb4b93-f5c5-4493-88b4-c8d5e556405e"
+  },
+  {
+    "name": "Diluant en 1L",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "f59494e9-2a90-4b7e-93ef-cba7116f0225.jpg",
+    "qty": 10,
+    "price": 1100,
+    "uuid": "5785ae9d-585e-4227-8d3b-cdeed6f88801"
+  },
+  {
+    "name": "DILUANT EN 1L",
+    "category": "Autre",
+    "unit": "LITRE",
+    "image": "f59494e9-2a90-4b7e-93ef-cba7116f0225.jpg",
+    "qty": 5,
+    "price": 1100,
+    "uuid": "42e90e89-28f5-462b-9db8-19dae45256eb"
+  },
+  {
+    "name": "DILUANT EN 1L",
+    "category": "Autre",
+    "unit": "LITRE",
+    "image": "f59494e9-2a90-4b7e-93ef-cba7116f0225.jpg",
+    "qty": 5,
+    "price": 1100,
+    "uuid": "76ff2d01-6d1a-4064-bdd6-f1fac6e2fc67"
+  },
+  {
+    "name": "DILUANT EN 5 LITRE",
+    "category": "Autre",
+    "unit": "POT",
+    "image": "dfdaff70-fb10-4b16-bb4d-f05c15f1e121.jpg",
+    "qty": 1,
+    "price": 5500,
+    "uuid": "808d2898-dd22-4fce-b33e-6c2394a24a41"
+  },
+  {
+    "name": "Disque à couper",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "bcc3873f-133c-4a6e-89c7-f38047828e28.jpg",
+    "qty": 10,
+    "price": 600,
+    "uuid": "3a8b54e1-145f-4242-b1af-4086a0af70bd"
+  },
+  {
+    "name": "DISQUE A COUPER CROCODILE",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "f5b6e645-0d6c-4151-93fe-1af73d79ce9a.png",
+    "qty": 5,
+    "price": 650,
+    "uuid": "049efcb0-9185-4836-b4f2-8d01237a1ee8"
+  },
+  {
+    "name": "DISQUE A COUPER CROCODILE",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "f5b6e645-0d6c-4151-93fe-1af73d79ce9a.png",
+    "qty": 5,
+    "price": 650,
+    "uuid": "17c1844c-d0c5-4a54-8ef0-4b3af87dac95"
+  },
+  {
+    "name": "disque à couper taki 2,5",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "41ad469a-5d49-4258-9d90-a04c74f90c3c.jpeg",
+    "qty": 10,
+    "price": 650,
+    "uuid": "04e819d3-09c5-49c3-906e-99b14b4e7a58"
+  },
+  {
+    "name": "disque à couper taki 2,5",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "41ad469a-5d49-4258-9d90-a04c74f90c3c.jpeg",
+    "qty": 50,
+    "price": 640,
+    "uuid": "d5f34d5b-7023-455e-904a-f176c2d56175"
+  },
+  {
+    "name": "DISQUE A COUPER TAKI 2.5",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "41ad469a-5d49-4258-9d90-a04c74f90c3c.jpeg",
+    "qty": 15,
+    "price": 650,
+    "uuid": "72ba5d73-363c-4805-ad43-c66a0c247544"
+  },
+  {
+    "name": "DISQUE A COUPER TAKI 2MM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9befa99f-1c79-4a71-8da6-14a15b39834c.jpeg",
+    "qty": 10,
+    "price": 600,
+    "uuid": "8a8f8265-0f80-4f95-940b-2bd774e0062c"
+  },
+  {
+    "name": "Disque à couper taki 2mm",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9befa99f-1c79-4a71-8da6-14a15b39834c.jpeg",
+    "qty": 5,
+    "price": 650,
+    "uuid": "b47e52f1-f1e4-4a64-972a-0bfc4146c334"
+  },
+  {
+    "name": "Disque à couper Taki 2mm",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9befa99f-1c79-4a71-8da6-14a15b39834c.jpeg",
+    "qty": 10,
+    "price": 650,
+    "uuid": "ae8e7d99-26ed-44b2-ad23-d7684de4b03a"
+  },
+  {
+    "name": "DISQUE A COUPER TAKI 3,5",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9befa99f-1c79-4a71-8da6-14a15b39834c.jpeg",
+    "qty": 10,
+    "price": 850,
+    "uuid": "c8813f99-6f9c-4d01-9603-6f00a813078a"
+  },
+  {
+    "name": "DISQUE A COUPER TAKI DE 2,5",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9befa99f-1c79-4a71-8da6-14a15b39834c.jpeg",
+    "qty": 10,
+    "price": 650,
+    "uuid": "4604f22e-c5f1-43e7-bad1-875865f82800"
+  },
+  {
+    "name": "Disque à meuler",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "c59a4cbf-ab7e-490f-8f34-f33f485a94a7.jpg",
+    "qty": 10,
+    "price": 1300,
+    "uuid": "cd02ba47-6d86-4711-9015-fb8a77c3d0f2"
+  },
+  {
+    "name": "DISQUE A MEULER TAKI 230",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "99e4f6a0-3497-4786-9036-f9a86484d45f.jpg",
+    "qty": 10,
+    "price": 1250,
+    "uuid": "32d777c2-b051-4010-ad21-5d64583b8ca6"
+  },
+  {
+    "name": "Disque diamante 115mm",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "c22623e3-8bda-4a51-87a7-25258a8ea44e.jpg",
+    "qty": 5,
+    "price": 900,
+    "uuid": "35e9e6d0-eaf4-4e95-96b5-73b2c9a3697f"
+  },
+  {
+    "name": "Disque diamante moyen 180",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "3616bc87-5d12-4912-8af9-3c7789c04042.jpg",
+    "qty": 3,
+    "price": 1750,
+    "uuid": "04b42c42-066f-44f8-9e68-7dcf22be935e"
+  },
+  {
+    "name": "Disque diamante pm 115",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "11b4484f-0bcb-4ab3-bd21-a99391455380.jpg",
+    "qty": 3,
+    "price": 800,
+    "uuid": "622dc617-bc51-454c-89ba-ffde1fb24293"
+  },
+  {
+    "name": "domino 25A",
+    "category": "Boîte connecteur",
+    "unit": "barettes",
+    "image": "6f71a468-06cc-4d22-b67f-4065aaa6cf10.jpg",
+    "qty": 10,
+    "price": 300,
+    "uuid": "46843534-efb9-446e-917a-1296bd16e2bc"
+  },
+  {
+    "name": "Domino legrand 16A",
+    "category": "Boîte connecteur",
+    "unit": "barette",
+    "image": "b2fae503-d53b-44d8-8b30-6b967636e7cb.jpg",
+    "qty": 4,
+    "price": 600,
+    "uuid": "424f3127-11ae-42ce-aab7-d7408d8b3e3b"
+  },
+  {
+    "name": "Douille delta",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "63926725-d014-4748-af1c-de5834b4cd04.jpg",
+    "qty": 60,
+    "price": 90,
+    "uuid": "8932a608-59be-4377-a46e-3830a9e1b9c6"
+  },
+  {
+    "name": "douille delta ",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "63926725-d014-4748-af1c-de5834b4cd04.jpg",
+    "qty": 80,
+    "price": 90,
+    "uuid": "cf793a3a-eefa-496b-affb-b604e388bae9"
+  },
+  {
+    "name": "DOUILLE DELTA EN PQT DE 20PCS",
+    "category": "Electricité",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 2000,
+    "uuid": "a9db5b71-5e2a-4fba-94de-309406e7d8f4"
+  },
+  {
+    "name": "Douille plafoniere universelle",
+    "category": "Electricité",
+    "unit": "pièce ",
+    "image": "220042ba-cb30-4c71-ab47-74957f28372a.jpg",
+    "qty": 20,
+    "price": 300,
+    "uuid": "e6298c03-cbe3-47df-9f81-641da13f9bc6"
+  },
+  {
+    "name": "Douille simple crable S1",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "",
+    "qty": 40,
+    "price": 175,
+    "uuid": "03d3bc4e-ceb4-455d-b2c1-23a9d618beee"
+  },
+  {
+    "name": "Douille simple crable S1",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 135,
+    "uuid": "e5e4ebe3-7ba6-4514-b081-dc7a6c79a85a"
+  },
+  {
+    "name": "Douille universelle",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "",
+    "qty": 40,
+    "price": 175,
+    "uuid": "e5e6f666-41da-4867-aaa7-522fbfce6829"
+  },
+  {
+    "name": "enduir  universal unicoat en 30kg",
+    "category": "Plâtre",
+    "unit": "seau",
+    "image": "",
+    "qty": 1,
+    "price": 18000,
+    "uuid": "174b3464-00e4-40c1-a3ea-1c02ba45ad00"
+  },
+  {
+    "name": "enduir universal unicoat en 30kg",
+    "category": "Plâtre",
+    "unit": "seau",
+    "image": "147fd187-9d95-4f15-921c-f818e9480164.jpg",
+    "qty": 1,
+    "price": 18500,
+    "uuid": "e8afa9c4-e29e-4b1d-8891-0b2d28bfac37"
+  },
+  {
+    "name": "eponge ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1b54db2a-bab1-4f87-b22c-f15f110782aa.jpg",
+    "qty": 9,
+    "price": 330,
+    "uuid": "115e242f-1063-4de4-b4b0-190ee8b79e78"
+  },
+  {
+    "name": "eponge ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1b54db2a-bab1-4f87-b22c-f15f110782aa.jpg",
+    "qty": 2,
+    "price": 275,
+    "uuid": "e472e3ab-8fa8-4a50-8532-43b3a744a4be"
+  },
+  {
+    "name": "Eponge ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1b54db2a-bab1-4f87-b22c-f15f110782aa.jpg",
+    "qty": 61,
+    "price": 165,
+    "uuid": "6745cfe2-3bbb-42b9-8d4b-a741a25449e2"
+  },
+  {
+    "name": "equerre menuisier de 30cm",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "bfce7ae5-df06-4cad-8323-72acf3932414.jpg",
+    "qty": 10,
+    "price": 500,
+    "uuid": "e16d751c-77d9-439c-8696-5d711f00aac8"
+  },
+  {
+    "name": "FER DE 6",
+    "category": "Fer",
+    "unit": "BARRE",
+    "image": "4d6f79cd-3960-44b5-a568-299e1fe8de53.jpg",
+    "qty": 50,
+    "price": 1630,
+    "uuid": "7443f66f-b498-4ed2-9fe6-a915b0e20aa1"
+  },
+  {
+    "name": "FER DE 6 AM ",
+    "category": "Fer",
+    "unit": "BARRES",
+    "image": "e789d8f5-b81d-4921-b1c2-8bc38f37ce64.jpg",
+    "qty": 150,
+    "price": 1530,
+    "uuid": "fbbf0eda-223b-45e1-b664-5933b2d66215"
+  },
+  {
+    "name": "fer de 6 en 12m",
+    "category": "Fer",
+    "unit": "barres",
+    "image": "636a8b0d-16b1-40ef-b4d5-3f3e8f30d9a6.jpg",
+    "qty": 100,
+    "price": 1530,
+    "uuid": "b25875d6-6c9e-4fc0-bf7d-61a0e1c07b89"
+  },
+  {
+    "name": "FER TOR 10MM FEE400 EN 12MMT",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "6cd493c5-5b70-4ebc-aee6-35b2da7b7c87.jpeg",
+    "qty": 100,
+    "price": 4300,
+    "uuid": "9dacb416-d9b6-4f70-ba7b-7a87647955f0"
+  },
+  {
+    "name": "FER TOR 10MM FEE500 EN 12M PM",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "84a2bb9a-f8d5-4ca9-8926-da5f2da775b9.jpg",
+    "qty": 50,
+    "price": 4650,
+    "uuid": "60c36156-bcae-4d0d-b395-9cf96704a493"
+  },
+  {
+    "name": "fer tor 12mm FEE400 EN 12M PM",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "6cd493c5-5b70-4ebc-aee6-35b2da7b7c87.jpeg",
+    "qty": 50,
+    "price": 6300,
+    "uuid": "a4552f68-1948-41a4-a831-cdc12f9896fc"
+  },
+  {
+    "name": "FER TOR 12MM FEE450 EN 12MM AMS",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "fc785c74-b404-49d6-a86b-7c4acad53c2a.jpeg",
+    "qty": 50,
+    "price": 6200,
+    "uuid": "734685a5-94d8-481a-8bc2-8da2818c328a"
+  },
+  {
+    "name": "FER TOR 12MM FEE500 EN 12MM PM",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "becc129f-0e73-447f-96cd-7fe24dceb0a2.jpg",
+    "qty": 30,
+    "price": 6650,
+    "uuid": "d984d024-2123-41b5-b987-c4c6608c5e35"
+  },
+  {
+    "name": "FER TOR 6MM FEE400 EN 12MM",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "339f9286-6ea1-4395-b4f0-14455f171675.jpg",
+    "qty": 100,
+    "price": 1520,
+    "uuid": "949db98d-8633-4246-8ff1-89e3b70d6205"
+  },
+  {
+    "name": "FER TOR 6MM FER400 EN 12M PM",
+    "category": "Fer",
+    "unit": "BARES",
+    "image": "339f9286-6ea1-4395-b4f0-14455f171675.jpg",
+    "qty": 100,
+    "price": 1550,
+    "uuid": "6c291270-cf64-4476-9fbd-c4e178d3bf14"
+  },
+  {
+    "name": "FER TOR 8MM FEE 400 EN 12MMT",
+    "category": "Fer",
+    "unit": " BARRE",
+    "image": "339f9286-6ea1-4395-b4f0-14455f171675.jpg",
+    "qty": 60,
+    "price": 2750,
+    "uuid": "cbd2a8ba-b2f2-4c66-8521-4db43e6cdc87"
+  },
+  {
+    "name": "FER TOR 8MM FEE400 EN 12M PM",
+    "category": "Fer",
+    "unit": "BARES",
+    "image": "339f9286-6ea1-4395-b4f0-14455f171675.jpg",
+    "qty": 100,
+    "price": 2800,
+    "uuid": "f4721edb-5663-4286-ae0c-06f3d244da2a"
+  },
+  {
+    "name": "fer tor 8MM FEE400 en 12M PM",
+    "category": "Fer",
+    "unit": "barres",
+    "image": "339f9286-6ea1-4395-b4f0-14455f171675.jpg",
+    "qty": 100,
+    "price": 2800,
+    "uuid": "f3478ceb-fab1-4a48-a5ff-282738295f48"
+  },
+  {
+    "name": "FER TOR 8MM FEE500 EN 12M PM",
+    "category": "Fer",
+    "unit": "pièce",
+    "image": "9896a798-214c-4223-a3b9-2eac81b1fae9.png",
+    "qty": 50,
+    "price": 3000,
+    "uuid": "eb5ab44b-63ae-498c-a8d3-0a4bd2974324"
+  },
+  {
+    "name": "fer tor 8MM FEE500 en 12M PM",
+    "category": "Fer",
+    "unit": "barres",
+    "image": "9896a798-214c-4223-a3b9-2eac81b1fae9.png",
+    "qty": 100,
+    "price": 3000,
+    "uuid": "931a3b9f-5c87-4bb3-bd62-c422658c0e8e"
+  },
+  {
+    "name": "FER TOR DE 8 AM 400",
+    "category": "Fer",
+    "unit": "BARRES",
+    "image": "339f9286-6ea1-4395-b4f0-14455f171675.jpg",
+    "qty": 100,
+    "price": 2700,
+    "uuid": "43b61df6-4ac0-441f-9f64-83ab7021db83"
+  },
+  {
+    "name": "fer tor de 8mm FEE400 12m PM",
+    "category": "Fer",
+    "unit": "barres",
+    "image": "9896a798-214c-4223-a3b9-2eac81b1fae9.png",
+    "qty": 100,
+    "price": 2800,
+    "uuid": "52b35515-3f97-482e-8e5c-148e453cb84e"
+  },
+  {
+    "name": "fer tor de 8mm FEE500 EN 12M PM",
+    "category": "Fer",
+    "unit": "barres",
+    "image": "9896a798-214c-4223-a3b9-2eac81b1fae9.png",
+    "qty": 44,
+    "price": 3000,
+    "uuid": "dd00d80b-14ca-4104-b003-93dd1a1780af"
+  },
+  {
+    "name": "Ficelle n° 2 ",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "af4b47e9-4d5c-4e2a-bf1a-a042d1095ba3.jpg",
+    "qty": 1,
+    "price": 400,
+    "uuid": "ca78691e-a6dc-4802-97ac-0ffef443ce54"
+  },
+  {
+    "name": "FICELLE N° 3  S1",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "52a04d30-8fe4-4cbf-b675-81a07b258f60.jpg",
+    "qty": 3,
+    "price": 1200,
+    "uuid": "2d583917-2968-492c-b5ad-3d2ce9e99c59"
+  },
+  {
+    "name": "Ficelle n° 3 S1",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "52a04d30-8fe4-4cbf-b675-81a07b258f60.jpg",
+    "qty": 2,
+    "price": 1200,
+    "uuid": "deb29b43-6f6d-43af-842a-234d6d7fc687"
+  },
+  {
+    "name": "ficelle N° 3 S1",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "52a04d30-8fe4-4cbf-b675-81a07b258f60.jpg",
+    "qty": 4,
+    "price": 1200,
+    "uuid": "e89eb27e-1107-4b08-870d-3ab9c60cd35f"
+  },
+  {
+    "name": "Ficelle n° 4 en 100m S1",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "b3f2f680-38e1-496f-948a-1bd593e7df7e.jpeg",
+    "qty": 2,
+    "price": 1900,
+    "uuid": "333a4158-d158-475c-8c1d-14bf77683a8b"
+  },
+  {
+    "name": "FICELLE N° 4 EN 100M S2",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "93ba8938-997b-4cd0-9f7d-a2b0562d3b8d.jpg",
+    "qty": 5,
+    "price": 1500,
+    "uuid": "1080ff21-32d7-4c25-a2bc-5894b25728b7"
+  },
+  {
+    "name": "Ficelle N° 4 en 100m S2",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "93ba8938-997b-4cd0-9f7d-a2b0562d3b8d.jpg",
+    "qty": 4,
+    "price": 1500,
+    "uuid": "e24e0086-bff0-4412-8428-7e4faf6d02c1"
+  },
+  {
+    "name": "FICELLE N° 6 EN 100M S2",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "99cc9342-6eaa-4f14-b33e-7c6d72d5b0b2.jpg",
+    "qty": 3,
+    "price": 2800,
+    "uuid": "06bcf5f7-16a8-4b18-a769-92277f6a4034"
+  },
+  {
+    "name": "Ficelle N° 8  en 100m S2",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "99cc9342-6eaa-4f14-b33e-7c6d72d5b0b2.jpg",
+    "qty": 2,
+    "price": 5000,
+    "uuid": "e82179b6-cb5f-4949-98a5-256c45e39717"
+  },
+  {
+    "name": "Fiche adaptateur alite",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "57af6817-44c3-4463-8923-24a1cc8f65c6.jpg",
+    "qty": 20,
+    "price": 250,
+    "uuid": "74bc73c3-0ccd-4c85-bd2c-a49cabbc1d6a"
+  },
+  {
+    "name": "fiche femelle 2p+terre yaki",
+    "category": "Electricité",
+    "unit": "paquet",
+    "image": "e5dfca6b-c300-42cf-801c-e847d3d5770a.jpg",
+    "qty": 1,
+    "price": 5000,
+    "uuid": "473092c0-13fd-4458-bb2c-e3c8f81f050b"
+  },
+  {
+    "name": "Fiche mal yaki",
+    "category": "Electricité",
+    "unit": "paquet",
+    "image": "a7d0c651-cb15-4247-9976-2cf129b1a097.jpg",
+    "qty": 2,
+    "price": 4700,
+    "uuid": "a0e2a6c2-53bc-4533-90c5-59ceb1f82166"
+  },
+  {
+    "name": "FICHE MULTIPLE 5 TROUS COULEUR",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "107d2863-87ad-4e10-92cd-ea7a190c5930.jpg",
+    "qty": 12,
+    "price": 200,
+    "uuid": "8e1ac321-77e8-4b56-b07e-13758e102767"
+  },
+  {
+    "name": "fil à plomb d' axe",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "192656a8-fc12-47cf-af33-1f5b5c078a55.jpg",
+    "qty": 4,
+    "price": 850,
+    "uuid": "fb009aaa-0adf-41da-889b-2e6250714af6"
+  },
+  {
+    "name": "Fil d'attache ",
+    "category": "Autre",
+    "unit": "ROULEAUX",
+    "image": "f193a493-23e5-41d0-8ae3-329e1c421afc.jpg",
+    "qty": 30,
+    "price": 400,
+    "uuid": "fe8d217c-e2e3-4d13-996c-208096ca4f66"
+  },
+  {
+    "name": "FIL D'ATTACHE ",
+    "category": "Autre",
+    "unit": "ROULEAUX",
+    "image": "4b61be2a-c50d-49cf-a7be-12c7a6ef1244.jpeg",
+    "qty": 20,
+    "price": 4,
+    "uuid": "8974c394-d3c5-4fb0-87ce-686c8ed78059"
+  },
+  {
+    "name": "FIL D'ATTACHE ",
+    "category": "Autre",
+    "unit": "ROULEAUX",
+    "image": "4b61be2a-c50d-49cf-a7be-12c7a6ef1244.jpeg",
+    "qty": 100,
+    "price": 400,
+    "uuid": "7016a6b7-eb02-4769-8340-cce1c965892a"
+  },
+  {
+    "name": "FIL D'ATTACHE ",
+    "category": "Autre",
+    "unit": "ROULEAUX",
+    "image": "4b61be2a-c50d-49cf-a7be-12c7a6ef1244.jpeg",
+    "qty": 100,
+    "price": 400,
+    "uuid": "285e0408-32d9-48a6-a148-bb68ba1aebc1"
+  },
+  {
+    "name": "fil d'attache ",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "4b61be2a-c50d-49cf-a7be-12c7a6ef1244.jpeg",
+    "qty": 200,
+    "price": 475,
+    "uuid": "935e1cc7-523a-450c-ba5a-3172ec395e73"
+  },
+  {
+    "name": "FLASH  BANDE DE 15",
+    "category": "Plomberie",
+    "unit": "ROULEAUX",
+    "image": "996058c3-6e1c-4b52-869b-4b6578884af2.jpg",
+    "qty": 3,
+    "price": 5500,
+    "uuid": "d83d2fa5-be2f-4109-aaf0-f3bd27abcd3c"
+  },
+  {
+    "name": "flash band de 5",
+    "category": "Plomberie",
+    "unit": "rouleaux",
+    "image": "bf3afce5-b94d-4063-81b0-36978a792b5b.jpg",
+    "qty": 2,
+    "price": 2250,
+    "uuid": "1a2b020d-214f-45bc-8bda-20f78f472523"
+  },
+  {
+    "name": "FLASH BANDE DE 10",
+    "category": "Plomberie",
+    "unit": "ROULEAUX",
+    "image": "bb7c0635-ef20-47ae-a864-9203b5c66ccb.jpg",
+    "qty": 2,
+    "price": 3700,
+    "uuid": "595da5f1-f74c-49ff-8eb7-c580079cd39a"
+  },
+  {
+    "name": "FLASH BANDE DE 5",
+    "category": "Plomberie",
+    "unit": "ROULEAUX",
+    "image": "bf3afce5-b94d-4063-81b0-36978a792b5b.jpg",
+    "qty": 2,
+    "price": 1700,
+    "uuid": "e6029055-a5df-4180-a345-78e734559371"
+  },
+  {
+    "name": "FLASH BANDE DE 5",
+    "category": "Plomberie",
+    "unit": "paquet",
+    "image": "bf3afce5-b94d-4063-81b0-36978a792b5b.jpg",
+    "qty": 1,
+    "price": 1700,
+    "uuid": "d1a97607-770f-4ca5-83dd-edaaae35583d"
+  },
+  {
+    "name": "FLASH BANDE DE 7,5",
+    "category": "Plomberie",
+    "unit": "rouleaux",
+    "image": "306ee8fa-8023-40b4-88b7-a420f391b843.jpeg",
+    "qty": 1,
+    "price": 2700,
+    "uuid": "71d9bff2-015e-44cc-9f7a-8e0fc98a9f76"
+  },
+  {
+    "name": "FLASH BANDE DE 7.5",
+    "category": "Plomberie",
+    "unit": "ROULEAUX",
+    "image": "306ee8fa-8023-40b4-88b7-a420f391b843.jpeg",
+    "qty": 2,
+    "price": 2700,
+    "uuid": "17ee2c83-5e95-46d6-9065-b854abe361bb"
+  },
+  {
+    "name": "FLASQUE ORIGINAL",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "7eed7e66-9c0b-4b76-8556-fd19ea24e749.jpg",
+    "qty": 2,
+    "price": 1600,
+    "uuid": "776d64d1-9360-448d-b4e6-aab243e9987a"
+  },
+  {
+    "name": "flasque original ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "7eed7e66-9c0b-4b76-8556-fd19ea24e749.jpg",
+    "qty": 5,
+    "price": 1600,
+    "uuid": "13ecc95a-fd0f-41df-bac1-7454d9a5e287"
+  },
+  {
+    "name": "FLASQUE S2",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "dfe78d0c-a466-4735-84bf-1cb9c3471606.jpeg",
+    "qty": 2,
+    "price": 1100,
+    "uuid": "11c60010-a488-4c5e-b1e8-046080e919a8"
+  },
+  {
+    "name": "flencott 20kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "630abe77-59e2-4197-a74a-c8ca20b9d3cd.jpeg",
+    "qty": 2,
+    "price": 44000,
+    "uuid": "c8b643ec-d9b1-4b84-b327-678444659707"
+  },
+  {
+    "name": "FON DUR VRAC EN 1L",
+    "category": "Peinture",
+    "unit": "LITRE",
+    "image": "dfe78d0c-a466-4735-84bf-1cb9c3471606.jpeg",
+    "qty": 4,
+    "price": 3500,
+    "uuid": "18f79a13-54d6-435a-919b-2795c29a6dcc"
+  },
+  {
+    "name": "FUT VIDE EN  PLASTIQUE  ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "949a8979-a01c-4798-94b4-de722c74445d.png",
+    "qty": 10,
+    "price": 11000,
+    "uuid": "4f0433cb-400f-48e4-bd08-313b93329ad4"
+  },
+  {
+    "name": "fut vide en plastique ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "949a8979-a01c-4798-94b4-de722c74445d.png",
+    "qty": 5,
+    "price": 12000,
+    "uuid": "45452e92-3771-49f0-b824-9706ef6cda08"
+  },
+  {
+    "name": "FUT VIDE EN PLASTIQUE ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "949a8979-a01c-4798-94b4-de722c74445d.png",
+    "qty": 10,
+    "price": 9500,
+    "uuid": "4bf21ab6-f2fc-4384-a49f-b2445c11d5e7"
+  },
+  {
+    "name": "fut vide en plastique ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "949a8979-a01c-4798-94b4-de722c74445d.png",
+    "qty": 10,
+    "price": 12500,
+    "uuid": "bfb7d10d-dd9d-4f74-8e13-eef5dbcb7c0e"
+  },
+  {
+    "name": "fut vide en plastique PM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "949a8979-a01c-4798-94b4-de722c74445d.png",
+    "qty": 10,
+    "price": 9000,
+    "uuid": "ad35c477-6f25-49df-ba10-ce0471596bed"
+  },
+  {
+    "name": "fut vide en platique ",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "949a8979-a01c-4798-94b4-de722c74445d.png",
+    "qty": 5,
+    "price": 12000,
+    "uuid": "44a8324a-e886-4abe-b935-c31869d22a70"
+  },
+  {
+    "name": "gaine annelée 20/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "632c792f-5e79-4bbb-829a-efb691b38948.jpeg",
+    "qty": 1,
+    "price": 7500,
+    "uuid": "dae6d1c9-67c1-47c4-91e8-040bcf1a6e8b"
+  },
+  {
+    "name": "gaine annelée 20/100 super ",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "ae0e6876-c7fe-440a-ba04-8dce3e29dc75.jpg",
+    "qty": 2,
+    "price": 7500,
+    "uuid": "503fb5a6-aae2-49c8-9053-8cc7526b80e4"
+  },
+  {
+    "name": "gaine annelée 25/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 2,
+    "price": 9500,
+    "uuid": "f33869f7-e956-4efc-adb9-bd32d9b12257"
+  },
+  {
+    "name": "gaine annelée 25/100 super ",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 4,
+    "price": 9500,
+    "uuid": "6967bfcd-b262-44fd-ab2d-c3c0ba65405b"
+  },
+  {
+    "name": "GAINE ANNELEE DE 20/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 4,
+    "price": 7500,
+    "uuid": "8bc10d28-75d3-4259-96b0-77ab34c1ccbf"
+  },
+  {
+    "name": "GAINE ANNELEE DE 20/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 5,
+    "price": 7500,
+    "uuid": "4dfd2196-1c6b-44c1-9ba7-04001ee99ad9"
+  },
+  {
+    "name": "gaine annelée de 20/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 4,
+    "price": 7500,
+    "uuid": "8a0b46f8-58fe-464e-ae8f-838e5c2a7a59"
+  },
+  {
+    "name": "gaine annelée de 20/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 2,
+    "price": 7100,
+    "uuid": "7f211e25-8665-4aea-a3cf-f13c2f8076d6"
+  },
+  {
+    "name": "Gaine annelée de 20/100",
+    "category": "Electricité",
+    "unit": "roueau",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 3,
+    "price": 7500,
+    "uuid": "52e5c7e6-2da8-4918-ab7a-e3d78bfa0295"
+  },
+  {
+    "name": "gaine annelée de 20/100 super",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 4,
+    "price": 7500,
+    "uuid": "d4ddb09c-ec47-4682-ad4c-254bcbbcfac6"
+  },
+  {
+    "name": "GAINE ANNELEE DE 20/50",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 4,
+    "price": 4000,
+    "uuid": "13c9be4b-1385-48b1-aa71-d627ab10cd2e"
+  },
+  {
+    "name": "gaine annelée de 20/50",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 1,
+    "price": 3600,
+    "uuid": "8aac3ea1-4193-476d-9ccb-fcc307ab1e00"
+  },
+  {
+    "name": "gaine annelée de 25/100",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 2,
+    "price": 9100,
+    "uuid": "bffc89d7-ff91-4a83-b4bf-c9b27133e83e"
+  },
+  {
+    "name": "GAINE ANNELEE DE 25/50",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 4,
+    "price": 5200,
+    "uuid": "55d3f006-dd54-46c0-b60b-3b48b021aaaf"
+  },
+  {
+    "name": "gaine annelée de 25/50",
+    "category": "Electricité",
+    "unit": "rouleaux",
+    "image": "cba29974-3601-420c-8b02-bc8d56ef3a28.jpg",
+    "qty": 2,
+    "price": 4000,
+    "uuid": "a2e12e0e-c3db-439d-a3ff-f5a237fe3821"
+  },
+  {
+    "name": "GANG COURT EN CUIR JAUNE ",
+    "category": "Outillage",
+    "unit": "PAIRES",
+    "image": "6e4dc519-ece1-420d-9d05-3183cc763732.jpg",
+    "qty": 12,
+    "price": 600,
+    "uuid": "e82dcd3c-4009-4d1d-88d7-ebd9d2f9fa02"
+  },
+  {
+    "name": "GANG DE MENAGE S2",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b985a3bc-9e6d-405a-a3f9-2ebfb7a39eed.jpg",
+    "qty": 12,
+    "price": 225,
+    "uuid": "703ff5e8-1325-4f4a-8a82-3aedcf3b3fcc"
+  },
+  {
+    "name": "GANG ORANGE NOIR BLINDE",
+    "category": "Outillage",
+    "unit": "PAIRES",
+    "image": "05cbc30d-cb8c-41e7-ba44-0a58b6c3520d.jpg",
+    "qty": 12,
+    "price": 350,
+    "uuid": "73600994-142e-4d5c-9c11-46f725749ab7"
+  },
+  {
+    "name": "gang orange/noir ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "5265f8e9-cbbd-4de0-a9ed-2c633ea7ab84.jpg",
+    "qty": 12,
+    "price": 333,
+    "uuid": "132fe08d-4d9a-4ae1-ba16-ec97ef4ca8d8"
+  },
+  {
+    "name": "gang vert/noir",
+    "category": "Outillage",
+    "unit": "paires",
+    "image": "676e58ea-75c4-46e7-aefa-351ec642356f.jpg",
+    "qty": 12,
+    "price": 292,
+    "uuid": "d92014ee-029f-4422-9a65-b4a3a48bd8ce"
+  },
+  {
+    "name": "gant en plastique rouge PVC",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "36ce9c57-2d49-4ac3-b66c-9a90f4fedbf4.jpg",
+    "qty": 12,
+    "price": 600,
+    "uuid": "7a84aa5c-f866-4fd2-aa7f-8b3382e88192"
+  },
+  {
+    "name": "GILET DE SECURITE  VERT CITRON",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "5db15499-cf49-4c01-8d3f-248ee0c0963b.jpg",
+    "qty": 10,
+    "price": 475,
+    "uuid": "1c791e29-4185-4883-9a6c-d78ac8cfa1d2"
+  },
+  {
+    "name": "GILET DE SECURITE ORANGE ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "13d4bd12-4e3e-40d0-b3fc-b349f4d44d4c.jpg",
+    "qty": 10,
+    "price": 475,
+    "uuid": "6d941068-681a-415c-914c-755057653689"
+  },
+  {
+    "name": "gratoir careleur de 180",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "97ac555a-3c6b-4540-9a6f-bbaea0aa010c.png",
+    "qty": 2,
+    "price": 650,
+    "uuid": "63d30424-c726-4061-adf0-6505dc01bd85"
+  },
+  {
+    "name": "gratoir carereleur de 120",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "97ac555a-3c6b-4540-9a6f-bbaea0aa010c.png",
+    "qty": 2,
+    "price": 450,
+    "uuid": "f160b73d-68a2-4e82-8a1f-de51e87fa5d7"
+  },
+  {
+    "name": "gratoir carereleur de 160",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "14edc983-96c4-43bf-8036-41c3dd932ea3.jpeg",
+    "qty": 2,
+    "price": 650,
+    "uuid": "6ccc04c1-9645-449b-909a-7d96858c96d3"
+  },
+  {
+    "name": "gratoir carereleur de 200",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6327c5f3-045f-4af3-b672-9d150dfcdccc.jpg",
+    "qty": 2,
+    "price": 700,
+    "uuid": "05d2eebb-884d-4a3c-95f3-2194ea9bb035"
+  },
+  {
+    "name": "grillage poulaillé GM 120",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "bd3d8268-3318-40b1-b8e6-5c8ada1bb0d8.jpg",
+    "qty": 1,
+    "price": 16500,
+    "uuid": "739fc6dd-6198-4ebe-acbf-ae4033523d9d"
+  },
+  {
+    "name": "grillage tamis sable 1m",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "1ccfb366-42d7-41f6-a4b7-82c604985433.jpg",
+    "qty": 1,
+    "price": 18500,
+    "uuid": "7c92f040-a2df-4c43-b6b3-c4b5fa991cb6"
+  },
+  {
+    "name": "grillage tamis sable N°8 sac blanc",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "21899a42-7570-41fa-881a-ec63328049f8.jpg",
+    "qty": 1,
+    "price": 18000,
+    "uuid": "996273ef-8252-46f1-8919-188dde84c8da"
+  },
+  {
+    "name": "Houe tropic ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 12,
+    "price": 1950,
+    "uuid": "5de731e5-ca8e-4c49-ae57-1c264e23bdea"
+  },
+  {
+    "name": "Interrupteur DVV encastré Orica",
+    "category": "Interrupteur",
+    "unit": "pièce ",
+    "image": "97332171-41b4-4c8e-9316-c6dcdd7e5e1c.jpg",
+    "qty": 20,
+    "price": 250,
+    "uuid": "41b446b1-d43c-49ac-9db3-5b3b464cbdea"
+  },
+  {
+    "name": "Interrupteur DVV orica S2 en10PCS",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "8754b3e4-8a50-4c1d-ad1a-a8b6c0d3add6.jpg",
+    "qty": 10,
+    "price": 275,
+    "uuid": "8ca19f47-de69-47ea-a7e2-483c324b1f1b"
+  },
+  {
+    "name": "Interrupteur DVV power  max",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "d0da405d-cad6-4bd6-8df7-c619a69172f0.jpg",
+    "qty": 10,
+    "price": 425,
+    "uuid": "dabd73a3-cb76-4fc1-83aa-59d2db3ba04e"
+  },
+  {
+    "name": "INTERRUPTEUR DVV POWERMAX",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "52b1f7e0-fd47-4a27-9b87-1ec01b86be73.jpg",
+    "qty": 20,
+    "price": 350,
+    "uuid": "e1f76931-3e27-4b47-8a06-53ed9d104fcd"
+  },
+  {
+    "name": "Interrupteur SA orica S2 en 10pcs",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 200,
+    "uuid": "4e4297c3-2895-422a-b03b-db711f5d1c48"
+  },
+  {
+    "name": "Interrupteur VV orica S2 en 10PCS",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 220,
+    "uuid": "9a34fc81-79e5-4005-9c18-d2603a97704e"
+  },
+  {
+    "name": "Interrupteur VV power max",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 350,
+    "uuid": "ff82ab83-51f4-46ef-af0b-7ae0d4e08826"
+  },
+  {
+    "name": "INTERRUPTEUR VV POWERMAX",
+    "category": "Interrupteur",
+    "unit": "pièce",
+    "image": "",
+    "qty": 30,
+    "price": 350,
+    "uuid": "97231499-592a-4272-b10c-e92b29407a06"
+  },
+  {
+    "name": "JEU DE TOURNEVIS ET MESURE",
+    "category": "Outillage",
+    "unit": "JEU",
+    "image": "a0548d1d-9c8f-438b-bf8a-a67900c87164.jpg",
+    "qty": 3,
+    "price": 2200,
+    "uuid": "7d58f1a9-c933-4b9f-ad2f-006b549c6e59"
+  },
+  {
+    "name": "jeux de pince ",
+    "category": "Outillage",
+    "unit": "jeux",
+    "image": "c99bdfd4-6183-4001-8d0b-41b95bac6321.jpg",
+    "qty": 2,
+    "price": 2500,
+    "uuid": "bac30e36-bdc9-4a23-b0a5-5e31b522f33c"
+  },
+  {
+    "name": "LAME DE SCIE ORIGINALE 18 DENTS",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "99f295f5-0e1e-4745-89b4-bef9da6bbb6b.jpg",
+    "qty": 20,
+    "price": 400,
+    "uuid": "5b8b740c-7605-4e25-9949-6e37bd6da469"
+  },
+  {
+    "name": "LAME DE SCIE SANFLEX ORIGINA 24 DENTS",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 10,
+    "price": 430,
+    "uuid": "14d8bb4f-7477-481e-bee1-345b0b64bbcb"
+  },
+  {
+    "name": "Lame de scie sanflex original 18 dents",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 10,
+    "price": 430,
+    "uuid": "8d7fe83b-161e-4d1b-bc50-f9b28c18c410"
+  },
+  {
+    "name": "LAME DE SCIE SANFLEX ORIGINAL 18 DENTS",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 10,
+    "price": 430,
+    "uuid": "b0c496ff-18ed-4491-b6e4-a8ffab56f90d"
+  },
+  {
+    "name": "lame de scie sanflex original 18 dents",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 20,
+    "price": 4,
+    "uuid": "5c46105f-49bc-43fb-90ea-6aad17ceb7f5"
+  },
+  {
+    "name": "lame de scie sanflex original 24 dents",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 20,
+    "price": 450,
+    "uuid": "33118537-782e-4a44-bf13-20bb0268a5ef"
+  },
+  {
+    "name": "LAME DE SCIE SANFLEX ORIGINAL 24 DENTS ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 10,
+    "price": 430,
+    "uuid": "121bd39f-8ca0-4def-873a-f90531f3766a"
+  },
+  {
+    "name": "Lame de scie sanflex originale 24 dents ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 10,
+    "price": 430,
+    "uuid": "e7d7f9ec-13a5-4d6a-a483-e24f3b102d04"
+  },
+  {
+    "name": "LAME DE SCIE SANFLEXORIGINA 18 DENTS",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "e1023792-4fbd-4029-850f-a995fa444891.png",
+    "qty": 10,
+    "price": 430,
+    "uuid": "eb8543dd-00b5-4526-8e6b-57308a98aa00"
+  },
+  {
+    "name": "Lame de scie sauteuse 144 dents",
+    "category": "Outillage",
+    "unit": "jeux",
+    "image": "2aefcf02-8335-4ca9-91f5-eb223521fda8.webp",
+    "qty": 5,
+    "price": 1600,
+    "uuid": "3980423b-bd3c-42f4-9b54-37d21b55c7a5"
+  },
+  {
+    "name": "lame de scie sauteuse N°244 original",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2aefcf02-8335-4ca9-91f5-eb223521fda8.webp",
+    "qty": 10,
+    "price": 340,
+    "uuid": "1026f32d-0557-429f-8023-194388f33f39"
+  },
+  {
+    "name": "Lime tropic original",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "f448d7af-bcfc-4213-b58e-a4b9d4ae82e3.jpg",
+    "qty": 1,
+    "price": 5500,
+    "uuid": "47376cba-5b03-4e4f-8d53-4ba5c5eec6bb"
+  },
+  {
+    "name": "Lime tropic original",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "f448d7af-bcfc-4213-b58e-a4b9d4ae82e3.jpg",
+    "qty": 1,
+    "price": 5500,
+    "uuid": "10bd2b2c-a14a-4322-81bd-a88babdf7ed4"
+  },
+  {
+    "name": "MAMELON PANAFLEX ",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "7a9d0d9c-9619-4e7f-8d9c-64239b33389c.jpg",
+    "qty": 10,
+    "price": 500,
+    "uuid": "3f6a0f0a-1e06-45a1-b186-6dbf31306d63"
+  },
+  {
+    "name": "MANCHE DE BALAI",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "0900f6b6-5b2f-4238-9322-4e2d38a5c19a.jpg",
+    "qty": 50,
+    "price": 150,
+    "uuid": "6ba205bd-5c12-41b2-9beb-475d4adafe63"
+  },
+  {
+    "name": "MANCHE DE PELE",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "c8d5f1c9-380c-4d6e-9dae-9b1a1cb5654b.jpg",
+    "qty": 20,
+    "price": 200,
+    "uuid": "5171ff4d-b368-4b08-80c4-9d9cdca1f109"
+  },
+  {
+    "name": "MANCHE DE PELLE ",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "c8d5f1c9-380c-4d6e-9dae-9b1a1cb5654b.jpg",
+    "qty": 20,
+    "price": 200,
+    "uuid": "f24a1a26-1299-4e37-9920-5dabe1201fab"
+  },
+  {
+    "name": "manche de pelle ",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "c8d5f1c9-380c-4d6e-9dae-9b1a1cb5654b.jpg",
+    "qty": 20,
+    "price": 225,
+    "uuid": "55e401b8-ab56-4baa-a945-a26d0e92dd09"
+  },
+  {
+    "name": "MANCHE DE PIOCHE",
+    "category": "Outillage",
+    "unit": "PICE",
+    "image": "6327c5f3-045f-4af3-b672-9d150dfcdccc.jpg",
+    "qty": 30,
+    "price": 175,
+    "uuid": "8f869956-2695-4247-ac7a-1059ff0fbeff"
+  },
+  {
+    "name": "Manche de pioche",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6327c5f3-045f-4af3-b672-9d150dfcdccc.jpg",
+    "qty": 17,
+    "price": 175,
+    "uuid": "689805c7-e233-47ef-80a2-9b2001dbed36"
+  },
+  {
+    "name": "manche de pioche S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6327c5f3-045f-4af3-b672-9d150dfcdccc.jpg",
+    "qty": 20,
+    "price": 200,
+    "uuid": "a0a88899-2e3c-48d6-acbd-e0b75281994c"
+  },
+  {
+    "name": "MANCHON PANAFLEX DE 32",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "2e1032bc-7ad3-4d26-8dec-cfe17574dfd6.png",
+    "qty": 10,
+    "price": 500,
+    "uuid": "229df583-1a5b-4133-8264-1cd817319414"
+  },
+  {
+    "name": "Marteau arrache clou en fer GM",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "6f27d8fe-1f26-4255-8a92-aeb56f33d827.jpeg",
+    "qty": 5,
+    "price": 1000,
+    "uuid": "e0e4a689-7a8a-4365-a102-497d42690ba3"
+  },
+  {
+    "name": "Marteau arrache clou en fer GM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6f27d8fe-1f26-4255-8a92-aeb56f33d827.jpeg",
+    "qty": 5,
+    "price": 1000,
+    "uuid": "37bb370f-272a-4da0-afa1-5abc27928295"
+  },
+  {
+    "name": "marteau carreleur (maillet)",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "4b799f43-4740-4c00-b0a4-74c86320bf96.jpg",
+    "qty": 6,
+    "price": 800,
+    "uuid": "171882f6-c4e0-4c78-b3f5-849dce058642"
+  },
+  {
+    "name": "marteau coffreur vert/jaune",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "d0f71ec5-0dd0-4b53-938a-c454fa268f90.jpg",
+    "qty": 5,
+    "price": 1800,
+    "uuid": "641d861b-7bd5-4419-84d8-86bb68859bde"
+  },
+  {
+    "name": "Mastic P38 4Kg",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "0f89e43f-746b-491f-a6a6-c9d9aa814f48.jpg",
+    "qty": 4,
+    "price": 9750,
+    "uuid": "ca41c643-204e-4ce2-9049-932d433c6f9f"
+  },
+  {
+    "name": "MASTIC P38 4KG",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "0f89e43f-746b-491f-a6a6-c9d9aa814f48.jpg",
+    "qty": 4,
+    "price": 9750,
+    "uuid": "7098af19-137e-41d0-8e90-2d373a2653af"
+  },
+  {
+    "name": "MASTIC P38 4KG",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "0f89e43f-746b-491f-a6a6-c9d9aa814f48.jpg",
+    "qty": 4,
+    "price": 9750,
+    "uuid": "b6c14a18-9c01-44ec-9dd8-c0a18ea1edd7"
+  },
+  {
+    "name": "mastic P38 de 4Kg ",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "0f89e43f-746b-491f-a6a6-c9d9aa814f48.jpg",
+    "qty": 4,
+    "price": 11250,
+    "uuid": "599bfb40-a804-4c4a-8bd9-1e44bda23e8f"
+  },
+  {
+    "name": "Mastic p38 en 5kg",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "0f89e43f-746b-491f-a6a6-c9d9aa814f48.jpg",
+    "qty": 1,
+    "price": 10000,
+    "uuid": "75296ad7-4392-4908-93e3-9c590fa728c5"
+  },
+  {
+    "name": "Mecanisme WC salle de bain SCn20pces",
+    "category": "Sanitaire",
+    "unit": "pièce ",
+    "image": "6327c5f3-045f-4af3-b672-9d150dfcdccc.jpg",
+    "qty": 1,
+    "price": 4500,
+    "uuid": "db3ae7c0-c967-4e31-a22a-5cad505baed7"
+  },
+  {
+    "name": "MESURE DE 5M ORIGINAL ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "06da5695-358e-4935-8ca7-be9d576833c2.jpg",
+    "qty": 12,
+    "price": 750,
+    "uuid": "a08a3c8e-6fd1-4d6e-b2c0-1d058937b420"
+  },
+  {
+    "name": "MESURE DE 5M ORIGINAL PROTEGE ",
+    "category": "Outillage",
+    "unit": "PICE ",
+    "image": "06da5695-358e-4935-8ca7-be9d576833c2.jpg",
+    "qty": 12,
+    "price": 600,
+    "uuid": "832b9d5b-a2ea-4fa4-a646-5c5c0acbe2ea"
+  },
+  {
+    "name": "MESURE DE 5M S2",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "06da5695-358e-4935-8ca7-be9d576833c2.jpg",
+    "qty": 12,
+    "price": 300,
+    "uuid": "c591c109-ec86-415f-a109-58505e2489f8"
+  },
+  {
+    "name": "mesure de 5m S2",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 12,
+    "price": 350,
+    "uuid": "a7586b90-89d0-459f-9989-7eb79bc74ba4"
+  },
+  {
+    "name": "MESURE DE 7,5 M ORIGINAL ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "290091b3-70cb-465c-93bc-c970df52d0d2.jpg",
+    "qty": 12,
+    "price": 900,
+    "uuid": "f883816b-cfbc-48dd-a518-5691fc42e64a"
+  },
+  {
+    "name": "Mesure de 7,5m S2",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "290091b3-70cb-465c-93bc-c970df52d0d2.jpg",
+    "qty": 24,
+    "price": 550,
+    "uuid": "f3fd2e7d-6852-4e44-af74-ed0d84666b6c"
+  },
+  {
+    "name": "MESURE DE 7.5 ORIGINAL BOSMT",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "f214e1f2-9eaa-4e45-a06e-2bf9b7a51371.jpeg",
+    "qty": 12,
+    "price": 1000,
+    "uuid": "7a7c2e0f-17fe-44e4-9b5d-bc2ccc98f252"
+  },
+  {
+    "name": "MULTIMETRE ORIGINAL ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "5027ac5d-ae81-4404-a1ef-3a4c6bb431f6.webp",
+    "qty": 2,
+    "price": 3000,
+    "uuid": "14e09c58-662b-4e4b-80fd-32f68fefa78f"
+  },
+  {
+    "name": "multimètre original ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "eebcf445-204d-4801-9926-0c52e0c8954e.jpg",
+    "qty": 3,
+    "price": 2800,
+    "uuid": "d3411f84-6371-46f9-89ef-f98e652120c2"
+  },
+  {
+    "name": "NIVEAU DE 50 CM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "12b4be05-ddfb-4018-8964-3bb83df45a41.jpg",
+    "qty": 3,
+    "price": 900,
+    "uuid": "3127b96b-0cc5-4c4e-8904-56659b656e9a"
+  },
+  {
+    "name": "NIVEAU D'EAU 60 CM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "7140a6ab-842e-4562-bc12-b7f33394b77c.jpg",
+    "qty": 3,
+    "price": 1000,
+    "uuid": "1dee4a0d-6122-4492-9e0a-7e1363a364ed"
+  },
+  {
+    "name": "NIVEAU D'EAU ANTI-CHOC 50CM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "c2d5fb76-52a8-4ffd-892d-379cd5947514.jpg",
+    "qty": 3,
+    "price": 1700,
+    "uuid": "4277dda2-42bc-4010-91ad-12970b51a06e"
+  },
+  {
+    "name": "NIVEAU D'EAU ANTI-CHOC DE 60 CM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "f774df07-d268-402f-82dd-7b5046aa49a6.jpg",
+    "qty": 3,
+    "price": 2000,
+    "uuid": "826b0df8-9b62-437b-aba6-91991157f856"
+  },
+  {
+    "name": "NIVEAU D'EAU ANTI-CHOC DE 80CM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "78ad33ec-e8b3-4c29-87d1-c73879688001.jpg",
+    "qty": 1,
+    "price": 3800,
+    "uuid": "04141285-03d5-47d3-bc72-930cf260c113"
+  },
+  {
+    "name": "papier  à disque norton  N° 80 S2",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "fc197aaa-feed-4fc2-8cac-9d6ed29c74c5.jpg",
+    "qty": 1,
+    "price": 7500,
+    "uuid": "9f220245-ee8e-44d4-ab0a-94b270b42906"
+  },
+  {
+    "name": "papier à disque autocollant de 100",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "f97baa38-dd87-49e6-bb30-968b0b75c64a.jpg",
+    "qty": 100,
+    "price": 60,
+    "uuid": "671a1324-43c2-4e93-96bc-3b51fddbee66"
+  },
+  {
+    "name": "PAPIER A DISQUE COLLANT DE 120",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "6534e3e0-1440-4770-a664-7b6fddb32b97.jpg",
+    "qty": 1,
+    "price": 6000,
+    "uuid": "63667976-6940-4a0e-9057-56c5118e952a"
+  },
+  {
+    "name": "PAPIER A DISQUE COLLANT DE 60",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "6534e3e0-1440-4770-a664-7b6fddb32b97.jpg",
+    "qty": 1,
+    "price": 6000,
+    "uuid": "d2740903-998c-4fbd-a325-f2704c43145f"
+  },
+  {
+    "name": "PAPIER A DISQUE COLLANT DE 80",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "6534e3e0-1440-4770-a664-7b6fddb32b97.jpg",
+    "qty": 1,
+    "price": 6000,
+    "uuid": "00fafd4d-60d1-412c-b3a8-642d7f8f8c68"
+  },
+  {
+    "name": "Papier à disque de 120",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 12000,
+    "uuid": "e9a01f8e-c8de-445f-b788-380c96542716"
+  },
+  {
+    "name": "Papier à disque de 60 S1",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 17000,
+    "uuid": "968b4b7f-b65e-4851-8377-70d4350e017b"
+  },
+  {
+    "name": "Papier à disque de 80 S1",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "6534e3e0-1440-4770-a664-7b6fddb32b97.jpg",
+    "qty": 1,
+    "price": 15500,
+    "uuid": "a9be0bb6-9715-412d-8908-5c47d3210911"
+  },
+  {
+    "name": "papier maron de 120",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "",
+    "qty": 1,
+    "price": 11000,
+    "uuid": "97a5fa2f-9695-4cb8-8412-0bfe8e75a3ac"
+  },
+  {
+    "name": "papier marron de 100",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "b3f70406-0d2b-46c7-93c2-160294f003ac.jpeg",
+    "qty": 1,
+    "price": 11000,
+    "uuid": "45d989be-c7c2-4cb7-bee3-831d70a30992"
+  },
+  {
+    "name": "papier marron de 80",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "",
+    "qty": 1,
+    "price": 11000,
+    "uuid": "7ee47d71-72fc-4f4c-bef9-ea2d84e2f9f7"
+  },
+  {
+    "name": "PAUMELLE AMI 160 LOURD",
+    "category": "Autre",
+    "unit": "DOUZAINES",
+    "image": "",
+    "qty": 2,
+    "price": 5600,
+    "uuid": "97a159a9-0275-4878-a6a4-81cc1a7bcaaf"
+  },
+  {
+    "name": "Paumelle ami 80 lourd",
+    "category": "Autre",
+    "unit": "douzaine",
+    "image": "",
+    "qty": 1,
+    "price": 2200,
+    "uuid": "81b429c3-c2f0-4699-8155-621ad5f4297f"
+  },
+  {
+    "name": "Paumelle condamnée lourd N° 2",
+    "category": "Autre",
+    "unit": "douzaine ",
+    "image": "",
+    "qty": 1,
+    "price": 850,
+    "uuid": "2d62736e-3ba2-4023-8cf6-ed25549e42f8"
+  },
+  {
+    "name": "Paumelle gris de 100",
+    "category": "Autre",
+    "unit": "douzaine ",
+    "image": "4e507edf-7663-44ed-b9fb-d76f6a760ee5.jpeg",
+    "qty": 10,
+    "price": 2650,
+    "uuid": "4a64acba-b4cd-4248-a89d-ff109b17043f"
+  },
+  {
+    "name": "Paumelle gris de 100",
+    "category": "Autre",
+    "unit": "douzaine",
+    "image": "4e507edf-7663-44ed-b9fb-d76f6a760ee5.jpeg",
+    "qty": 10,
+    "price": 2400,
+    "uuid": "78173c36-5d8b-4622-b93f-49bee87181fe"
+  },
+  {
+    "name": "PAUMELLE GRIS DE 100",
+    "category": "Autre",
+    "unit": "DOUZAINE",
+    "image": "4e507edf-7663-44ed-b9fb-d76f6a760ee5.jpeg",
+    "qty": 2,
+    "price": 2400,
+    "uuid": "83def3da-f135-4817-b0b7-ccd8f077099a"
+  },
+  {
+    "name": "Paumelle gris de 100",
+    "category": "Autre",
+    "unit": "douzaine ",
+    "image": "4e507edf-7663-44ed-b9fb-d76f6a760ee5.jpeg",
+    "qty": 1,
+    "price": 2650,
+    "uuid": "e7a316f4-6aa7-4a87-a81b-1784630d9d04"
+  },
+  {
+    "name": "Paumelle gris de 80",
+    "category": "Autre",
+    "unit": "douzaine ",
+    "image": "ac2e8b34-0813-416d-9c2f-08924cae027d.jpg",
+    "qty": 1,
+    "price": 2000,
+    "uuid": "1ca643fb-7740-425f-91c0-b6522d5c5aa0"
+  },
+  {
+    "name": "Paumelle gris de 80",
+    "category": "Autre",
+    "unit": "douzaine",
+    "image": "ac2e8b34-0813-416d-9c2f-08924cae027d.jpg",
+    "qty": 10,
+    "price": 2000,
+    "uuid": "fbfe16bb-10c4-4dcd-865b-afde29d6725b"
+  },
+  {
+    "name": "PAUMELLE GRIS DE 80",
+    "category": "Autre",
+    "unit": "DOUZAINE",
+    "image": "ed783a61-ffec-4153-8151-2b7c4759054e.jpeg",
+    "qty": 2,
+    "price": 1850,
+    "uuid": "be011d1c-cc1b-4185-8948-5d05c99b0fb3"
+  },
+  {
+    "name": "paumelle gris de 80",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "ed783a61-ffec-4153-8151-2b7c4759054e.jpeg",
+    "qty": 60,
+    "price": 310,
+    "uuid": "1e5cddea-4433-4f13-a1bd-4599afc44f35"
+  },
+  {
+    "name": "peinture à huile 125g blanche",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "1b5899cc-145c-4999-b1ec-34d9efc28f81.jpg",
+    "qty": 10,
+    "price": 350,
+    "uuid": "40478f82-2f8f-44c4-95fc-7504819430f8"
+  },
+  {
+    "name": "peinture à huile 1kg S2 ",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 10,
+    "price": 1800,
+    "uuid": "7bb9464d-6ae5-42e9-9cee-4554eca0558d"
+  },
+  {
+    "name": "peinture anational noire de 1Kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "",
+    "qty": 5,
+    "price": 1800,
+    "uuid": "94548d58-29ef-453d-bc9d-cee80401762f"
+  },
+  {
+    "name": "Peinture anationale blanche 1kg S2",
+    "category": "Peinture",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 4,
+    "price": 2100,
+    "uuid": "84d407cc-2f23-4a2f-a25f-77a6fb866368"
+  },
+  {
+    "name": "PEINTURE ANATIONALE BLANCHE 1KG S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 1,
+    "price": 2000,
+    "uuid": "61fbf8ba-57db-4dd8-9d31-a74191205dee"
+  },
+  {
+    "name": "Peinture anationale blanche 4kg S2",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "",
+    "qty": 1,
+    "price": 8700,
+    "uuid": "db7ff97a-5c82-403d-981a-9ad9340fa4ec"
+  },
+  {
+    "name": "PEINTURE ANATIONALE BLANCHE 4KG S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 3,
+    "price": 7500,
+    "uuid": "18a9a707-1cc2-4a25-b5c0-1b59de44390a"
+  },
+  {
+    "name": "Peinture anationale charcaol 1kg S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 4,
+    "price": 2100,
+    "uuid": "2c5f5dc0-12c8-48e5-94b3-ee2234a56e6d"
+  },
+  {
+    "name": "Peinture anationale chassi red 1kg S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 4,
+    "price": 2100,
+    "uuid": "ad92f3cb-e56b-4c9c-a137-0655baea9807"
+  },
+  {
+    "name": "Peinture anationale marina bleue 1kg S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 4,
+    "price": 2100,
+    "uuid": "0c7da1b8-a201-42db-a4db-00efd34630d4"
+  },
+  {
+    "name": "Peinture anationale noire 1kg S2",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "",
+    "qty": 4,
+    "price": 2100,
+    "uuid": "d09d58e9-16e3-455e-bef8-36fa44841515"
+  },
+  {
+    "name": "PEINTURE ANATIONALE NOIRE 1KG S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 2,
+    "price": 2000,
+    "uuid": "c8b21969-23e0-4f6f-9071-3e4e99c38cac"
+  },
+  {
+    "name": "Peinture anationale noire 4kg S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 1,
+    "price": 8700,
+    "uuid": "c41767ea-f33c-41d2-a3e3-09973cfcfd01"
+  },
+  {
+    "name": "PEINTURE ANATIONALE NOIRE 4KG S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 3,
+    "price": 7500,
+    "uuid": "2f0fff00-48eb-4dcb-84cd-20a6b5fbe572"
+  },
+  {
+    "name": "Peinture anationale vermillon 1kg S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 4,
+    "price": 2100,
+    "uuid": "67208bce-5a26-4123-b702-1c40ec6ab4e1"
+  },
+  {
+    "name": "peinture gold star 30kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "31002c9e-6b72-450f-8aac-9fa80f6ca6dd.jpeg",
+    "qty": 2,
+    "price": 11700,
+    "uuid": "0f1e86ba-e028-4e12-b87a-c2782f87cea3"
+  },
+  {
+    "name": "peinture gold star classic en 30kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "31002c9e-6b72-450f-8aac-9fa80f6ca6dd.jpeg",
+    "qty": 4,
+    "price": 11000,
+    "uuid": "f85abe98-fed0-4e14-8b40-c47d812aeee3"
+  },
+  {
+    "name": "Peinture gold star en 30Kg classic",
+    "category": "Peinture",
+    "unit": "seau",
+    "image": "93eca5d4-2420-4806-96b4-0674c7b48c88.jpeg",
+    "qty": 2,
+    "price": 11000,
+    "uuid": "47adb01a-8c0e-4766-9854-2d9becb101d6"
+  },
+  {
+    "name": "peinture inotex 30 kg",
+    "category": "Peinture",
+    "unit": "pots",
+    "image": "f7620cf1-caf1-4f6b-87e4-2db61f37eb9c.jpeg",
+    "qty": 5,
+    "price": 10500,
+    "uuid": "a6cfa951-3c1c-49a3-90f9-534fa70d25d9"
+  },
+  {
+    "name": "PEINTURE INOTEX 30KG",
+    "category": "Peinture",
+    "unit": "SEAU",
+    "image": "f7620cf1-caf1-4f6b-87e4-2db61f37eb9c.jpeg",
+    "qty": 3,
+    "price": 11500,
+    "uuid": "4ae78863-e114-4167-a33d-dd8c318b0a47"
+  },
+  {
+    "name": "peinture Inotex en 30 kg",
+    "category": "Peinture",
+    "unit": "seaux",
+    "image": "f7620cf1-caf1-4f6b-87e4-2db61f37eb9c.jpeg",
+    "qty": 2,
+    "price": 11500,
+    "uuid": "c8962328-9075-4785-beb9-37da87969f51"
+  },
+  {
+    "name": "Peinture inotex en 30kg",
+    "category": "Peinture",
+    "unit": "seau ",
+    "image": "f7620cf1-caf1-4f6b-87e4-2db61f37eb9c.jpeg",
+    "qty": 1,
+    "price": 11700,
+    "uuid": "bfdc6d07-8429-4f2d-8a6f-553acdf241e3"
+  },
+  {
+    "name": "Peinture inotex en 30kg",
+    "category": "Peinture",
+    "unit": "seau",
+    "image": "f7620cf1-caf1-4f6b-87e4-2db61f37eb9c.jpeg",
+    "qty": 2,
+    "price": 11500,
+    "uuid": "33a7c129-568c-4b3c-9397-4d2b2e95cc69"
+  },
+  {
+    "name": "Peinture nationale blanche 1kg ",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "74172791-2050-4785-8e92-63d8b879d75d.jpeg",
+    "qty": 1,
+    "price": 3500,
+    "uuid": "e948d10b-0501-4d4a-8654-4d8075d2280c"
+  },
+  {
+    "name": "PEINTURE NATIONALE BLANCHE 20KG",
+    "category": "Peinture",
+    "unit": "SEAU",
+    "image": "32845efa-d248-4c99-af1c-8ce09ce9ef3b.jpg",
+    "qty": 1,
+    "price": 58000,
+    "uuid": "ff9433c3-c054-4e0a-985c-572c0f8d1b88"
+  },
+  {
+    "name": "Peinture nationale blanche 4kg S1",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "74172791-2050-4785-8e92-63d8b879d75d.jpeg",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "72557b13-0ee9-4da8-b856-f414f7d76519"
+  },
+  {
+    "name": "Peinture nationale charcoal  4kg S1 ",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 3,
+    "price": 12500,
+    "uuid": "31078e0a-12f7-44cc-b6ce-983cf7ce1874"
+  },
+  {
+    "name": "Peinture nationale chassy red 4kg S1 ",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "d86fdccd-3caf-4bb5-89cf-1035f14f45a7"
+  },
+  {
+    "name": "Peinture nationale marina bleue 4kg",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "2351babe-daf3-47c5-b397-d1fdf8de7090.jpeg",
+    "qty": 3,
+    "price": 12500,
+    "uuid": "15d5f534-4685-477f-a653-3e45109fadb3"
+  },
+  {
+    "name": "Peinture nationale marina blue 4kg",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "2351babe-daf3-47c5-b397-d1fdf8de7090.jpeg",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "e0787f38-6d10-412f-887b-092814abbf96"
+  },
+  {
+    "name": "Peinture nationale noir 4kg S1",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "4ae0f03e-b96e-4a07-a2f9-fd6007c1bb4c.jpeg",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "509d981e-79d7-4cbd-bc98-249e86501823"
+  },
+  {
+    "name": "Peinture nationale noire 4kg S1",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "4ae0f03e-b96e-4a07-a2f9-fd6007c1bb4c.jpeg",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "eebe413a-8f9c-48ad-ba8f-acf24363ac67"
+  },
+  {
+    "name": "Peinture nationale noire 4kg S1",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "4ae0f03e-b96e-4a07-a2f9-fd6007c1bb4c.jpeg",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "cdabce03-7bc3-44b7-93d6-0698b54ea1c5"
+  },
+  {
+    "name": "Peinture nationale noire1kg ",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "8510222f-6b25-447c-b7f6-0e0da2b08e7b.png",
+    "qty": 1,
+    "price": 3600,
+    "uuid": "0638013b-f16b-4448-91dd-582158195bdf"
+  },
+  {
+    "name": "Peinture nationale vermillon 4kg S1",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "4f1bc3cb-3ffb-4fd8-b150-589720ea4b16"
+  },
+  {
+    "name": "Peinture nationalenoble green 4kg S2",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "",
+    "qty": 1,
+    "price": 12500,
+    "uuid": "dd49e23d-3f47-4940-a6a8-f8c07e7739e8"
+  },
+  {
+    "name": "peinture pantex 8000",
+    "category": "Peinture",
+    "unit": "seau",
+    "image": "e5e4013b-36d2-465d-8118-2adad479e918.jpeg",
+    "qty": 1,
+    "price": 53000,
+    "uuid": "8ffe3c84-b6c2-4466-95b1-00d51a523e7f"
+  },
+  {
+    "name": "PEINTURE UNITEX BLANC 20KG",
+    "category": "Peinture",
+    "unit": "SEAU",
+    "image": "41baa1cd-9fed-4027-a9fe-a3f65c5c915f.jpeg",
+    "qty": 1,
+    "price": 50000,
+    "uuid": "d9dff9c9-113d-4460-a114-aa29e76f36bc"
+  },
+  {
+    "name": "peinture universal  10000 en 30Kg sans PT pot",
+    "category": "Peinture",
+    "unit": "seaux",
+    "image": "6bbc3100-80d3-427a-a1b5-457f615ccb4f.jpeg",
+    "qty": 4,
+    "price": 16500,
+    "uuid": "5f6175ff-c534-48c6-bc05-63eedf5258a1"
+  },
+  {
+    "name": "PEINTUREINOTEX 30KG",
+    "category": "Peinture",
+    "unit": "SEAU",
+    "image": "f7620cf1-caf1-4f6b-87e4-2db61f37eb9c.jpeg",
+    "qty": 2,
+    "price": 11600,
+    "uuid": "48bc0011-f1d4-4aa7-833a-6296f1b9d9dc"
+  },
+  {
+    "name": "PELLE BECHE TROPIC",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 12,
+    "price": 1583,
+    "uuid": "9da2c239-a353-4d66-9475-62964fa87907"
+  },
+  {
+    "name": "Pelle bêche tropic",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "627b9576-c03a-4f0e-86b8-b7235fdd908a.jpg",
+    "qty": 2,
+    "price": 1750,
+    "uuid": "40415f99-acab-4440-9919-ea9ba3ab2ec5"
+  },
+  {
+    "name": "Pelle bêche tropic ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "627b9576-c03a-4f0e-86b8-b7235fdd908a.jpg",
+    "qty": 5,
+    "price": 1750,
+    "uuid": "ee8bc440-0800-4d5f-93a9-59a6d30b887f"
+  },
+  {
+    "name": "Pelle ronde S1 tropic",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "f2fbc0d6-a22f-4b10-84cf-2826e7123b05.jpg",
+    "qty": 4,
+    "price": 1625,
+    "uuid": "d4eac15c-4121-4547-8429-9a61ddaa7c7a"
+  },
+  {
+    "name": "PELLE RONDE TROPIC S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "f2fbc0d6-a22f-4b10-84cf-2826e7123b05.jpg",
+    "qty": 12,
+    "price": 1583,
+    "uuid": "50ac6fc6-71b0-4566-aa2d-e2b16b2477c9"
+  },
+  {
+    "name": "pelle ronde tropic S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "f2fbc0d6-a22f-4b10-84cf-2826e7123b05.jpg",
+    "qty": 12,
+    "price": 1600,
+    "uuid": "49c10081-7ea2-4a1c-8848-07bf5f6b2a37"
+  },
+  {
+    "name": "Pince n°8 S2",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b957a916-d6ed-457e-bad3-98fbd3117277.jpg",
+    "qty": 10,
+    "price": 650,
+    "uuid": "700138e3-a2a8-4695-b712-440f418a0c3d"
+  },
+  {
+    "name": "Pince n°8 S2",
+    "category": "Outillage",
+    "unit": "boîte",
+    "image": "b957a916-d6ed-457e-bad3-98fbd3117277.jpg",
+    "qty": 5,
+    "price": 650,
+    "uuid": "0e741c1f-ed22-489c-9497-3c33289ed40d"
+  },
+  {
+    "name": "PINCE ORANGE N° 8",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "93ee4f4a-e776-4e7d-8f03-ce700a341534.jpeg",
+    "qty": 5,
+    "price": 1000,
+    "uuid": "201f5dd8-7416-4920-8a43-b635a1bb6355"
+  },
+  {
+    "name": "PINCE ROUGE/ NOIR  ORIGINAL N°9",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "dba03487-844b-43dc-8dc9-0cf78f674273.jpeg",
+    "qty": 10,
+    "price": 850,
+    "uuid": "762ebb52-3cdc-4c0d-846b-52cdb8324ae1"
+  },
+  {
+    "name": "pinceau  blanc de 100",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "147fa3e7-ecad-4440-81da-429bf787878f.jpg",
+    "qty": 1,
+    "price": 3400,
+    "uuid": "ceb57cf8-b606-4f53-ad1d-9970b8fdc98a"
+  },
+  {
+    "name": "pinceau blanc  de 60",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "e9098ab4-c620-4f6a-a556-76f4c4d62f48.jpg",
+    "qty": 24,
+    "price": 150,
+    "uuid": "f059c459-283e-47a6-a163-a9af4133faa3"
+  },
+  {
+    "name": "Pinceau blanc de 30",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 12,
+    "price": 92,
+    "uuid": "9e78ca63-3cba-4137-a375-5c86762cc217"
+  },
+  {
+    "name": "Pinceau blanc de 30",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 12,
+    "price": 92,
+    "uuid": "6fc397ed-6d4d-43cf-bb8a-f22c32c3c440"
+  },
+  {
+    "name": "Pinceau blanc de 30",
+    "category": "Peinture",
+    "unit": "pièce ",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 24,
+    "price": 125,
+    "uuid": "f42427bb-ab7d-4abd-9cfd-d07d677f966c"
+  },
+  {
+    "name": "pinceau blanc de 30",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 1,
+    "price": 1000,
+    "uuid": "4db8fe59-66ec-474a-8182-395ce1432798"
+  },
+  {
+    "name": "pinceau blanc de 30",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 24,
+    "price": 84,
+    "uuid": "3636d57b-8ae1-44a7-b814-1e2fc61ebfd7"
+  },
+  {
+    "name": "pinceau blanc de 30",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 48,
+    "price": 82,
+    "uuid": "7132dcf3-7869-4115-8293-1a8635825658"
+  },
+  {
+    "name": "Pinceau blanc de 40",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "624f33d4-a5aa-49d8-aa9a-d19439fc28d8.jpeg",
+    "qty": 1,
+    "price": 1350,
+    "uuid": "3f2a532c-a130-4945-9833-4b72291deb2f"
+  },
+  {
+    "name": "Pinceau blanc de 40",
+    "category": "Peinture",
+    "unit": "pièce ",
+    "image": "624f33d4-a5aa-49d8-aa9a-d19439fc28d8.jpeg",
+    "qty": 12,
+    "price": 100,
+    "uuid": "51f38f99-1e5f-4cb6-a115-adf36a8158be"
+  },
+  {
+    "name": "PINCEAU BLANC DE 40",
+    "category": "Peinture",
+    "unit": "DOUZAINE ",
+    "image": "624f33d4-a5aa-49d8-aa9a-d19439fc28d8.jpeg",
+    "qty": 1,
+    "price": 1300,
+    "uuid": "43d7c0f0-81fe-4c78-aa2f-615e25b42451"
+  },
+  {
+    "name": "pinceau blanc de 40",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "624f33d4-a5aa-49d8-aa9a-d19439fc28d8.jpeg",
+    "qty": 1,
+    "price": 1300,
+    "uuid": "28a90fb1-df1c-418f-ac0a-801ce86815a7"
+  },
+  {
+    "name": "Pinceau blanc de 50",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "a7ca3711-9709-4d9e-8627-cceee796006a.jpg",
+    "qty": 1,
+    "price": 1600,
+    "uuid": "0b1257ae-b0f9-4ba6-b1fd-707670b64b05"
+  },
+  {
+    "name": "PINCEAU BLANC DE 50",
+    "category": "Peinture",
+    "unit": "DOUZAINE ",
+    "image": "a7ca3711-9709-4d9e-8627-cceee796006a.jpg",
+    "qty": 1,
+    "price": 1600,
+    "uuid": "d51d1cc8-8efa-4e63-a98d-f2da979b3fe3"
+  },
+  {
+    "name": "Pinceau blanc de 60",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "719b977b-d910-4850-a74b-7e392604892b.jpeg",
+    "qty": 1,
+    "price": 1800,
+    "uuid": "9cf3c533-a7ac-46a0-83e7-15079dd75e35"
+  },
+  {
+    "name": "Pinceau blanc de 60",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "719b977b-d910-4850-a74b-7e392604892b.jpeg",
+    "qty": 24,
+    "price": 150,
+    "uuid": "8b21bfb2-6571-45dd-888e-16b58a26c077"
+  },
+  {
+    "name": "Pinceau blanc de 70",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "1d0c5062-7c0c-42eb-9473-26f5538d47f1.jpeg",
+    "qty": 1,
+    "price": 2200,
+    "uuid": "b651ca79-e9d3-49e0-aae7-e3f9a53eb058"
+  },
+  {
+    "name": "pinceau blanc de 70",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "1d0c5062-7c0c-42eb-9473-26f5538d47f1.jpeg",
+    "qty": 24,
+    "price": 183,
+    "uuid": "66945005-028f-4712-aec7-7c2f40ad86dd"
+  },
+  {
+    "name": "pinceau blans n°50",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "a7ca3711-9709-4d9e-8627-cceee796006a.jpg",
+    "qty": 1,
+    "price": 1600,
+    "uuid": "d593ac27-811a-4bd3-842e-d4ab4aeba06b"
+  },
+  {
+    "name": "pinceau blans n°60",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "719b977b-d910-4850-a74b-7e392604892b.jpeg",
+    "qty": 1,
+    "price": 1800,
+    "uuid": "245a4308-6d48-4fb8-bdf9-3e2910b12f03"
+  },
+  {
+    "name": "pinceau blans n°70",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "1d0c5062-7c0c-42eb-9473-26f5538d47f1.jpeg",
+    "qty": 1,
+    "price": 2200,
+    "uuid": "af15ff1f-9403-4c07-8b96-c0e9b780fead"
+  },
+  {
+    "name": "PINCEAU DE 100",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "1d0c5062-7c0c-42eb-9473-26f5538d47f1.jpeg",
+    "qty": 1,
+    "price": 3400,
+    "uuid": "ee23bd8e-cb05-46da-91b5-07c32c01726a"
+  },
+  {
+    "name": "PINCEAU DE 30",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "34ef06ef-a821-4f64-a4c2-e1a2914ba712.jpg",
+    "qty": 1,
+    "price": 1100,
+    "uuid": "3becdf48-2b1f-4583-866f-26237f09402a"
+  },
+  {
+    "name": "PINCEAU DE 40",
+    "category": "Peinture",
+    "unit": "paquet",
+    "image": "624f33d4-a5aa-49d8-aa9a-d19439fc28d8.jpeg",
+    "qty": 1,
+    "price": 1350,
+    "uuid": "d72b9934-8bb2-4a01-8b94-2b89d4cd6d8f"
+  },
+  {
+    "name": "PIOCHE SANTO 2KG",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6a7c6d70-33de-455e-8d8d-7fb0323cb83c.jpg",
+    "qty": 6,
+    "price": 1700,
+    "uuid": "136c2fa8-49da-4c8d-a599-ca1b7f17554d"
+  },
+  {
+    "name": "PIOCHE SANTO 2KG",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6a7c6d70-33de-455e-8d8d-7fb0323cb83c.jpg",
+    "qty": 6,
+    "price": 1700,
+    "uuid": "c797c3fa-fb3c-4bc1-9bff-10efda649633"
+  },
+  {
+    "name": "pioche santo de 2kg",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6a7c6d70-33de-455e-8d8d-7fb0323cb83c.jpg",
+    "qty": 12,
+    "price": 1700,
+    "uuid": "0e168075-df0c-49c0-b60f-b94efe2e583c"
+  },
+  {
+    "name": "poignet simple vachette ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "7956f3a4-e56b-45df-89c1-244998945436.jpeg",
+    "qty": 4,
+    "price": 1200,
+    "uuid": "be4f15b7-30e3-4347-9228-c7b1b261e98f"
+  },
+  {
+    "name": "pointe à tôle cc",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "16d7d6a4-1307-4d80-9b45-d6577f0bd9d7.jpeg",
+    "qty": 8,
+    "price": 2063,
+    "uuid": "79ebdeec-9c8a-47c8-bee5-100410dff7ed"
+  },
+  {
+    "name": "POINTE A TOLE COURT 2KG",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "16d7d6a4-1307-4d80-9b45-d6577f0bd9d7.jpeg",
+    "qty": 8,
+    "price": 1938,
+    "uuid": "6cf3cd26-6c51-4b6d-ad1f-6c8ad0a11ba5"
+  },
+  {
+    "name": "Pointe à tôle courte de 2kg",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "16d7d6a4-1307-4d80-9b45-d6577f0bd9d7.jpeg",
+    "qty": 4,
+    "price": 2250,
+    "uuid": "23b0fb7d-3b29-4bd4-bf5c-5017dbbc9f38"
+  },
+  {
+    "name": "pointe à tôle dorsadée",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "16d7d6a4-1307-4d80-9b45-d6577f0bd9d7.jpeg",
+    "qty": 8,
+    "price": 2250,
+    "uuid": "212559bf-33a1-4557-8f20-161b71b284e1"
+  },
+  {
+    "name": "Pointe à tôle fine courte 2,5kg",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "16d7d6a4-1307-4d80-9b45-d6577f0bd9d7.jpeg",
+    "qty": 8,
+    "price": 2375,
+    "uuid": "7d1cea22-0434-4826-9fec-28c8710676ae"
+  },
+  {
+    "name": "Pointe à tôle fine coute 2.5kg",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "cb4626a9-a907-4dad-8711-4b3f5272a945.jpg",
+    "qty": 3,
+    "price": 2400,
+    "uuid": "cfa86733-ab1a-4b6e-9a37-aab2681945d6"
+  },
+  {
+    "name": "POINTE A TOLE ORDINAIRE COURT COSTAUD",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "cb4626a9-a907-4dad-8711-4b3f5272a945.jpg",
+    "qty": 8,
+    "price": 2000,
+    "uuid": "b1dab787-f9a9-47ff-8283-751f5adc70d4"
+  },
+  {
+    "name": "pointe a tole ordinaire court costo",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 8,
+    "price": 2063,
+    "uuid": "b999ad99-7612-4f30-b3a9-2a2530da7822"
+  },
+  {
+    "name": "POINTE A TOLE ORDINAIRE FINE 2KG",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 8,
+    "price": 2188,
+    "uuid": "fb9498cf-c877-4e58-9385-97815aeb42bb"
+  },
+  {
+    "name": "POINTE A TOLE ORDINAIRE TORSADE",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 8,
+    "price": 2000,
+    "uuid": "723453b6-e59b-4a15-8a35-058f4803e023"
+  },
+  {
+    "name": "POINTE A TOLE ORDINCOURT Costaud",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 8,
+    "price": 2000,
+    "uuid": "8d3d25b8-4de2-4d8f-a44c-8443f6d79df9"
+  },
+  {
+    "name": "Pointe à tôle torsadais dorée long 2Kg",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 8,
+    "price": 2375,
+    "uuid": "1774b3e9-ebb8-416d-b441-cf785e5b41f0"
+  },
+  {
+    "name": "Pointe santo 2,5en 1kg en 20 pqts S1",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 750,
+    "uuid": "17b0176f-77d3-4bcb-8772-ebbe32d79eb8"
+  },
+  {
+    "name": "pointe santos 2,5mm en paquet",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 25,
+    "price": 750,
+    "uuid": "9f03c53c-a51b-488e-89a1-f48f53840414"
+  },
+  {
+    "name": "POINTE SANTOS 2.5 MM",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 20,
+    "price": 725,
+    "uuid": "e5ee6354-637c-4364-aba7-99cdc3ef69b8"
+  },
+  {
+    "name": "pointe santos en 2,5mm sans tête",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 15,
+    "price": 850,
+    "uuid": "feded91b-ac0e-40ca-a24e-c031eaa5aece"
+  },
+  {
+    "name": "Pointe tik de 100",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 3,
+    "price": 4000,
+    "uuid": "14895a76-1dcf-4eda-93c0-af7ec422940d"
+  },
+  {
+    "name": "Pointe tik de 100",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 2,
+    "price": 3950,
+    "uuid": "67ec0d04-947a-44ec-a396-040774584298"
+  },
+  {
+    "name": "Pointe tik de 100",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 20,
+    "price": 3850,
+    "uuid": "4118fb18-ce74-46f4-9efc-6803a1a152c9"
+  },
+  {
+    "name": "Pointe tik de 120",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 2,
+    "price": 3950,
+    "uuid": "d4ca888e-b083-47c9-8176-5d8c1d902b55"
+  },
+  {
+    "name": "Pointe tik de 30",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 6,
+    "price": 4500,
+    "uuid": "89033377-5e87-4595-b185-2fb1f3fb7c31"
+  },
+  {
+    "name": "Pointe tik de 30",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 4500,
+    "uuid": "25c38b8b-0f5b-433e-bec7-f57601137489"
+  },
+  {
+    "name": "Pointe tik de 40",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 4,
+    "price": 4500,
+    "uuid": "526fb9a0-502c-4579-8d2b-90cf7ad569c7"
+  },
+  {
+    "name": "Pointe tik de 40",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 4350,
+    "uuid": "37239cc2-0147-431f-a3b9-de5637158f5d"
+  },
+  {
+    "name": "pointe tik de 40",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 4300,
+    "uuid": "f941c040-0e39-43ad-b39b-aa37dd2aa680"
+  },
+  {
+    "name": "Pointe tik de 50",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 4,
+    "price": 4500,
+    "uuid": "a0b8aebf-c8b0-4fed-b662-a3cfd8ef3254"
+  },
+  {
+    "name": "Pointe tik de 50",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 4350,
+    "uuid": "8b929ff2-3d5e-445e-a461-979f4c4412d8"
+  },
+  {
+    "name": "Pointe tik de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 3,
+    "price": 4000,
+    "uuid": "9505dbd4-fc92-4672-9b21-66abf7d417ab"
+  },
+  {
+    "name": "Pointe tik de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 2,
+    "price": 3950,
+    "uuid": "16334102-9511-4cc3-8a25-bb04df1e824a"
+  },
+  {
+    "name": "Pointe tik de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 3900,
+    "uuid": "4a69357c-697a-4fc1-bf91-6ac94835c123"
+  },
+  {
+    "name": "Pointe tik de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 20,
+    "price": 3850,
+    "uuid": "d4b03e65-5130-4a47-a883-78af37a8be2c"
+  },
+  {
+    "name": "pointe tik de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "862f0dc7-0897-40f7-be21-3738f6008f5a"
+  },
+  {
+    "name": "Pointe tik de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 3,
+    "price": 4000,
+    "uuid": "7ac72b8c-68b6-4786-b5c3-f661be799f50"
+  },
+  {
+    "name": "Pointe tik de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 2,
+    "price": 3950,
+    "uuid": "6ff6f4b5-b9b2-4ec9-b9d1-11b5a1f21ddd"
+  },
+  {
+    "name": "Pointe tik de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 3900,
+    "uuid": "730f225c-d8a7-4b48-bac4-e8faddd445a6"
+  },
+  {
+    "name": "POINTE TIK DE 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "2f0e6047-b90c-4b57-a590-e82a23573fe5"
+  },
+  {
+    "name": "pointe tik de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "1cf242ab-cd65-432d-9312-7e9292f70d10"
+  },
+  {
+    "name": "pointe tik de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 20,
+    "price": 3850,
+    "uuid": "49e1bb70-a348-4829-918b-588859f7be6c"
+  },
+  {
+    "name": "Pointe tik de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 3900,
+    "uuid": "c9850bd7-58cd-43ed-8cdd-a64b4c8f0c45"
+  },
+  {
+    "name": "Pointe tik de 70 ",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3900,
+    "uuid": "b3679729-12e2-4de8-b84f-474077e0b72a"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "ab80303e-b1dc-423e-aaf9-e98d3637d225"
+  },
+  {
+    "name": "pointe TIK de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "8e22c5dc-f7e7-403e-8330-d798a9527599"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 3,
+    "price": 4000,
+    "uuid": "bec5a797-35eb-4cc9-b22c-504814b5bcc4"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "8bb0563c-d6a6-43a5-806a-eb8d261bfeee.jpg",
+    "qty": 4,
+    "price": 4000,
+    "uuid": "d56ce65e-aebf-4195-91b6-c5f51c8d4db1"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "8bb0563c-d6a6-43a5-806a-eb8d261bfeee.jpg",
+    "qty": 2,
+    "price": 3950,
+    "uuid": "2d83e7b3-9f32-495a-b998-a079db3d0c3f"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 6,
+    "price": 3900,
+    "uuid": "4b9e59e6-0346-462b-9ff3-eb917311d482"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "8bb0563c-d6a6-43a5-806a-eb8d261bfeee.jpg",
+    "qty": 1,
+    "price": 3900,
+    "uuid": "48879ee1-0546-44d1-8fcb-1fe5e105ce77"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 4000,
+    "uuid": "a75a8ce4-e571-4918-a73a-875e4725d1b8"
+  },
+  {
+    "name": "Pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3900,
+    "uuid": "f4eed457-0f42-4e57-b432-e42b7111ecc2"
+  },
+  {
+    "name": "POINTE TIK DE 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "8df111c4-ddc5-4df4-9c85-62462bbaa7e8"
+  },
+  {
+    "name": "pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "9d92e030-7699-4475-adb6-7e3fa6867f1e"
+  },
+  {
+    "name": "pointe Tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "a1debeb1-53e1-49ac-ac10-ac6313e68efd"
+  },
+  {
+    "name": "pointe tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 20,
+    "price": 3850,
+    "uuid": "e2f6401c-2e99-4827-b517-208679c3cb73"
+  },
+  {
+    "name": "pointe Tik de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "6f30bd02-588e-4202-a8bf-f6d3f8f032dd"
+  },
+  {
+    "name": "Pointe TIK de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 30,
+    "price": 3900,
+    "uuid": "7dea0655-4c0d-4412-ad86-a703818932b7"
+  },
+  {
+    "name": "POINTE TIK DE 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 20,
+    "price": 3850,
+    "uuid": "cdb12106-07a5-41b8-8f17-eb47d9081b8d"
+  },
+  {
+    "name": "pointe tik de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 3,
+    "price": 4000,
+    "uuid": "c529d198-b690-4359-95e2-d99e581c8e27"
+  },
+  {
+    "name": "Pointe tik de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 2,
+    "price": 3950,
+    "uuid": "922f0779-91b7-4e41-8f3d-7e1f4fd9294c"
+  },
+  {
+    "name": "pointe tik de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 4000,
+    "uuid": "5532963b-5727-4dfc-9c94-5f37fa18c94d"
+  },
+  {
+    "name": "Pointe tik de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 3900,
+    "uuid": "4463bff7-0c29-45bd-af43-c1d307b0fc90"
+  },
+  {
+    "name": "POINTE TIK DE 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 30,
+    "price": 3900,
+    "uuid": "9cf02124-eab1-45a5-b9c5-389d726ff3d7"
+  },
+  {
+    "name": "pointe Tik de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3900,
+    "uuid": "0b2333bc-5809-4e17-84cd-9b77db36f4fc"
+  },
+  {
+    "name": "pointe Tik de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 3850,
+    "uuid": "250d4c32-112a-4192-9519-88bbcb900fef"
+  },
+  {
+    "name": "Pointe tok de 100",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 800,
+    "uuid": "b9c07620-f362-4cd6-9d79-93fd6c0a5c66"
+  },
+  {
+    "name": "POINTE TOK DE 100",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 800,
+    "uuid": "cb31863a-7c02-4a17-8a2a-d682b05ec1d1"
+  },
+  {
+    "name": "pointe tok de 40",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 760,
+    "uuid": "166842bd-754f-45e9-8d95-95a55a7362fb"
+  },
+  {
+    "name": "pointe tok de 40",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 25,
+    "price": 825,
+    "uuid": "894ffd2e-7708-4c82-9b52-0feeaf3c8e08"
+  },
+  {
+    "name": "Pointe tok de 50",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 3,
+    "price": 800,
+    "uuid": "058d59a5-d5f5-4ddf-a891-75f75bca0da7"
+  },
+  {
+    "name": "POINTE TOK DE 50",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 700,
+    "uuid": "4883b626-1ec1-49d9-9b23-864fbb858d06"
+  },
+  {
+    "name": "pointe tok de 50",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 825,
+    "uuid": "dc74f516-d983-4ba6-8bbc-dd3ad8d7fda9"
+  },
+  {
+    "name": "Pointe tok de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 800,
+    "uuid": "4eb17032-d82a-4010-8025-13ad2277fc35"
+  },
+  {
+    "name": "pointe tok de 60",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 25,
+    "price": 760,
+    "uuid": "25564bd0-d01e-4da9-a5c5-cf55a7e61f2c"
+  },
+  {
+    "name": "Pointe tok de 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 800,
+    "uuid": "2f44fef1-cd0d-41a2-9534-8c4f79856280"
+  },
+  {
+    "name": "POINTE TOK DE 70",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 700,
+    "uuid": "a492ed64-3996-4ae3-9e4e-3903843abb0c"
+  },
+  {
+    "name": "Pointe tok de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 800,
+    "uuid": "cc7d3d0c-db0e-45f2-8438-a61f37a418e0"
+  },
+  {
+    "name": "Pointe tok de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 800,
+    "uuid": "979e3276-826e-439f-b9af-ca246fb8b00d"
+  },
+  {
+    "name": "POINTE TOK DE 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 700,
+    "uuid": "ee2b6f3e-7c7e-4479-8f00-d7c258fb31be"
+  },
+  {
+    "name": "POINTE TOK DE 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 700,
+    "uuid": "af0b7d1a-dbab-495c-9bbe-e94a28a79f1b"
+  },
+  {
+    "name": "pointe tok de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 15,
+    "price": 750,
+    "uuid": "46ba503f-ac1e-4133-9a73-60d92cb5e00a"
+  },
+  {
+    "name": "pointe tok de 80",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 25,
+    "price": 760,
+    "uuid": "d01f70b9-22c6-42a7-8d0e-8fba6bdb3776"
+  },
+  {
+    "name": "Pointe tok de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 5,
+    "price": 800,
+    "uuid": "f0463cd2-6104-4fa7-8a59-029588f5d45c"
+  },
+  {
+    "name": "pointe tok de 90",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "",
+    "qty": 25,
+    "price": 760,
+    "uuid": "48241882-37b7-4a38-ac91-aca8045227ef"
+  },
+  {
+    "name": "Porte  cadenas   n°6",
+    "category": "Autre",
+    "unit": "demi douzaine",
+    "image": "",
+    "qty": 12,
+    "price": 850,
+    "uuid": "db902ff7-b4d1-4226-9684-46e6ae9d5957"
+  },
+  {
+    "name": "Porte cedenas N°4 carre",
+    "category": "Autre",
+    "unit": "douzaine",
+    "image": "",
+    "qty": 1,
+    "price": 800,
+    "uuid": "e9be1d9f-24c4-4005-a9c9-93bb6fc757ec"
+  },
+  {
+    "name": "Porte cedenas N°6 carre",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "",
+    "qty": 2,
+    "price": 1000,
+    "uuid": "7d93f498-a083-4af8-98ec-cc7ef202e607"
+  },
+  {
+    "name": "PORTE SCIE GRIS ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 15,
+    "price": 750,
+    "uuid": "656edf19-7726-44d5-9e2c-d5995faca1d2"
+  },
+  {
+    "name": "Prise + terre orica S2",
+    "category": "Prise",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 10,
+    "price": 200,
+    "uuid": "3603048b-5ab6-48fe-b4b1-dd6cdfc26c6d"
+  },
+  {
+    "name": "Prise + terre power max",
+    "category": "Prise",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 10,
+    "price": 350,
+    "uuid": "9221cadb-e040-468c-aff1-b0e07b8034f8"
+  },
+  {
+    "name": "prise + terre powermax",
+    "category": "Prise",
+    "unit": "pièce",
+    "image": "",
+    "qty": 50,
+    "price": 400,
+    "uuid": "17ec71b2-d8f8-4752-abfa-86bb455a0b4b"
+  },
+  {
+    "name": "Prise orica en 10pcs S2",
+    "category": "Prise",
+    "unit": "pièce",
+    "image": "",
+    "qty": 30,
+    "price": 175,
+    "uuid": "e1f7174d-17c0-4f22-831d-7d27596ad508"
+  },
+  {
+    "name": "PUNAISE DOREE PAQUET PM",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "",
+    "qty": 10,
+    "price": 250,
+    "uuid": "f22d8999-5af0-4dd8-b561-1ceb11d2a972"
+  },
+  {
+    "name": "Raccords flexible 15FF IFAN+200pces",
+    "category": "Plomberie",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 1,
+    "price": 1000,
+    "uuid": "b6ccdecb-9c06-4362-a9b3-e0af13faf2fc"
+  },
+  {
+    "name": "RACLETTE 34 GALVA",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "45c36cdf-fb7c-4db1-af06-87fdf934d177.jpeg",
+    "qty": 25,
+    "price": 600,
+    "uuid": "f70580c4-36c3-4f78-a2b3-ecc0740c60ef"
+  },
+  {
+    "name": "Raclette 34 GALVA",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "45c36cdf-fb7c-4db1-af06-87fdf934d177.jpeg",
+    "qty": 30,
+    "price": 600,
+    "uuid": "487473e8-6bc7-4bd8-a90a-2d01eb555299"
+  },
+  {
+    "name": "RACLETTE 34 GOLVA",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "45c36cdf-fb7c-4db1-af06-87fdf934d177.jpeg",
+    "qty": 20,
+    "price": 600,
+    "uuid": "726cdd0d-d69b-4ceb-b50d-b79841d79165"
+  },
+  {
+    "name": "Ralonge 6 trous best ",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "25293e7b-667f-485a-9f61-e8dbe66c1cd0.jpeg",
+    "qty": 2,
+    "price": 1300,
+    "uuid": "dda14bfb-d239-45a4-ab8e-5651f1a96266"
+  },
+  {
+    "name": "Ralonge onelect 3 trous  230",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "b6b43cb9-acb2-4bb7-b0ab-2baf55b94e9b.jpeg",
+    "qty": 2,
+    "price": 1500,
+    "uuid": "e8cd7c8a-1696-4486-a2bb-74524bd8feaf"
+  },
+  {
+    "name": "ralonge onelect 3trous 230",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "b6b43cb9-acb2-4bb7-b0ab-2baf55b94e9b.jpeg",
+    "qty": 4,
+    "price": 950,
+    "uuid": "42c1d94e-bc71-4284-93e3-b0c2b1b90e16"
+  },
+  {
+    "name": "Ralonge power max 4 trous",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "",
+    "qty": 2,
+    "price": 1300,
+    "uuid": "ff215214-5cd9-4de2-b7ec-c73d5198f02c"
+  },
+  {
+    "name": "ralonge power max 4trous ",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "6f177880-b112-4466-bf2e-eef3f5fab78e.jpeg",
+    "qty": 4,
+    "price": 1300,
+    "uuid": "d3402ee7-3b5c-42f3-9173-9e644b004d4d"
+  },
+  {
+    "name": "Ralonge power max blanche 5 trous ",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "125c1f70-7e4f-49b2-88eb-0d371364a7a0.jpg",
+    "qty": 2,
+    "price": 1400,
+    "uuid": "76901ff7-8de7-48bd-9be3-65e894559d0f"
+  },
+  {
+    "name": "ralonge trois trous  en 10m orange",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "30d71b97-09de-4f63-9598-e66d021d4002.jpeg",
+    "qty": 6,
+    "price": 2100,
+    "uuid": "4cfde86b-efbe-4aaf-801b-97a377d9a4ff"
+  },
+  {
+    "name": "ralonge trois trous + USB en 10m avec pochette",
+    "category": "Rallonge",
+    "unit": "pièce",
+    "image": "c50033ba-9c89-4da1-bb68-4f392d7369f7.jpeg",
+    "qty": 6,
+    "price": 2700,
+    "uuid": "198c27ea-76f7-4a3c-8f80-7a564aea53a7"
+  },
+  {
+    "name": "Reduction inox 15×en bargue",
+    "category": "Plomberie",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 1,
+    "price": 300,
+    "uuid": "765be036-195b-48cd-a766-810cf0c8959f"
+  },
+  {
+    "name": "réduction PVC 100/63",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "",
+    "qty": 6,
+    "price": 700,
+    "uuid": "d6d42fe1-f561-4b38-8784-40bc1933a8cc"
+  },
+  {
+    "name": "Rivet 4/12 en 500 pcs ",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "2bbaa6a5-2ce2-4f3f-b78b-922fb2d26e11.jpg",
+    "qty": 1,
+    "price": 1100,
+    "uuid": "07d450e5-3e35-4166-a0bb-cce8571bbbe1"
+  },
+  {
+    "name": "RIVET 4/12 EN 500PC",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "2bbaa6a5-2ce2-4f3f-b78b-922fb2d26e11.jpg",
+    "qty": 4,
+    "price": 1200,
+    "uuid": "ee1989f6-fb0e-4f22-8a6b-0ef0f420de3b"
+  },
+  {
+    "name": "RIVET 5/19 EN 500PC",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "99f8b29b-23ff-4f9c-9147-b7c51edc3bb9.jpeg",
+    "qty": 4,
+    "price": 2200,
+    "uuid": "f7442ef0-aa94-4a5f-b41d-8cbbc5290f6e"
+  },
+  {
+    "name": "Rivet 5/19 en 500pc",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "e6c2cf58-dae3-4502-b5be-6440237d9410.jpeg",
+    "qty": 2,
+    "price": 2200,
+    "uuid": "b03bfb8e-acee-4dd1-9bd5-ef8f55d2052b"
+  },
+  {
+    "name": "ROBINET 15/21",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "218b532d-e521-489d-9b50-d90bce6b0d36.jpeg",
+    "qty": 3,
+    "price": 1000,
+    "uuid": "e4fd882b-3a59-4377-8b88-bdffdc66a2ee"
+  },
+  {
+    "name": "Robinet equerre GRK500PC/C",
+    "category": "Plomberie",
+    "unit": "pièce ",
+    "image": "624fb936-3dc9-4054-b887-5b0d24b8eac0.jpeg",
+    "qty": 1,
+    "price": 800,
+    "uuid": "c780359c-d9b9-4746-849b-4d8e74869200"
+  },
+  {
+    "name": "robinet NF20/27",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "7093813d-e2bd-4e78-bd0e-c1b2fc7aac5d.jpeg",
+    "qty": 5,
+    "price": 650,
+    "uuid": "e2266712-bd43-43f7-ae78-013f169195fd"
+  },
+  {
+    "name": "rondelle  à tôle plaque",
+    "category": "Outillage",
+    "unit": "plaque",
+    "image": "48f325db-00fe-47c6-baed-c3e4acc37a50.jpeg",
+    "qty": 20,
+    "price": 175,
+    "uuid": "41aa8287-6ece-4a42-9feb-c0c78c1c41a7"
+  },
+  {
+    "name": "RONDELLE A TOLE ",
+    "category": "Outillage",
+    "unit": "PLAQUETTES",
+    "image": "48f325db-00fe-47c6-baed-c3e4acc37a50.jpeg",
+    "qty": 20,
+    "price": 175,
+    "uuid": "64ad441c-b89f-4d8b-bcb9-30ce89740e87"
+  },
+  {
+    "name": "RONDELLE A TOLE ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "48f325db-00fe-47c6-baed-c3e4acc37a50.jpeg",
+    "qty": 3,
+    "price": 150,
+    "uuid": "08eea288-f42b-4996-923c-e68d454f734a"
+  },
+  {
+    "name": "RONDELLE A TOLE PLAQUE",
+    "category": "Outillage",
+    "unit": "PLAQUET",
+    "image": "48f325db-00fe-47c6-baed-c3e4acc37a50.jpeg",
+    "qty": 10,
+    "price": 175,
+    "uuid": "7771afb2-2eae-41f9-ab2f-7b0dad09f6a0"
+  },
+  {
+    "name": "rouleau peintre pigeon GM",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "fafcf20e-3546-4365-9d18-979845706c99.jpeg",
+    "qty": 10,
+    "price": 950,
+    "uuid": "aece219c-5eb5-4d6f-818f-d78750a3eafe"
+  },
+  {
+    "name": "ROULEAU PEINTRE PIGEON PM",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "fafcf20e-3546-4365-9d18-979845706c99.jpeg",
+    "qty": 10,
+    "price": 800,
+    "uuid": "263cd2f4-8ab0-4566-b81c-21e4c898a65c"
+  },
+  {
+    "name": "rouleau peintre pigeon PM",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "fafcf20e-3546-4365-9d18-979845706c99.jpeg",
+    "qty": 10,
+    "price": 850,
+    "uuid": "e39ee4e4-a6fd-4c77-80c6-cd5b2960db74"
+  },
+  {
+    "name": "rouleau peintre pigeon PM",
+    "category": "Peinture",
+    "unit": "pièce",
+    "image": "fafcf20e-3546-4365-9d18-979845706c99.jpeg",
+    "qty": 15,
+    "price": 850,
+    "uuid": "921df3be-4661-42eb-8db3-5d288ed729fe"
+  },
+  {
+    "name": "Rouleau peintre radiateur ",
+    "category": "Peinture",
+    "unit": "rouleaux",
+    "image": "7ed385e5-6a5e-490f-aa08-6413a37a6871.jpg",
+    "qty": 20,
+    "price": 250,
+    "uuid": "98192e80-e83b-4d1e-a8bd-64df7242dfaf"
+  },
+  {
+    "name": "Rouleau peintreradiateur ",
+    "category": "Peinture",
+    "unit": "rouleaux",
+    "image": "7ed385e5-6a5e-490f-aa08-6413a37a6871.jpg",
+    "qty": 40,
+    "price": 250,
+    "uuid": "e7cf3bb4-56f6-47ca-88ed-5b623fc90da3"
+  },
+  {
+    "name": "ROULEAU RADIATEUR ",
+    "category": "Peinture",
+    "unit": "ROULEAUX",
+    "image": "77d4cf09-4e16-4a7a-8fdd-a0799ac2d237.jpeg",
+    "qty": 10,
+    "price": 250,
+    "uuid": "8354a857-372e-4c83-aa9a-636f8d3d5f42"
+  },
+  {
+    "name": "SCIE A BOIS MANCHE EN BOIS N° 18",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b6e6752b-3994-4704-b0ca-fc5858b1948e.png",
+    "qty": 2,
+    "price": 1100,
+    "uuid": "277cec94-045f-4f94-8011-77180aace7a2"
+  },
+  {
+    "name": "SCIE A BOIS MANCHE EN BOIS N°24",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 2,
+    "price": 1300,
+    "uuid": "b70b651a-c7c7-40ae-8d46-867814cb8a54"
+  },
+  {
+    "name": "SCIE A BOIS MANCHE EN FER 22",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 2,
+    "price": 1700,
+    "uuid": "3db29008-d487-4db3-862f-29a3bf017626"
+  },
+  {
+    "name": "SCIE A BOIS MANCHE FER 18",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 2,
+    "price": 1600,
+    "uuid": "fef86ec1-3537-47ea-91c3-4a4126e148f5"
+  },
+  {
+    "name": "Scie à bois manche noir GM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 6,
+    "price": 2800,
+    "uuid": "2e7980db-61a0-4758-a880-91e6ffde583b"
+  },
+  {
+    "name": "scie à bois N°28 manche noir GM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 2,
+    "price": 3000,
+    "uuid": "404b88e0-0db2-4766-bdb9-9c00b202f0f8"
+  },
+  {
+    "name": "scie à bois noir 18",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6e8873c2-67f4-47ed-914c-da540ce9c114.jpeg",
+    "qty": 2,
+    "price": 2500,
+    "uuid": "cdfbfd7c-63b3-4341-86bf-38944422afcc"
+  },
+  {
+    "name": "Scie à bois noir 18",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "6e8873c2-67f4-47ed-914c-da540ce9c114.jpeg",
+    "qty": 10,
+    "price": 2500,
+    "uuid": "5eec344c-7192-4061-bd06-1a89083ee2a4"
+  },
+  {
+    "name": "Scie à bois noir 28",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "d315c914-7921-48a7-aa9e-ca4b082a3155.jpeg",
+    "qty": 2,
+    "price": 2800,
+    "uuid": "fc24e586-f08b-4dba-a297-4045d6ef31f4"
+  },
+  {
+    "name": "SCIE A BOIS ORIGINAL PANYIL GM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 1,
+    "price": 3300,
+    "uuid": "2f6d4612-12d9-44e5-9557-0d5f1882d9a2"
+  },
+  {
+    "name": "SCIE A BOIS ORIGINAL PANYIL PM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 5,
+    "price": 3000,
+    "uuid": "69c08908-bf7f-4188-a35e-6686753e4ab5"
+  },
+  {
+    "name": "scie à bois professionnelle de 20",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 2300,
+    "uuid": "83226a67-c37b-4180-bd64-32702d5003d0"
+  },
+  {
+    "name": "scie à bois professionnelle de 22",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 10,
+    "price": 2400,
+    "uuid": "f9de193f-c27c-41e1-9740-170c3953f93f"
+  },
+  {
+    "name": "SCIE PROFESSIONNAL 20MM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 3,
+    "price": 2400,
+    "uuid": "91f84c2a-aaa0-4af0-897c-b052a99b3a44"
+  },
+  {
+    "name": "SCOCH CARTON TRANSPARENT AMSUA",
+    "category": "Autre",
+    "unit": "JEUX",
+    "image": "",
+    "qty": 2,
+    "price": 1900,
+    "uuid": "e7edba3c-b013-470d-8ff4-5504abac4795"
+  },
+  {
+    "name": "scotch carton transparent amsua",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "970a7a70-3459-477f-9f98-64d49638e4dc.jpeg",
+    "qty": 30,
+    "price": 335,
+    "uuid": "c3ed198e-dd8c-4fec-8ccf-76e5022b3aac"
+  },
+  {
+    "name": "scotch carton transparent GM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "77d1ba1c-034b-4174-8c21-803bbcea7814.jpeg",
+    "qty": 6,
+    "price": 1000,
+    "uuid": "4ce987b0-a662-4359-81d8-ef9654feaf6f"
+  },
+  {
+    "name": "Scotch transparente moyen 6pcs",
+    "category": "Autre",
+    "unit": "rouleaux",
+    "image": "646aacd7-8b6a-4d66-9aed-d77cc6625fc4.png",
+    "qty": 3,
+    "price": 2000,
+    "uuid": "38793fe7-56dc-4fff-b9a1-27fcbdfffea9"
+  },
+  {
+    "name": "seau maçon  caoutchouc leger",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2ee0b20b-1190-4144-8fd3-990064184eca.jpg",
+    "qty": 10,
+    "price": 600,
+    "uuid": "5107eb16-7e0e-43af-b11b-1c0fedc89973"
+  },
+  {
+    "name": "SEAU MACON CAOUTCHOUC LEGER",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2ee0b20b-1190-4144-8fd3-990064184eca.jpg",
+    "qty": 20,
+    "price": 600,
+    "uuid": "f76110ca-f861-4c43-b898-c29a12d8b5bb"
+  },
+  {
+    "name": "Seau maçon caoutchouc leger",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2ee0b20b-1190-4144-8fd3-990064184eca.jpg",
+    "qty": 30,
+    "price": 600,
+    "uuid": "12bd7611-2028-48d7-b355-617f39675ec7"
+  },
+  {
+    "name": "SEAU MACON PM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "d2b6753e-7953-4054-9969-e02a6c68c530.jpeg",
+    "qty": 35,
+    "price": 650,
+    "uuid": "2caf3163-0530-443e-8e5d-33242c8eeb39"
+  },
+  {
+    "name": "SEAU MACON PM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "d2b6753e-7953-4054-9969-e02a6c68c530.jpeg",
+    "qty": 5,
+    "price": 650,
+    "uuid": "274a3312-dd76-47f6-ac28-4bcbb9952d13"
+  },
+  {
+    "name": "Seau manche protegé ",
+    "category": "Outillage",
+    "unit": "seau ",
+    "image": "664661bf-3197-4e25-aab9-625302e29a6c.jpeg",
+    "qty": 10,
+    "price": 750,
+    "uuid": "0eda3769-eb35-4243-9054-be5af6f69f6f"
+  },
+  {
+    "name": "SEAUX MACONS CAHOUTCHOUC LEGER",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "2ee0b20b-1190-4144-8fd3-990064184eca.jpg",
+    "qty": 5,
+    "price": 600,
+    "uuid": "5187814a-4a30-4e6e-9ddd-1401c3b0f2f4"
+  },
+  {
+    "name": "Serpière S1",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "9834b5af-955f-427e-aad9-45177f7f7d83.jpeg",
+    "qty": 10,
+    "price": 600,
+    "uuid": "5e275906-bbcb-4c5b-864f-6d706dcd88a6"
+  },
+  {
+    "name": "serpière S1",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "9834b5af-955f-427e-aad9-45177f7f7d83.jpeg",
+    "qty": 10,
+    "price": 600,
+    "uuid": "85357843-30e0-4e6a-98e8-67f94b81f26c"
+  },
+  {
+    "name": "Serpière S2",
+    "category": "Sanitaire",
+    "unit": "pièce",
+    "image": "efd56b40-9a89-441c-ad93-28abbf1eb994.jpeg",
+    "qty": 10,
+    "price": 450,
+    "uuid": "79360727-3640-4673-8961-1b8ddafc4c96"
+  },
+  {
+    "name": "SERRURE A CANON 124/126",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "0c88ae4f-823a-47d4-a9bb-b43b0b191802.jpeg",
+    "qty": 12,
+    "price": 4800,
+    "uuid": "17fa6f85-7491-4d1c-a994-3cb0e0a581be"
+  },
+  {
+    "name": "serrure à canon 124/126",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "054ddcd2-83e6-4a6e-b564-14cece7bd0e4.jpeg",
+    "qty": 12,
+    "price": 5083,
+    "uuid": "a743ea1e-2f4a-4d03-915e-8d35b7ca5c3b"
+  },
+  {
+    "name": "serrure à canon clé d'or",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "65edee38-792e-4bdc-93fe-c265e2886ef8.jpg",
+    "qty": 4,
+    "price": 2300,
+    "uuid": "aa7654eb-7f99-4341-b331-12a0f639055d"
+  },
+  {
+    "name": "Serrure à canon clé d'or ref 108",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "65edee38-792e-4bdc-93fe-c265e2886ef8.jpg",
+    "qty": 2,
+    "price": 2250,
+    "uuid": "bcd4fb41-949c-403d-a809-a3b3c0176eaf"
+  },
+  {
+    "name": "Serrure à conon ARM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "36b6543c-9dff-4626-8ead-6ccd0f2d097d.jpg",
+    "qty": 2,
+    "price": 4600,
+    "uuid": "6ec6b28a-0988-491b-b89f-48421232f002"
+  },
+  {
+    "name": "serrure vachette à canon blanc",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "50cfcd12-b03c-4035-bc7e-cc776fad9fc9.jpeg",
+    "qty": 3,
+    "price": 3900,
+    "uuid": "bb5339b5-3943-4200-9825-0d000ee43fcb"
+  },
+  {
+    "name": "serrure vachette à connon blanc/rouge S4",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "3c01c81e-39b4-46d7-a3a5-ef457cfbeb39.jpeg",
+    "qty": 3,
+    "price": 3900,
+    "uuid": "c91d5ddf-d81a-4dd6-bf1e-7f1e1b23522a"
+  },
+  {
+    "name": "Serrure vachette original 54",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1296bf5a-a4b9-4418-b963-d2b6cf7c2439.jpg",
+    "qty": 10,
+    "price": 3900,
+    "uuid": "a507584a-865e-4cb4-b04c-7e37236c3b3b"
+  },
+  {
+    "name": "SICALITE ORIGINALE",
+    "category": "Ciment",
+    "unit": "UNITE ",
+    "image": "de93e40f-5b34-425c-82d9-781666586f67.jpeg",
+    "qty": 4,
+    "price": 500,
+    "uuid": "f31370a0-41e2-4b7c-8866-f49c472fa0d0"
+  },
+  {
+    "name": "super déboucheur ",
+    "category": "Plomberie",
+    "unit": "bouteilles",
+    "image": "b53e4d63-be85-41c7-9b1f-842ffcafe96b.jpeg",
+    "qty": 13,
+    "price": 1000,
+    "uuid": "91f0777d-aabd-437e-b647-374826bd3b1e"
+  },
+  {
+    "name": "taloche plastique moyen",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "9d396a44-cd9d-43bb-8101-0f6e31658abb.jpeg",
+    "qty": 5,
+    "price": 1500,
+    "uuid": "41538779-836e-4e2f-a97d-0debab9c805a"
+  },
+  {
+    "name": "taloche plastique moyen",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "649113e7-2606-47cb-a75e-4852f6b85012.jpeg",
+    "qty": 5,
+    "price": 1700,
+    "uuid": "bd1bc307-f7e1-44ca-bf94-b8cd81d569bf"
+  },
+  {
+    "name": "Taloche plastique moyen ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "649113e7-2606-47cb-a75e-4852f6b85012.jpeg",
+    "qty": 10,
+    "price": 1700,
+    "uuid": "db9fa914-1141-49d3-a79e-d0a08f3a5454"
+  },
+  {
+    "name": "taloche plastique moyen S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "649113e7-2606-47cb-a75e-4852f6b85012.jpeg",
+    "qty": 3,
+    "price": 1450,
+    "uuid": "e3648eb8-1113-436b-8114-08b055ba3acc"
+  },
+  {
+    "name": "TALOCHE PLASTIQUE MOYENNE",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "649113e7-2606-47cb-a75e-4852f6b85012.jpeg",
+    "qty": 5,
+    "price": 1600,
+    "uuid": "69265d54-6da5-4dbe-9c6c-3fa27d7f8b23"
+  },
+  {
+    "name": "Taloche plastique PM",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b78eb6dc-fad5-418d-be90-b9218b000115.jpg",
+    "qty": 5,
+    "price": 1100,
+    "uuid": "4501b330-69fc-4123-9920-0947c66909f8"
+  },
+  {
+    "name": "taloche plastique pm",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b78eb6dc-fad5-418d-be90-b9218b000115.jpg",
+    "qty": 10,
+    "price": 1200,
+    "uuid": "6eefe017-bd84-4630-a34a-d5eee0eebbc8"
+  },
+  {
+    "name": "taloche plastique PM S1",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "606811f7-2f61-4e52-ae37-f9005aab8eea.jpeg",
+    "qty": 15,
+    "price": 1200,
+    "uuid": "4114712e-18ad-4573-b21a-1b0f52cd0ed2"
+  },
+  {
+    "name": "té culotte de 100 ",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "5859d1a1-4d89-4e21-b606-1126b1f40ad5.jpg",
+    "qty": 15,
+    "price": 1200,
+    "uuid": "1203b0fd-4856-4791-8500-3372df333bd8"
+  },
+  {
+    "name": "té culotte de 63",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "74c8d8e9-e4d9-4899-9ebb-0a5df080fb44.jpeg",
+    "qty": 15,
+    "price": 700,
+    "uuid": "a7130ebd-287b-4fc0-ade0-0d731cda94eb"
+  },
+  {
+    "name": "Teinte unitint brun siena 014",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "debde927-f39e-472e-91d3-1d5455b118d2.jpg",
+    "qty": 5,
+    "price": 1050,
+    "uuid": "400a925a-ae50-424f-8eb6-b5369d715ba9"
+  },
+  {
+    "name": "Teinte unitint fast red 010",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "5f6d825e-fc39-495e-bcf8-5838eb0868b0.jpg",
+    "qty": 10,
+    "price": 1050,
+    "uuid": "21863e76-b5a0-46c6-af18-6e9fdc69d4bf"
+  },
+  {
+    "name": "Teinte unitint green 007",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "a0c3fe46-926b-4b72-b004-0ac0371558e7.jpg",
+    "qty": 5,
+    "price": 1050,
+    "uuid": "9cb60374-1a22-4a18-815c-2ef000fa1df3"
+  },
+  {
+    "name": "Teinte unitint vert citron 004",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "0d532c99-9d3b-4922-95d6-7b1355204d88.jpg",
+    "qty": 10,
+    "price": 1050,
+    "uuid": "bf0485f9-bbda-4daa-bc60-6327cc665b3f"
+  },
+  {
+    "name": "Teinte unitint violet 012",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "030a651c-cb13-4530-b178-0230740661a7.jpg",
+    "qty": 5,
+    "price": 1050,
+    "uuid": "c91cf799-98e8-4721-95db-0032cba3d238"
+  },
+  {
+    "name": "Teinte unitint yellow 001",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "c951a0b7-8c3d-4539-9b6c-7735c1cc7214.jpeg",
+    "qty": 5,
+    "price": 1050,
+    "uuid": "942c0b85-04ff-4fa6-8e53-1fa1aeedfaba"
+  },
+  {
+    "name": "Teinte unitint yellow oxide 005",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "3e1f6a66-920f-4793-96bd-111ae2128157.jpeg",
+    "qty": 5,
+    "price": 1050,
+    "uuid": "a4192c4d-a0b7-4000-8618-dc0f2bcfb295"
+  },
+  {
+    "name": "TEINTE UNIVERSELLE UNI TEINT GM BLEU VC",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "115f06a8-e466-4499-a439-ee7e68b2ebb0.jpeg",
+    "qty": 20,
+    "price": 1050,
+    "uuid": "f6b03ee1-6083-42f1-bd39-53309e434557"
+  },
+  {
+    "name": "Teinteunitint noir 014",
+    "category": "Peinture",
+    "unit": "boîte",
+    "image": "15610fb0-2562-42c1-89d0-23112a7fd283.jpg",
+    "qty": 5,
+    "price": 1050,
+    "uuid": "1bddfe86-9d9e-4aeb-8ffa-ee8e6e88eec1"
+  },
+  {
+    "name": "TENAILLE MACON N°8",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "845ea270-fae0-45c5-a325-559efb061ab7.jpg",
+    "qty": 12,
+    "price": 650,
+    "uuid": "b107d83b-fa39-4e2d-afa6-a34b785a1546"
+  },
+  {
+    "name": "Testeur jaune PM",
+    "category": "Electricité",
+    "unit": "paquet",
+    "image": "6d7b09ba-40d1-425b-923f-fac120e02945.jpg",
+    "qty": 2,
+    "price": 950,
+    "uuid": "19826970-5e33-4c20-8abc-137ee3259ddf"
+  },
+  {
+    "name": "testeur jaune PM",
+    "category": "Electricité",
+    "unit": "pièce",
+    "image": "6d7b09ba-40d1-425b-923f-fac120e02945.jpg",
+    "qty": 40,
+    "price": 50,
+    "uuid": "14e234d9-370b-4a6e-9801-3f3cd6239de5"
+  },
+  {
+    "name": "testeur jaune PM",
+    "category": "Electricité",
+    "unit": "pièce ",
+    "image": "6d7b09ba-40d1-425b-923f-fac120e02945.jpg",
+    "qty": 20,
+    "price": 50,
+    "uuid": "8f822f65-286b-485b-ab4f-f0ef539e8d59"
+  },
+  {
+    "name": "TESTEURS 2BOUTS EN 24 PCS",
+    "category": "Electricité",
+    "unit": "paquet",
+    "image": "18e3256b-8952-4e68-b317-0aa37b176dbd.jpg",
+    "qty": 1,
+    "price": 2000,
+    "uuid": "b638c22f-1133-47c5-8e6e-6dc1fcbf7b68"
+  },
+  {
+    "name": "tire fonds de 6/80m",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "02340f8c-7b80-4f26-94b8-0f8dfbaf2677.jpeg",
+    "qty": 2,
+    "price": 2000,
+    "uuid": "a540efec-5bc1-458e-969e-c58bb4b1d87c"
+  },
+  {
+    "name": "toiturol 400g",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "b2cf2a14-3de5-468c-a2f6-1b45b0c2ebd2.jpeg",
+    "qty": 2,
+    "price": 4500,
+    "uuid": "297050cf-00c1-4af3-ac2b-1cc18c4f43c7"
+  },
+  {
+    "name": "Toiturol 900g",
+    "category": "Autre",
+    "unit": "boîte",
+    "image": "52b2979f-40db-4829-8a98-f13fd11b154e.jpeg",
+    "qty": 3,
+    "price": 5800,
+    "uuid": "37b5ea08-fe41-4f9f-a1d6-d91ef1d2036b"
+  },
+  {
+    "name": "tole faitière ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "372fcd0c-515d-4865-a7f4-a983e8d9306d.jpeg",
+    "qty": 15,
+    "price": 1800,
+    "uuid": "ca1e1153-c219-41f4-ade1-1424e1e05c77"
+  },
+  {
+    "name": "tôle lise prélaquée bordeau légère",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "dc4a0892-fc18-4b25-97bb-52ff9637dab5.jpeg",
+    "qty": 20,
+    "price": 2800,
+    "uuid": "1791a2a1-3555-47cb-861e-c8f82e3a688e"
+  },
+  {
+    "name": "tôle lise prélaquée verte légère",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "dc4a0892-fc18-4b25-97bb-52ff9637dab5.jpeg",
+    "qty": 20,
+    "price": 3000,
+    "uuid": "ce91abce-0717-44af-8598-a70556591086"
+  },
+  {
+    "name": "TOLE LISSE EN ALUMINUM",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "eb140b58-6f29-4fe2-bed7-e8124d88c214.jpeg",
+    "qty": 20,
+    "price": 4800,
+    "uuid": "182c94e7-d6df-4bd5-bb21-ecad2407ad27"
+  },
+  {
+    "name": "tôle lisse prélaquée bordeau légère",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "7e8c7316-c49e-4a4c-a64b-5fc37f5f4489.jpeg",
+    "qty": 7,
+    "price": 2750,
+    "uuid": "40c644e1-83c5-4287-804e-0bb72bc6dd61"
+  },
+  {
+    "name": "Tôle lisse prélaquée bordeau légère ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "7e8c7316-c49e-4a4c-a64b-5fc37f5f4489.jpeg",
+    "qty": 10,
+    "price": 2800,
+    "uuid": "c0d0719e-b0cb-4eb7-b7d7-30fc1692026b"
+  },
+  {
+    "name": "tôle lisse prélaquée bordeau légère ",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "7e8c7316-c49e-4a4c-a64b-5fc37f5f4489.jpeg",
+    "qty": 40,
+    "price": 2900,
+    "uuid": "0c5423e3-1195-42df-9134-919b517fc71c"
+  },
+  {
+    "name": "Tôle ondulée Alluminium 3m",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "e52f8261-0117-4a5a-aeb2-2a72dd293aae.jpeg",
+    "qty": 80,
+    "price": 6300,
+    "uuid": "f67db924-f9a2-4a8c-b09d-0db12658e136"
+  },
+  {
+    "name": "Tôle ondulée alluminum 3m",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 30,
+    "price": 6600,
+    "uuid": "e0e50ab0-dd1e-4df4-a324-756ecc2c1951"
+  },
+  {
+    "name": "Tôle ondulée alluminum 3m",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 80,
+    "price": 6600,
+    "uuid": "4d1afa95-422a-4b49-8796-db182fea2c24"
+  },
+  {
+    "name": "tôle ondulée aluminium 3m",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 100,
+    "price": 6200,
+    "uuid": "6ab0a64f-b69f-4ea6-bedd-e2679bde855d"
+  },
+  {
+    "name": "TOLE ONDULEE ALUMINUM 2M",
+    "category": "Autre",
+    "unit": "FEUILLE",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 50,
+    "price": 4200,
+    "uuid": "d92b25d8-db25-445c-a7da-0b8fe99c7b70"
+  },
+  {
+    "name": "TOLE ONDULEE aluminum 3m",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 2,
+    "price": 6200,
+    "uuid": "8f8ea2c4-6c52-49c5-b9a2-b009b816297f"
+  },
+  {
+    "name": "Tôle ondulée aluminum 3m",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 200,
+    "price": 6200,
+    "uuid": "a8037be6-d69c-40d2-b3f6-f730c4c8884b"
+  },
+  {
+    "name": "Tôle ondulée aluminum 3m",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "1c005113-1a9c-4886-9fa8-2deb1e4290e4.jpeg",
+    "qty": 2,
+    "price": 6600,
+    "uuid": "5560bbbb-1b59-4360-99ee-8ac804a57e77"
+  },
+  {
+    "name": "tounevis américain 2 bouts ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 12,
+    "price": 350,
+    "uuid": "11a28004-ecfc-4ff5-8c65-b83e9863b309"
+  },
+  {
+    "name": "Tournevis 2 bouts drapeau Américain ",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "f0f2dca0-41a7-4919-a9c3-7bf21b7d5f1e.webp",
+    "qty": 1,
+    "price": 3400,
+    "uuid": "c4b00bec-03e8-4196-ab09-eadb09468203"
+  },
+  {
+    "name": "TRUELLE MACON N° 18",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "5849a632-bcbc-45fb-ab68-0320e5e0ad8a.jpeg",
+    "qty": 12,
+    "price": 500,
+    "uuid": "986d3381-a2e4-4f3f-97a8-def49b372b00"
+  },
+  {
+    "name": "Truelle maçon N° 18",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "5849a632-bcbc-45fb-ab68-0320e5e0ad8a.jpeg",
+    "qty": 5,
+    "price": 525,
+    "uuid": "6944a4b2-7881-4e3f-bcab-05eb2b2953e6"
+  },
+  {
+    "name": "TRUELLE MACON N° 20",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "fceea450-cbc9-4921-8bbd-d2309d014266.jpg",
+    "qty": 12,
+    "price": 600,
+    "uuid": "929b207c-23a5-4a0e-8c38-e7a3b31682a7"
+  },
+  {
+    "name": "TRUELLE MACON N° 20",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "a4a0f2f4-824e-4218-bb5b-f4280ce04e48.jpeg",
+    "qty": 10,
+    "price": 600,
+    "uuid": "990eba1a-2c6e-4e7b-b0cf-df7462df76da"
+  },
+  {
+    "name": "TRUELLE MACON N° 22",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "",
+    "qty": 12,
+    "price": 650,
+    "uuid": "6a34e138-6f90-48df-bfbb-30d49c65d5f4"
+  },
+  {
+    "name": "truelle maçon N°20",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "a4a0f2f4-824e-4218-bb5b-f4280ce04e48.jpeg",
+    "qty": 5,
+    "price": 575,
+    "uuid": "7bb89ec0-7bf4-40fb-9da7-d51214b15482"
+  },
+  {
+    "name": "Truelle maçon N°22 ",
+    "category": "Outillage",
+    "unit": "pièce",
+    "image": "b1e6dee3-bb36-41cc-8865-e6757e9ef93a.jpeg",
+    "qty": 5,
+    "price": 650,
+    "uuid": "1f6eae66-acd2-4c14-8756-701b2154c233"
+  },
+  {
+    "name": "tube mazda 120 (17 000)",
+    "category": "Luminaires",
+    "unit": "pièce",
+    "image": "",
+    "qty": 25,
+    "price": 680,
+    "uuid": "3c0695a5-7c96-4de8-b464-8029f4cbd159"
+  },
+  {
+    "name": "tuyau à gaz original ",
+    "category": "Plomberie",
+    "unit": "rouleaux",
+    "image": "c782241d-0eeb-4333-8647-1599db52b1f1.jpg",
+    "qty": 1,
+    "price": 4,
+    "uuid": "ed2aeb63-4615-41b4-a8e3-cc0b794fd164"
+  },
+  {
+    "name": "TUYAU D'ARROSAGE 20/27 EN 20M",
+    "category": "Outillage",
+    "unit": "rouleaux",
+    "image": "d29ee46c-52af-46d2-8126-be4f5c2b039c.jpg",
+    "qty": 1,
+    "price": 5000,
+    "uuid": "3e015e07-e770-44b0-a47f-9cb0b5cf21a2"
+  },
+  {
+    "name": "TUYAU D'ARROSAGE 20/27 EN 20M",
+    "category": "Outillage",
+    "unit": "rouleaux",
+    "image": "",
+    "qty": 1,
+    "price": 7500,
+    "uuid": "dd53fd7a-de38-4c2d-84ed-7c60b6574109"
+  },
+  {
+    "name": "tuyaux PVC de 100",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "9c275409-7353-4444-8c87-9acb0048d382.jpeg",
+    "qty": 5,
+    "price": 2400,
+    "uuid": "f842b71a-9636-4cd4-96ed-de2c39da5f0d"
+  },
+  {
+    "name": "tuyaux PVC de 63",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "140bec34-2c3e-4069-a909-276039af2fe1.jpeg",
+    "qty": 5,
+    "price": 1400,
+    "uuid": "db71f711-8a12-4487-9d9f-42772fe4dbe5"
+  },
+  {
+    "name": "tuyaux PVC simple de 100",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "140bec34-2c3e-4069-a909-276039af2fe1.jpeg",
+    "qty": 15,
+    "price": 2300,
+    "uuid": "7a20c084-c35a-4749-99f0-7f8072620942"
+  },
+  {
+    "name": "tuyaux PVC simple de 63",
+    "category": "Plomberie",
+    "unit": "pièce",
+    "image": "9c275409-7353-4444-8c87-9acb0048d382.jpeg",
+    "qty": 15,
+    "price": 1300,
+    "uuid": "813d5a6c-a8e2-497d-b53f-30c950ef2893"
+  },
+  {
+    "name": "vachette 136 original",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "967dbec7-f0a5-4855-9972-149875f911b7.jpg",
+    "qty": 4,
+    "price": 4300,
+    "uuid": "0c136534-66d6-4d15-9ef9-fffab4117176"
+  },
+  {
+    "name": "Vachette 136 S2",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "289446d9-89a1-478b-b411-fe1fbec68f35.jpg",
+    "qty": 5,
+    "price": 1700,
+    "uuid": "1e25bc4c-fd33-4705-aa99-97dafdcdd5e1"
+  },
+  {
+    "name": "VERROU A BAYONNETTE N°12",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "f7f9d24e-6ca0-452b-9f5e-57c6257f55d9.webp",
+    "qty": 1,
+    "price": 3800,
+    "uuid": "92225e0a-7e9c-4d1d-9e40-9ac5a119a654"
+  },
+  {
+    "name": "VERROU A BAYONNETTE N°14",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "014e455c-b1a8-4c6e-a481-2efc7d52196b.jpeg",
+    "qty": 1,
+    "price": 2500,
+    "uuid": "493d19d1-234e-4963-8191-36bcd7bda7d4"
+  },
+  {
+    "name": "VERROU COUDE N°10",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "",
+    "qty": 1,
+    "price": 2400,
+    "uuid": "819f1510-53ff-4919-8e37-7baa750ec3f3"
+  },
+  {
+    "name": "VERROU COUDE N°12",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "c0805b25-ff4f-4946-af70-815b0ed73469.jpeg",
+    "qty": 1,
+    "price": 3500,
+    "uuid": "70932c89-109b-4226-832b-192636dfbb8d"
+  },
+  {
+    "name": "VERROU COUDE N°14",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "cfb0b7e7-0945-4086-91b6-f10f606d5f0a.jpeg",
+    "qty": 1,
+    "price": 2500,
+    "uuid": "dd3b6afa-d23b-4c96-8466-bc66416d5fc9"
+  },
+  {
+    "name": "VERROU COUDE N°8",
+    "category": "Autre",
+    "unit": "paquet",
+    "image": "d30870a0-702d-4415-8e61-d64100ac8dc2.jpeg",
+    "qty": 1,
+    "price": 1800,
+    "uuid": "ebfa0438-aed8-46ec-8e30-fa1dea7941e6"
+  },
+  {
+    "name": "Verrou SDN 2 entree",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 4,
+    "price": 1300,
+    "uuid": "8abe05f0-da12-4d64-9958-95f257b3c0c8"
+  },
+  {
+    "name": "Verrou SDN une entree",
+    "category": "Autre",
+    "unit": "pièce ",
+    "image": "",
+    "qty": 5,
+    "price": 1150,
+    "uuid": "8b31aa9c-d436-46f2-9c21-ac4a5984f9ae"
+  },
+  {
+    "name": "VERROU VACHETTE V136 ORIGINAL",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "71927ae7-5eab-460f-8810-0013d1c0a483.jpg",
+    "qty": 3,
+    "price": 4400,
+    "uuid": "04e65f1a-8c8b-4179-b28c-f6586c093df4"
+  },
+  {
+    "name": "Verrou vachette V136 original",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "71927ae7-5eab-460f-8810-0013d1c0a483.jpg",
+    "qty": 5,
+    "price": 4400,
+    "uuid": "abc03ca5-deb7-41c6-83e3-1caf86b79104"
+  },
+  {
+    "name": "verrous parfait 136 S1",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "2a2cfeec-aa96-4f4b-ae07-9e4a586aee8f.jpeg",
+    "qty": 10,
+    "price": 4200,
+    "uuid": "7da540e1-ad21-422c-9cad-0a49fdc0c4a8"
+  },
+  {
+    "name": "verrous ZX10 (2 300)",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 24,
+    "price": 195,
+    "uuid": "3e2a8498-b0a9-4a97-b88a-8b3f284d1064"
+  },
+  {
+    "name": "verrous ZX8  (1 800)",
+    "category": "Autre",
+    "unit": "pièce",
+    "image": "",
+    "qty": 24,
+    "price": 150,
+    "uuid": "9bb6a838-b5bd-45ed-957a-89542503acc7"
+  },
+  {
+    "name": "VIS 4/25",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "837104da-9f3a-4556-b08b-391c5d0b4426.jpeg",
+    "qty": 10,
+    "price": 300,
+    "uuid": "5d81ae53-2b72-4488-ae35-fcf3d62a5114"
+  },
+  {
+    "name": "vis 4/25 original ",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "bf0eed9d-b0e8-4738-ab1b-f44369cfdd21.jpeg",
+    "qty": 5,
+    "price": 350,
+    "uuid": "b27417c5-5fe7-4fe4-84e3-95aaae077ba9"
+  },
+  {
+    "name": "vis à bois dorée  4/30 Pqt rouge",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "c73ca48b-3d67-4b3e-a450-3a8173f8fbdf.jpeg",
+    "qty": 10,
+    "price": 550,
+    "uuid": "48291e31-bbe7-4e05-a6e4-2fb145270748"
+  },
+  {
+    "name": "Vis cache tête 400PC/CRT",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "0433dedd-29b3-49de-8145-aad20ebbce66.jpg",
+    "qty": 2,
+    "price": 300,
+    "uuid": "2ba35350-fe09-4725-8378-b572d95ce047"
+  },
+  {
+    "name": "Vis de rappel original dima star",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "f35110d5-8e75-4c58-be57-cff51e1ca10c.png",
+    "qty": 1,
+    "price": 17000,
+    "uuid": "33fc85ea-e166-4079-ac46-4c35470a0160"
+  },
+  {
+    "name": "vis original 4/25",
+    "category": "Outillage",
+    "unit": "paquet",
+    "image": "88fd8691-446a-44d1-a499-a118a9104c30.jpeg",
+    "qty": 20,
+    "price": 350,
+    "uuid": "74cb0ba3-1ba5-494f-bc1c-327b4c023bbf"
+  },
+  {
+    "name": "WC orient",
+    "category": "Outillage",
+    "unit": "pièce ",
+    "image": "f5237571-f302-4380-8698-7a97eb0a9f0e.jpg",
+    "qty": 1,
+    "price": 23000,
+    "uuid": "7cf46027-af9f-41af-9015-c27e89e44bb9"
+  },
+  {
+    "name": "white spirit ",
+    "category": "Peinture",
+    "unit": "litres ",
+    "image": "0bad84f3-fdb9-4123-8648-9fe42d37c289.png",
+    "qty": 24,
+    "price": 730,
+    "uuid": "7215e9ad-1173-468a-951f-a60d37c723f3"
+  },
+  {
+    "name": "XYLAMONT  EN  5 LITRE",
+    "category": "Peinture",
+    "unit": "BIDONS",
+    "image": "029209a2-d989-4076-941e-64d918d5c289.jpg",
+    "qty": 6,
+    "price": 1650,
+    "uuid": "22884393-5058-4a68-a3c7-0561b2f2c34a"
+  },
+  {
+    "name": "XYLAMONT  EN LITRE",
+    "category": "Peinture",
+    "unit": "LITRE",
+    "image": "d990ee92-98e0-4ec9-8053-9c8b8c60f7c0.jpg",
+    "qty": 20,
+    "price": 500,
+    "uuid": "e009d46b-9f92-458d-8070-422553124728"
+  }
+]

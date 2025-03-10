@@ -1,0 +1,18 @@
+{
+  "email": "Invalid email format",
+  "email_is_required": "The email cannot be empty",
+  "password": "The password must contain at least 8 characters including an uppercase letter, a lowercase letter, a number and a special character",
+  "password_is_required": "The password cannot be empty",
+  "first_name_is_required": "The first name cannot be empty",
+  "last_name_is_required": "The last name cannot be empty",
+  "role_is_required": "The role cannot be empty",
+  "role_must_be": "The role can only take the following values: customer, edimaster and admin",
+  "token_is_required": "The token cannot be empty",
+  "file_name_is_required": "The file name cannot be empty",
+  "title_fr_is_required": "French title cannot be empty",
+  "title_en_is_required": "English title cannot be empty",
+  "restaurant_name_is_required": "The restaurant name cannot be empty",
+  "restaurant_display_name_is_required": "The restaurant display name cannot be empty",
+  "restaurant_type_is_required": "The restaurant type is required",
+  "current_password_is_required": "The current password cannot be empty"
+}

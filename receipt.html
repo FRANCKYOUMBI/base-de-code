@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+      .receipt {
+          font-family: monospace;
+          width: 302px;
+          padding: 20px;
+          background-color: white;
+          box-shadow: 0 0 10px rgba(0,0,0,0.1);
+          margin: 20px auto;
+      }
+
+      .logo {
+          text-align: center;
+          margin-bottom: 15px;
+      }
+
+      .logo img {
+          height: 80px;
+      }
+
+      .header {
+          text-align: center;
+          /*border-top: 1px dotted #000;*/
+          border-bottom: 1px dotted #000;
+          padding: 10px 0;
+          margin-bottom: 20px;
+      }
+
+      .company-info {
+          margin-bottom: 20px;
+      }
+
+      .info-row {
+          display: flex;
+          justify-content: space-between;
+          margin-bottom: 5px;
+      }
+
+      .items {
+          margin-bottom: 20px;
+      }
+
+      .table-header {
+          display: flex;
+          justify-content: space-between;
+          border-bottom: 1px solid #000;
+          margin-bottom: 10px;
+          padding-bottom: 5px;
+          font-weight: bold;
+      }
+
+      .item-row {
+          display: flex;
+          justify-content: space-between;
+          margin-bottom: 5px;
+      }
+
+      .item-details {
+          flex: 1;
+      }
+
+      .quantity {
+          width: 30px;
+          text-align: right;
+          margin-right: 10px;
+      }
+
+      .price {
+          min-width: 80px;
+          text-align: right;
+      }
+
+      .total-section {
+          border-top: 1px solid #000;
+          padding-top: 10px;
+      }
+
+      .footer {
+          text-align: center;
+          margin-top: 20px;
+          padding-top: 20px;
+          border-top: 1px dotted #000;
+      }
+
+      .tax-info {
+          text-align: center;
+          margin-top: 15px;
+          font-size: 12px;
+          border-top: 1px dotted #000;
+          padding-top: 15px;
+      }
+
+      .barcode-container {
+          text-align: center;
+          margin-top: 20px;
+      }
+
+      .barcode {
+          display: inline-block;
+          height: 50px;
+          margin-bottom: 5px;
+      }
+
+      .barcode div {
+          display: inline-block;
+          height: 100%;
+          width: 3px;
+          margin-right: 1px;
+          background: #000;
+      }
+
+      .barcode-number {
+          font-size: 12px;
+          letter-spacing: 2px;
+      }
+  </style>
+</head>
+<body>
+<div class="receipt">
+  <div class="header">
+    <h2>RECEIPT</h2>
+    <div class="logo">
+      <img src="https://22400058.fs1.hubspotusercontent-na1.net/hub/22400058/hubfs/black-logo-chanel.jpg?width=1920&name=black-logo-chanel.jpg" alt="Company Logo">
+    </div>
+    <div>COMPANY NAME</div>
+  </div>
+
+  <div class="company-info">
+    <div class="info-row">
+      <span>Address:</span>
+      <span>Lorem Ipsum 8/24</span>
+    </div>
+    <div class="info-row">
+      <span>Date:</span>
+      <span>MM/DD/YYYY</span>
+    </div>
+    <div class="info-row">
+      <span>Manager:</span>
+      <span>Lorem Ipsum</span>
+    </div>
+  </div>
+
+  <div class="items">
+    <div class="table-header">
+      <span class="quantity">Qty</span>
+      <span class="item-details">Description</span>
+      <span class="price">Price</span>
+    </div>
+
+    <div class="item-row">
+      <span class="quantity">1x</span>
+      <span class="item-details">Orange Juice</span>
+      <span class="price">1,075 FCFA</span>
+    </div>
+    <div class="item-row">
+      <span class="quantity">2x</span>
+      <span class="item-details">Apples</span>
+      <span class="price">1,750 FCFA</span>
+    </div>
+    <div class="item-row">
+      <span class="quantity">3x</span>
+      <span class="item-details">Tomato</span>
+      <span class="price">1,200 FCFA</span>
+    </div>
+    <div class="item-row">
+      <span class="quantity">1x</span>
+      <span class="item-details">Fish</span>
+      <span class="price">13 495 FCFA</span>
+    </div>
+    <div class="item-row">
+      <span class="quantity">2x</span>
+      <span class="item-details">Beef</span>
+      <span class="price">5 000 FCFA</span>
+    </div>
+    <div class="item-row">
+      <span class="quantity">1x</span>
+      <span class="item-details">Onion</span>
+      <span class="price">625 FCFA</span>
+    </div>
+    <div class="item-row">
+      <span class="quantity">2x</span>
+      <span class="item-details">Cheese</span>
+      <span class="price">10 700 FCFA</span>
+    </div>
+  </div>
+
+  <div class="total-section">
+    <div class="item-row">
+      <span class="item-details">Tax</span>
+      <span class="price"></span>
+    </div>
+    <div class="item-row">
+      <span class="item-details"><strong>TOTAL</strong></span>
+      <span class="price"><strong>140 845 FCFA</strong></span>
+    </div>
+  </div>
+
+  <div class="footer">
+    THANK YOU
+  </div>
+
+  <div class="barcode-container">
+    <div class="barcode">
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+      <div></div><div></div><div></div><div></div>
+    </div>
+    <div class="barcode-number">123456778963578021</div>
+  </div>
+
+  <div class="tax-info">
+    NUI: 123456789<br>
+    RCCM: AB-XYZ-12-2024
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "email_or_password_invalid": "Your email or password is invalid",
+  "account_unverified": "Your account is not verified, please check your email",
+  "unauthenticated": "You are not authenticated to access this resource",
+  "unauthorized": "You are not authorized to access this resource",
+  "account_with_email_not_found": "Account with email {email} not found",
+  "account_is_disabled": "Your account is disabled please contact support",
+  "we_have_send_a_mail_with_reset_password_link": "We have sent a mail with reset password link into your mailbox",
+  "password_reset_token_invalid_or_expired": "Password reset token is invalid or expired",
+  "account_not_exists": "Account not exists",
+  "successfully_reset_password": "Password successfully reset",
+  "account_create_successfully": "account_create_successfully",
+  "validate_account_token_invalid_or_expired": "Validate account token is invalid or expired",
+  "invalid_current_password": "Invalid current password",
+  "password_updated": "Password updated successfully"
+}

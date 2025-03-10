@@ -1,0 +1,4 @@
+{
+  "user_with_email_exists": "User with email {email} already exists",
+  "user_not_exists": "This user does not exist"
+}
