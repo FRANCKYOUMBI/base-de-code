@@ -20,6 +20,8 @@ export type I18nTranslations = {
         "validate_account_token_invalid_or_expired": string;
         "invalid_current_password": string;
         "password_updated": string;
+        "already_logged_in": string;
+        "logout_success": string;
     };
     "common": {
         "internal_server_error": string;

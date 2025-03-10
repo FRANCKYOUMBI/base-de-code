@@ -11,5 +11,7 @@
   "successfully_reset_password": "Mot de passe réinitialisé avec succès",
   "account_create_successfully": "Nous vous avons envoyé un mail pour finaliser la création de votre compte!",
   "invalid_current_password": "Le mot de passe actuel est invalide",
-  "password_updated": "Mot de passe mis à jour avec succès"
+  "password_updated": "Mot de passe mis à jour avec succès",
+  "already_logged_in": "Vous êtes déjà connecté à un autre appareil. Svp déconnectez-vous de ce dernier puis réessayez!",
+  "logout_success": "Déconnexion réussie."
 }

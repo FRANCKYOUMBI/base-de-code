@@ -32,8 +32,10 @@ export class AuthsController {
   @Public()
   @HttpCode(HttpStatus.OK)
   @ApiOperation({ summary: 'Login user with email and password' })
-  login(@Body() authInput: AuthInput) {
-    return this.authsService.login(authInput);
+  login(@Body() authInput: AuthInput, @Request() req) {
+    const deviceInfo = req.headers['user-agent'] || 'unknown';
+    const ipAddress = req.ip || req.connection.remoteAddress;
+    return this.authsService.login(authInput, deviceInfo, ipAddress);
   }
 
   @Get('/me')
@@ -68,5 +70,14 @@ export class AuthsController {
     @Body() updatePasswordInput: UpdatePasswordInput,
   ): Promise<UpdatePasswordOutput> {
     return this.authsService.updatePassword(req.user, updatePasswordInput);
+  }
+
+  @Post('/logout')
+  @UseGuards(AuthsGuard)
+  @ApiBearerAuth()
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Logout user and invalidate session' })
+  async logout(@Request() req) {
+    return this.authsService.logout(req.user);
   }
 }

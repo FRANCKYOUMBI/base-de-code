@@ -38,12 +38,46 @@ export class AuthsService {
     private readonly storageService: StoragesService,
   ) { }
 
-  async login(authInput: AuthInput) {
+  async login(authInput: AuthInput, deviceInfo?: string, ipAddress?: string) {
     const user = await this.validateUser(authInput.email, authInput.password);
+    
+    // Vérifier si l'utilisateur est déjà connecté sur un autre appareil
+    const activeSession = await this.usersService.findActiveSessionByUserUuid(user.uuid);
+    if (activeSession) {
+      try {
+        // Vérifier si le token JWT de la session est toujours valide
+        await this.jwtService.verifyAsync(activeSession.jwtToken);
+        
+        // Vérifier si la session est expirée (72 heures d'inactivité)
+        const sessionExpired = new Date().getTime() - activeSession.lastActivity.getTime() > 72 * 60 * 60 * 1000;
+        
+        if (sessionExpired) {
+          // Désactiver la session expirée
+          await this.usersService.deactivateSession(activeSession.uuid);
+        } else if (deviceInfo && activeSession.deviceInfo !== deviceInfo) {
+          throw new HttpException(
+            this.i18n.t('auths.already_logged_in'),
+            HttpStatus.CONFLICT,
+          );
+        }
+      } catch (error) {
+        // Si le token JWT n'est plus valide, désactiver la session
+        await this.usersService.deactivateSession(activeSession.uuid);
+      }
+    }
+    
     const payload = { sub: user.uuid, email: user.email, role: user.role };
     user.password = undefined;
+    
+    const jwtToken = await this.jwtService.signAsync(payload);
+    
+    // Créer une nouvelle session
+    if (deviceInfo) {
+      await this.usersService.createUserSession(user.uuid, deviceInfo, ipAddress, jwtToken);
+    }
+    
     return {
-      token: await this.jwtService.signAsync(payload),
+      token: jwtToken,
       user: user,
     };
   }
@@ -271,6 +305,15 @@ export class AuthsService {
     await user.save();
     return {
       message: this.t('auths.password_updated'),
+    };
+  }
+
+  async logout(user: User) {
+    // Find and deactivate the user's active session
+    await this.usersService.deactivateAllUserSessions(user.uuid);
+    
+    return {
+      message: this.t('auths.logout_success'),
     };
   }
 }

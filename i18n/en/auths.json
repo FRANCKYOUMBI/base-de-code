@@ -12,5 +12,7 @@
   "account_create_successfully": "account_create_successfully",
   "validate_account_token_invalid_or_expired": "Validate account token is invalid or expired",
   "invalid_current_password": "Invalid current password",
-  "password_updated": "Password updated successfully"
+  "password_updated": "Password updated successfully",
+  "already_logged_in": "You are already logged in on another device. Please log out yourself from this device and retry!",
+  "logout_success": "Log out was successfully"
 }

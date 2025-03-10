@@ -21,8 +21,9 @@ export class UsersService {
     private readonly userRepository: Repository<User>,
     @InjectRepository(Token)
     private readonly tokenRepository: Repository<Token>,
+
     private readonly i18n: I18nService,
-  ) {}
+  ) { }
 
   async createToken(token: string): Promise<void> {
     await this.tokenRepository.create({ token }).save();
@@ -197,6 +198,65 @@ export class UsersService {
       throw new HttpException('Utilisateur non trouvé', HttpStatus.NOT_FOUND);
     }
     await user.remove();
+  }
+
+  async createUserSession(userUuid: string, deviceInfo: string, ipAddress?: string, jwtToken?: string): Promise<Token> {
+    // Vérifier si l'utilisateur a déjà une session active
+    const activeSession = await this.tokenRepository.findOne({
+      where: { userUuid, isActive: true },
+    });
+
+    if (activeSession) {
+      // Vérifier si la session est expirée (72 heures d'inactivité)
+      const sessionExpired = new Date().getTime() - activeSession.lastActivity.getTime() > 72 * 60 * 60 * 1000;
+
+      if (sessionExpired) {
+        // Désactiver la session expirée
+        activeSession.isActive = false;
+        await activeSession.save();
+      } else if (deviceInfo && activeSession.deviceInfo !== deviceInfo) {
+        throw new HttpException(
+          this.i18n.t('users.already_logged_in_other_device', {
+            lang: I18nContext.current().lang,
+          }),
+          HttpStatus.CONFLICT,
+        );
+      }
+    }
+
+    // Créer une nouvelle session
+    const token = this.tokenRepository.create({
+      userUuid,
+      deviceInfo,
+      ipAddress,
+      isActive: true,
+      token: jwtToken,
+      lastActivity: new Date()
+    });
+    return token.save();
+  }
+
+  async findActiveSessionByUserUuid(userUuid: string): Promise<Token | undefined> {
+    return this.tokenRepository.findOne({
+      where: { userUuid, isActive: true },
+    });
+  }
+
+  async deactivateSession(tokenUuid: string): Promise<void> {
+    const token = await this.tokenRepository.findOne({
+      where: { uuid: tokenUuid },
+    });
+    if (token) {
+      token.isActive = false;
+      await token.save();
+    }
+  }
+
+  async deactivateAllUserSessions(userUuid: string): Promise<void> {
+    await this.tokenRepository.update(
+      { userUuid, isActive: true },
+      { isActive: false }
+    );
   }
 
   getRoles(): ListRolesOutput {
